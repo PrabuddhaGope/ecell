@@ -1,38 +1,43 @@
         <footer class="g-bg-color--dark">
             <!-- Sponsors -->
-            <div class="g-bg-color--footer">
-                <div class="g-container--md g-padding-y-60--xs g-padding-y-80--sm">
+            <div class="footer">
+                <div class="g-text-center--xs g-margin-b-40--xs">
+                    <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Partners</p>-->
+                    <h2 class="g-font-size-32--xs g-font-size-36--md">Partners</h2>
+                </div>
+                <div class="container g-padding-y-40--xs g-padding-y-40--sm" id="partners">
                     <!-- Swiper Clients -->
                     <div class="container" id="foot">
                         <div class="row">
-                            <div class="col-md-2 col-sm-4 col-xs-6">
-                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".3s">
-                                    <img class="s-clients-v1" src="img/clients/TiE.png" alt="Clients Logo">
-                                </div>
-                            </div>
-                            <div class="col-md-2 col-sm-4 col-xs-6">
+
+                            <div class="col-md-2 col-sm-3 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".1s">
                                     <img class="s-clients-v1" src="img/clients/Make_In_India.png" alt="Clients Logo">
                                 </div>
                             </div>
 
-                            <div class="col-md-2 col-sm-4 col-xs-6">
-                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".2s">
-                                    <img class="s-clients-v1" src="img/clients/digital-india.png" alt="Clients Logo">
+
+                            <div class="col-md-2 col-sm-3 col-xs-6">
+                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".3s">
+                                    <img class="s-clients-v1" src="img/clients/TiE.png" alt="Clients Logo">
                                 </div>
                             </div>
-
-                            <div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="col-md-2 col-sm-3 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".4s">
                                     <img class="s-clients-v1" src="img/clients/CIVN.png" alt="Clients Logo">
                                 </div>
                             </div>
-                            <div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="col-md-2 col-sm-3 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".5s">
                                     <img class="s-clients-v1" src="img/clients/pmyuva.png" alt="Clients Logo">
                                 </div>
                             </div>
-                            <div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="col-md-2 col-sm-3 col-xs-6">
+                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".2s">
+                                    <img class="s-clients-v1" src="img/clients/digital-india.png" alt="Clients Logo">
+                                </div>
+                            </div>
+                            <div class="col-md-2 col-sm-3 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".5s">
                                     <img class="s-clients-v1" src="img/clients/vnit_aa.png" alt="Clients Logo">
                                 </div>
@@ -48,7 +53,7 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-4 col-lg-4">
                         <a href="index.php">
-                            <img class="g-width-100--xs g-height-auto--xs" src="img/logo.png" alt="Consortium Logo">
+                            <img class="g-width-100--xs g-height-auto--xs" src="img/logo-ecell.png" alt="Ecell Logo">
                         </a>
                         <br><br>
                         <a class="s-header__action-link" href=" https://m.facebook.com/vnitecell/">
@@ -77,9 +82,9 @@
                             <p class="g-color--white-light">For Sponsorship Opportunities Contact:<br><b>sponsorship@ecellvnit.org<b></p>
                             <p class="g-color--white-light">For Speaking Opportunities Contact:<br><b>speaker@ecellvnit.org</b></p>
                     </div>
-                    <div class="col-sm-12 col-md-4 col-lg-4 g-text-right--md">
-                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">Copyright@ <a href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a><br>Designed by: <a href="http://www.prisag.xyz/" target="_blank">Prisag.xyz</a></p>
-                    </div>
+                    <!--<div class="col-sm-12 col-md-4 col-lg-4 g-text-right--md">-->
+                    <!--    <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">Copyright@ <a href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a><br>Designed by: <a href="http://www.prisag.xyz/" target="_blank">Prisag.xyz</a></p>-->
+                    <!--</div>-->
                 </div>
             </div>
             <!-- End Copyright -->

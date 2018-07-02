@@ -33,10 +33,10 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Consortium'18 | E-CELL, VNIT</title>
+        <title>E-CELL | VNIT</title>
         <meta name="keywords" content="Ecell vnit E-cell VNIT entreprenuship cell consortium 18 2018 consortium'18 vnit consortium " />
-        <meta name="description" content="Consortium'18 E-CELL VNIT annual entrepreneurship summit">
-        <meta name="author" content="Vipul Wairagade">
+        <meta name="description" content="E-CELL VNIT">
+        <meta name="author" content="Sagar Bansal">
 
         <!-- Web Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -76,8 +76,8 @@ if ( isset( $_POST['submitexpo'] ) ) {
                             <!-- Logo -->
                             <div class="s-header__logo">
                                 <a href="#" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo.png" alt="Consortium Logo">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-conso.png" alt="Consortium Logo">
+                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo-ecell.png" alt="Ecell Logo">
+                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-ecell-sm.png" alt="Ecell Logo">
                                 </a>
                             </div>
                             <!-- End Logo -->
@@ -145,61 +145,74 @@ if ( isset( $_POST['submitexpo'] ) ) {
         </header>
         <!--========== END HEADER ==========-->
 
-        <!--========== SWIPER SLIDER ==========-->
-        <div class="s-swiper js__swiper-one-item">
-            <!-- Swiper Wrapper -->
-            <div class="swiper-wrapper">
-                <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/02.jpg');">
-                    <div class="container g-text-center--xs g-ver-center--xs">
-                        <div class="g-margin-b-30--xs">
-                            <h1 class="g-font-size-45--xs g-font-size-55--sm g-font-size-75--md g-color--white"><strong>Consortium</strong><br></h1>
-                            <h2 class="g-color--white">9-11th March<br>VNIT, Nagpur</h2>
-			    <a class="btn btn-primary" href="https://apti.ecellvnit.org/" target="_blank" role="button">Register for Brainathon</a>
+        <!--========== PROMO BLOCK ==========-->
+        <div class="s-promo-block-v3 g-bg-position--center g-fullheight--sm" style=";"id='skew1' >
+            <div class="container g-ver-center--sm g-padding-y-125--xs g-padding-y-0--sm">
+                <div class="g-margin-t-30--xs g-margin-t-0--sm g-margin-b-30--xs g-margin-b-70--md">
+                    <h1 class="g-font-size-20--xs g-font-size-40--sm g-font-size-60--lg g-color--white g-font-weight--600">THE<br>ENTREPRENEURSHIP<br><span style="color:#2c83cc;">CELL</span></h1>
+                </div>
+                <div class="row">
+                    <div class="col-sm-8 col-sm-push-4 g-margin-b-50--xs g-margin-b-0--md">
+                        <div class="s-promo-block-v3__divider g-display-none--xs g-display-block--md"></div>
+                        <div class="row">
+                            <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
+                                <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
+                                    <p class="g-font-size-20--xs g-color--white">Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-5 col-sm-offset-1">
+                                <div class="clearfix">
+                                    <div class="pull-left">
+                                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
+                                            <span class="s-promo-block-v3__date g-font-size-60--xs g-font-size-30--sm g-font-size-50--lg g-font-weight--600 g-color--primary">E-CELL<br><span class="g-font-size-20--xs g-font-size-30--lg">VNIT</span></span>
+                                        </div>
+                                    </div>
+                                    <!--<div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">-->
+                                    <!--    <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Prize Worth</span>-->
+                                    <!--    <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">And more!</span>-->
+                                    <!--</div>-->
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/01.jpg');">
-                    <div class="container g-text-center--xs g-ver-center--xs">
-                        <div class="g-margin-b-30--xs">
-                            <div class="g-margin-b-30--xs">
-                                <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">push the human race forward</h1>
-				    <a class="btn btn-primary" href="https://apti.ecellvnit.org/" target="_blank" role="button">Register for Brainathon</a>
-                            </div>
-                            <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=lcFYdgZKZxY" title="Intro Video">
-                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>
-                            </a>-->
+                    <div class="col-sm-4 col-sm-pull-8">
+                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
+                            <a href="#about" title="Register">
+                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-down"></i>
+                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Scroll Down</span>
+                            </a>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- End Swiper Wrapper -->
-
-            <!-- Arrows -->
-            <a href="javascript:void(0);" class="s-swiper__arrow-v1--right s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-right js__swiper-btn--next"></a>
-            <a href="javascript:void(0);" class="s-swiper__arrow-v1--left s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-left js__swiper-btn--prev"></a>
-            <!-- End Arrows -->
         </div>
-        <!--========== END SWIPER SLIDER ==========-->
+        <!--========== END PROMO BLOCK ==========-->
 
         <!--========== PAGE CONTENT ==========-->
         <!-- About -->
         <div class="g-promo-section" id="about">
-            <div class="container g-padding-y-80--xs g-padding-y-60--sm">
+            <div class="container g-padding-y-10--xs g-padding-y-40--sm">
                 <div class="row">
                     <div class="col-md-4 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
-                        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">E-cell</p>
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">About</h2>
+                        <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Ecell</p>-->
+                        <br><div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
+                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">ABOUT</h2>
                         </div>
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">Consortium</h2>
+                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-color--primary">E-CELL, VNIT</h2>
                         </div>
                     </div>
                     <div class="col-md-7 col-md-offset-1">
-                        <p class="g-font-size-18--xs g-color--dark">Welcome to the extravaganza that is Consortium! Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of invigorating events like Startup Conclave and Swades.
-                        The summit aims at fueling entrepreneurial attitude amongst students through healthy competition and exciting challenges.
-                        It fosters the importance of leadership and decision making and introduces young technocrats to various management practices in the corporate world.</p>
-                        <p class="g-font-size-18--xs g-color--dark">This year Consortium’s theme is Push the Human Race Forward. Through this theme we want to focus on the disruptive innovations and inventions that have took the whole human race forward.</p>
+                        <p class="g-font-size-18--xs g-color--dark">Entrepreneurship Cell is managed by students of
+                        VNIT under the guidance of Centre of Innovation, Nagpur and PM Yuva Yojana, which aims to promote and develop entrepreneurship culture amongst the students. Throughout the year, we
+                        conduct various events, workshops and speaker
+                        sessions sessions for inspiring and assisting young
+                        entrepreneurs in their journey in the world of
+                        business.</p>
+                        <p class="g-font-size-18--xs g-color--dark">Visvesvaraya National Institute of Technology
+                        (VNIT Nagpur) is a public engineering and research institution in India. It is located in Nagpur, Maharashtra. VNIT is centrally-funded and belongs to the National Institutes of
+                        Technology (NIT) system. In 2007, the institute was con was conferred the status of Institute of
+                        National Importance by an VNIT Nagpur Act of Parliament of India.</p>
                     </div>
                 </div>
             </div>
@@ -207,196 +220,203 @@ if ( isset( $_POST['submitexpo'] ) ) {
         </div>
         <!-- End About -->
 
+
+
+
         <!-- Counter -->
-        <div class="js__parallax-window" style="background: url(img/1920x1080/06.jpg) 50% 0 no-repeat fixed;">
-            <div class="container g-padding-y-100--xs g-padding-y-125--sm">
+        <!--<div class="js__parallax-window" style="background: url(img/1920x1080/06.jpg) 50% 0 no-repeat fixed;">-->
+        <!--    <div class="container g-padding-y-100--xs g-padding-y-125--sm">-->
+        <!--        <div class="row">-->
+        <!--            <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">-->
+        <!--                <div class="g-text-center--xs">-->
+        <!--                    <div class=" g-margin-b-0--xs">-->
+        <!--                        <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">20</figure>-->
+        <!--                        <span class="g-font-size-40--xs g-color--white">k+</span>-->
+        <!--                    </div>-->
+        <!--                    <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>-->
+        <!--                    <h4 class="g-font-size-18--xs g-color--white">No. of Participants</h4>-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--            <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">-->
+        <!--                <div class="g-text-center--xs">-->
+        <!--                    <div class=" g-margin-b-0--xs">-->
+        <!--                        <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">1</figure>-->
+        <!--                        <span class="g-font-size-40--xs g-color--white">M</span>-->
+        <!--                    </div>-->
+        <!--                    <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>-->
+        <!--                    <h4 class="g-font-size-18--xs g-color--white">Prizes Worth</h4>-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--            <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--sm">-->
+        <!--                <div class="g-text-center--xs">-->
+        <!--                    <div class=" g-margin-b-0--xs">-->
+        <!--                        <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">350</figure>-->
+        <!--                        <span class="g-font-size-40--xs g-color--white">+</span>-->
+        <!--                    </div>-->
+        <!--                    <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>-->
+        <!--                    <h4 class="g-font-size-18--xs g-color--white">Startups</h4>-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--            <div class="col-md-3 col-xs-6 g-full-width--xs">-->
+        <!--                <div class="g-text-center--xs">-->
+        <!--                    <div class=" g-margin-b-0--xs">-->
+        <!--                        <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">15</figure>-->
+        <!--                        <span class="g-font-size-40--xs g-color--white">+</span>-->
+        <!--                    </div>-->
+        <!--                    <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>-->
+        <!--                    <h4 class="g-font-size-18--xs g-color--white">Speakers</h4>-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--        </div>-->
+        <!--    </div>-->
+        <!--</div>-->
+        <!-- End Counter -->
+
+
+        <div class="flagship">
+            <div class="container g-padding-y-0--xs g-padding-y-0--sm" id="flagship">
+
+                <!-- End Swiper Clients -->
                 <div class="row">
-                    <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">
-                        <div class="g-text-center--xs">
-                            <div class=" g-margin-b-0--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">20</figure>
-                                <span class="g-font-size-40--xs g-color--white">k+</span>
-                            </div>
-                            <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                            <h4 class="g-font-size-18--xs g-color--white">No. of Participants</h4>
+                    <div class="col-md-14 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                        <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Ecell</p>-->
+                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
+                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-padding-x-20--xs g-color--white">Flagship</h2>
                         </div>
                     </div>
-                    <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">
-                        <div class="g-text-center--xs">
-                            <div class=" g-margin-b-0--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">1</figure>
-                                <span class="g-font-size-40--xs g-color--white">M</span>
-                            </div>
-                            <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                            <h4 class="g-font-size-18--xs g-color--white">Prizes Worth</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--sm">
-                        <div class="g-text-center--xs">
-                            <div class=" g-margin-b-0--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">350</figure>
-                                <span class="g-font-size-40--xs g-color--white">+</span>
-                            </div>
-                            <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                            <h4 class="g-font-size-18--xs g-color--white">Startups</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-xs-6 g-full-width--xs">
-                        <div class="g-text-center--xs">
-                            <div class=" g-margin-b-0--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">15</figure>
-                                <span class="g-font-size-40--xs g-color--white">+</span>
-                            </div>
-                            <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                            <h4 class="g-font-size-18--xs g-color--white">Speakers</h4>
-                        </div>
+                    <div class="col-md-8 col-md-offset-1">
+                        <p class="g-font-size-18--xs g-color--white">Flagship is the inaugural fresco of VNIT’s Entrepreneurship cell
+                            that brings intellectuals speakers to empower today’s youth and
+                            running talent alike. </p>
+                            <p class="g-font-size-18--xs g-color--white">As the first event of the year, it is important to give a lasting impact
+                            on the minds of the students through a motivating and exciting
+                            session. This event provides a platform to the students of VNIT
+                            to channelize their inn to channelize their innovative ideas that addresses issues of
+                            national and international importance. </p>
+                            <p class="g-font-size-18--xs g-color--white">The young talent, especially the freshers at the college need a
+                            direction to work to bring out something productive out of
+                            themselves and this event gives them a chance to do so by
+                            interacting with the emminent personalities.</p>
+
                     </div>
                 </div>
             </div>
         </div>
-        <!-- End Counter -->
 
+
+        <div class="container g-padding-y-10--xs g-padding-y-40--sm">
+            <div class="row">
+                <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                    <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
+                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">why <span class="g-color--primary">Flagship</span></h2>
+                    </div>
+                </div>
+                <div class="col-md-10 col-md-offset-1">
+                    <p class="g-font-size-18--xs g-color--dark">Flagship, the annual curtain raiser for VNIT's entrepreneurial
+                    journey, has been graced by speakers and leaders across all walks
+                    of life, including Ms. Savi Sharma and Dr. Pawan Agarwal, who
+                    overcame extraordinary barriers and revolutionised the fields of
+                    literature and management, mesmerised students with tales of
+                    triumph on par with those of David against Goliath, motivating
+                    them to aim high and them to aim high and work on their very own success stories.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 g-text-center--xs">
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">When</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark"><b>18 August, 2018</b></p>
+                </div>
+                <div class="col-md-6 g-text-center--xs">
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Venue</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark"><b>Auditorium, VNIT</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="container g-padding-y-10--xs g-padding-y-40--sm">
+            <div class="row">
+                <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                    <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
+                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">speakers <span class="g-color--primary">Flagship'17</span></h2>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row" id="hex-guests">
+                <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3 g-text-center--xs">
+                    <img src="img/guests/pavan.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Dr. Pawan Agrawal</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">International Motivational Speaker
+                        Author, Business Consultant and
+                        Educationalist
+                        Appeared in international forums
+                        such as TEDx extensively talking
+                        about ‘Supply Chain Management’</p>
+                </div>
+                <div class="col-md-6 col-sm-6 g-text-center--xs">
+                    <img src="img/guests/savi.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Savi Sharma</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">India’s first successful female selfpublished
+                    author of million seller
+                    Novel - ‘Everyone Has a Story’
+                    Co-founder of motivational media
+                    blog ‘Life and People</p>
+                </div>
+                <div class="col-md-6 col-sm-6 g-text-center--xs">
+                    <img src="img/guests/balaji.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Balaji Viswanathan</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Most followed Quora Writer
+                    of the World
+                    Co-founder and VP, Invento
+                    (Company that builds World
+                    Class Robots)</p>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="jugaad">
+            <div class="container g-padding-y-0--xs g-padding-y-0--sm" id="jugaad">
+
+                <!-- End Swiper Clients -->
+                <div class="row">
+                    <div class="col-md-14 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                        <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Ecell</p>-->
+                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
+                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-padding-x-20--xs g-color--white">Jugaad</h2>
+                        </div>
+                    </div>
+                    <div class="col-md-8 col-md-offset-1">
+                        <p class="g-font-size-18--xs g-color--white"><i>“A youth without fire is followed by an old age without experience.”</i></p>
+                            <p class="g-font-size-18--xs g-color--white">The Youth are not only leaders of tomorrow, but also partners of today. We at E-Cell VNIT are an
+                            inspired young team of individuals with a shared mission; a mission to change the world.<br>With India witnessing a radical change in the mindset
+                            of people towards Entrepreneurship there is a rising need to address the grass root challenges of development and focus on making
+                            the world self-reliant through both – individual and cooperative efforts.</p>
+                            <p class="g-font-size-18--xs g-color--white">Jugaad is an annual event which aims to create an inexorable spirit of entrepreneurship amongst
+                            students, with the freshmen as particular consideration for the Club. It aims to function as a guide in the form of a fun event for students
+                            with creative ideas which can be transformed into successful street level transactions.<br>The event has been a roaring success
+                            in the years gone by, and the fun filled learning that the event has provided in the past stands as a firm testimony to the same.</p>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Events -->
-        <div class="container g-padding-y-10--xs s-portfolio" id="events">
+        <div class="container g-padding-y-0--xs s-portfolio" id="events">
             <div class="g-text-center--xs g-margin-b-40--xs">
-                <h2 class="g-font-size-32--xs g-font-size-36--md">What We Have</h2>
+                <h2 class="g-font-size-32--xs g-font-size-36--md">Highlights</h2>
             </div>
             <div class="card" id="event-card-bg">
                 <div class="card-tabs">
     		      <ul class="tabs tabs-fixed-width">
-    		        <li class="tab"><a class="active" href="#event">Events</a></li>
-    		        <li class="tab"><a  href="#attraction">Attractions</a></li>
-    		        <li class="tab"><a href="#session">Sessions</a></li>
+    		        <!--<li class="tab"><a  href="#attraction">Events</a></li>-->
+    		        <li class="tab"><a class="active"  href="#session">Sessions</a></li>
     		        <li class="tab"><a href="#initiative">Initiatives</a></li>
 
     		      </ul>
     		    </div>
             </div>
-            <!--Event Start-->
-            <div class="card-content code">
-                <div class="container g-margin-b-100--xs" id="event">
-
-                    <div id="js__grid-portfolio-gallery" class="cbp">
-                        <!-- Item -->
-                        <div class="s-portfolio__item cbp-item event motion">
-                            <div class="s-portfolio__img-effect">
-                                <img src="img/970x647/startupconclave.jpg" alt="startupconclave Image">
-                            </div>
-                            <div class="s-portfolio__caption-hover--cc">
-                                <div class="g-margin-b-25--xs">
-                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Startup Conclave</h4>
-                                    <p class="g-color--white">Opportunity to learn new entrepreneurial techniques.</p>
-                                </div>
-                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                                    <li>
-                                        <a href="https://conso18.ecellvnit.org/events/startupconclave/" target="_blank" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                            <i class="ti-fullscreen"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- Item -->
-                        <div class="s-portfolio__item cbp-item event motion">
-                            <div class="s-portfolio__img-effect">
-                                <img src="img/970x647/adventure.jpg" alt="Portfolio Image">
-                            </div>
-                            <div class="s-portfolio__caption-hover--cc">
-                                <div class="g-margin-b-25--xs">
-                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ad-Venture</h4>
-                                    <p class="g-color--white">Roll your pitch ideas into a complete advertisement for a company.</p>
-                                </div>
-                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                                    <li>
-                                        <a href="/ad-venture.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                            <i class="ti-fullscreen"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- Item -->
-                        <div class="s-portfolio__item cbp-item event motion">
-                            <div class="s-portfolio__img-effect">
-                                <img src="img/970x647/ceo.jpg" alt="Portfolio Image">
-                            </div>
-                            <div class="s-portfolio__caption-hover--cc">
-                                <div class="g-margin-b-25--xs">
-                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">CEO</h4>
-                                    <p class="g-color--white">Aims to ignite the spark of entrepreneurship in students to showcase their leadership skills in the corporate world.</p>
-                                </div>
-                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                                    <li>
-                                        <a href="/ceo.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                            <i class="ti-fullscreen"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- Item -->
-                        <div class="s-portfolio__item cbp-item event motion">
-                            <div class="s-portfolio__img-effect">
-                                <img src="img/970x647/bizmantra.jpg" alt="Portfolio Image">
-                            </div>
-                            <div class="s-portfolio__caption-hover--cc">
-                                <div class="g-margin-b-25--xs">
-                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">bizmantra</h4>
-                                    <p class="g-color--white">Idea of surviving in the market, through an interactive competition.</p>
-                                </div>
-                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                                    <li>
-                                        <a href="/bizmantra.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                            <i class="ti-fullscreen"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- Item -->
-                        <div class="s-portfolio__item cbp-item event motion">
-                            <div class="s-portfolio__img-effect">
-                                <img src="img/970x647/swades.jpg" alt="Portfolio Image">
-                            </div>
-                            <div class="s-portfolio__caption-hover--cc">
-                                <div class="g-margin-b-25--xs">
-                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Swades</h4>
-                                    <p class="g-color--white">Aims to understand the social problems in rural India and solve them using an entrepreneurial mindset.</p>
-                                </div>
-                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                                    <li>
-                                        <a href="/swades.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                            <i class="ti-fullscreen"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- Item -->
-                        <div class="s-portfolio__item cbp-item event motion">
-                            <div class="s-portfolio__img-effect">
-                                <img src="img/970x647/silhouette.jpg" alt="Portfolio Image">
-                            </div>
-                            <div class="s-portfolio__caption-hover--cc">
-                                <div class="g-margin-b-25--xs">
-                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Silhouette</h4>
-                                    <p class="g-color--white">Design stunning logo around a theme and test your desiging skills.</p>
-                                </div>
-                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                                    <li>
-                                        <a href="/silhouette.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                            <i class="ti-fullscreen"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-            <!--Event End-->
 
             <!--Sessions Start-->
             <div class="card-content code">
@@ -509,80 +529,181 @@ if ( isset( $_POST['submitexpo'] ) ) {
             <!--Inititatives End-->
 
             <!--Attractions Start-->
-            <div class="card-content code">
-                <div class="container g-margin-b-80--xs" id="attraction">
-                    <div class="row">
+            <!--<div class="card-content code">-->
+            <!--    <div class="container g-margin-b-80--xs" id="attraction">-->
+            <!--        <div class="row">-->
                         <!-- Item -->
-                        <div class=" col-md-4 col-xs-12 col-sm-6">
-                            <div class="card">
-                                <div class="card-image">
-                                  <img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">
-                                </div>
-                                <div class="card-content">
-                                    <span class="card-title">
-                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Inauguration</h4>
-                                        <p class="g-color--dark">9<sup>th</sup> March, 18:00</p>
-                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('inaug')">View</div>
-                                    </span>
-                                </div>
-                              </div>
-                        </div>
+            <!--            <div class=" col-md-4 col-xs-12 col-sm-6">-->
+            <!--                <div class="card">-->
+            <!--                    <div class="card-image">-->
+            <!--                      <img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">-->
+            <!--                    </div>-->
+            <!--                    <div class="card-content">-->
+            <!--                        <span class="card-title">-->
+            <!--                            <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Flagship</h4>-->
+                                        <!--<p class="g-color--dark">9<sup>th</sup> March, 18:00</p>-->
+                                        <!--<div class="g-color--primary" id="call-session" onclick="show_overlay('inaug')">View</div>-->
+            <!--                        </span>-->
+            <!--                    </div>-->
+            <!--                  </div>-->
+            <!--            </div>-->
                         <!-- Item -->
-                        <div class=" col-md-4 col-xs-12 col-sm-6">
-                            <div class="card">
-                                <div class="card-image">
-                                  <img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">
-                                </div>
-                                <div class="card-content">
-                                    <span class="card-title">
-                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Day 2nd</h4>
-                                        <p class="g-color--dark">10<sup>th</sup> March</p>
-                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('day2')">View</div>
-                                    </span>
-                                </div>
-                              </div>
-                        </div>
+            <!--            <div class=" col-md-4 col-xs-12 col-sm-6">-->
+            <!--                <div class="card">-->
+            <!--                    <div class="card-image">-->
+            <!--                      <img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">-->
+            <!--                    </div>-->
+            <!--                    <div class="card-content">-->
+            <!--                        <span class="card-title">-->
+            <!--                            <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Jugaad</h4>-->
+                                        <!--<p class="g-color--dark">10<sup>th</sup> March</p>-->
+                                        <!--<div class="g-color--primary" id="call-session" onclick="show_overlay('day2')">View</div>-->
+            <!--                        </span>-->
+            <!--                    </div>-->
+            <!--                  </div>-->
+            <!--            </div>-->
                         <!-- Item -->
-                        <div class=" col-md-4 col-xs-12 col-sm-6 col-md-offset-0 col-sm-offset-3">
-                            <div class="card">
-                                <div class="card-image">
-                                  <img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">
-                                </div>
-                                <div class="card-content">
-                                    <span class="card-title">
-                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Day 3rd</h4>
-                                        <p class="g-color--dark">11<sup>th</sup> March</p>
-                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('day3')">View</div>
-                                    </span>
-                                </div>
-                              </div>
-                        </div>
+            <!--            <div class=" col-md-4 col-xs-12 col-sm-6 col-md-offset-0 col-sm-offset-3">-->
+            <!--                <div class="card">-->
+            <!--                    <div class="card-image">-->
+            <!--                      <img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">-->
+            <!--                    </div>-->
+            <!--                    <div class="card-content">-->
+            <!--                        <span class="card-title">-->
+            <!--                            <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Consortium</h4>-->
+                                        <!--<p class="g-color--dark">11<sup>th</sup> March</p>-->
+                                        <!--<div class="g-color--primary" id="call-session" onclick="show_overlay('day3')">View</div>-->
+            <!--                        </span>-->
+            <!--                    </div>-->
+            <!--                  </div>-->
+            <!--            </div>-->
 
 
-                    </div>
+            <!--        </div>-->
 
-                </div>
-            </div>
+            <!--    </div>-->
+            <!--</div>-->
             <!--Attractions End-->
 
         </div>
+        <div class="conso">
+            <div class="container g-padding-y-0--xs g-padding-y-0--sm " id="conso">
 
-        <!-- Subscribe -->
-        <div class="js__parallax-window" style="background: url(img/1920x1080/07.jpg) 50% 0 no-repeat fixed;" id="startupexpo">
-            <div class="g-container--sm g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">
-                <div class="g-margin-b-80--xs">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs">Startup Expo</p>
-                    <h2 class="g-font-size-32--xs g-font-size-36--md g-color--white">Showcase your Startup at our Annual Entrepreneurship Summit</h2>
-                </div>
+                <!-- End Swiper Clients -->
                 <div class="row">
-                    <div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
+                    <div class="col-md-14 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                        <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Ecell</p>-->
+                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
+                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-padding-x-20--xs g-color--white">Consortium</h2>
+                        </div>
+                    </div>
+                    <div class="col-md-8 col-md-offset-1">
+                        <p class="g-font-size-18--xs g-color--white">Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of
+                        invigorating events like Startup Conclave and Swades. The summit aims at fueling entrepreneurial attitude amongst
+                        students through healthy competition and exciting challenges. It fosters the importance of leadership and decision making
+                        and introduces young technocrats to various management practices in the corporate world.</p>
 
-			    <a class="btn btn-primary" href="https://expo.ecellvnit.org/" target="_blank" role="button">Know More</a>
                     </div>
                 </div>
             </div>
         </div>
+
+        <!-- Subscribe -->
+       <!-- <div class="js__parallax-window" style="background: url(img/1920x1080/07.jpg) 50% 0 no-repeat fixed;" id="startupexpo">-->
+       <!--     <div class="g-container--sm g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">-->
+       <!--         <div class="g-margin-b-80--xs">-->
+       <!--             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs">Startup Expo</p>-->
+       <!--             <h2 class="g-font-size-32--xs g-font-size-36--md g-color--white">Showcase your Startup at our Annual Entrepreneurship Summit</h2>-->
+       <!--         </div>-->
+       <!--         <div class="row">-->
+       <!--             <div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">-->
+
+			    <!--<a class="btn btn-primary" href="https://expo.ecellvnit.org/" target="_blank" role="button">Know More</a>-->
+       <!--             </div>-->
+       <!--         </div>-->
+       <!--     </div>-->
+       <!-- </div>-->
         <!-- End Subscribe -->
+
+        <!--hex-->
+        <div class="container g-padding-y-10--xs g-padding-y-40--sm">
+        <div class="row">
+                <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                    <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
+                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md "> <span class="g-color--primary"> glimpses</span></h2>
+                    </div>
+                </div>
+            </div>
+
+            <ul id="categories" class="clr">
+
+                <li>
+                    <div>
+                        <img src="img/gal/01.jpg" alt=""/>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <img src="img/gal/014.jpg" alt=""/>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <img src="img/gal/02.jpg" alt=""/>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <img src="img/gal/03.jpg" alt=""/>
+                    </div>
+                </li>
+
+
+
+                <li>
+                    <div>
+                        <img src="img/gal/04.jpg" alt=""/>
+                    </div>
+                </li>
+
+                <li>
+                    <div>
+                        <img src="img/gal/012.jpg" alt=""/>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <img src="img/gal/05.jpg" alt=""/>
+                    </div>
+                </li>
+
+                <li>
+                    <div>
+                        <img src="img/gal/07.jpg" alt=""/>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <img src="img/gal/08.jpg" alt=""/>
+                    </div>
+                </li>
+
+                <li>
+                    <div>
+                        <img src="img/gal/010.jpg" alt=""/>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <img src="img/gal/09.jpg" alt=""/>
+                    </div>
+                </li>
+
+
+                <li class="pusher"></li>
+
+            </ul>
+        </div>
 
         <!-- Feedback Form -->
         <div class="g-bg-color--sky-light" id="contact">
@@ -788,72 +909,72 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
         </div>
         <!-- Atractions overlays-->
-        <div class="overlay-session" id="inaug">
-            <button onclick="hide_overlay('inaug')" id="close-session">X</button>
-            <h3 style="text-align:center;"><b>Inauguration</b></h3>
+        <!--<div class="overlay-session" id="inaug">-->
+        <!--    <button onclick="hide_overlay('inaug')" id="close-session">X</button>-->
+        <!--    <h3 style="text-align:center;"><b>Inauguration</b></h3>-->
 
-            <div class="container">
-                <div class="row guest">
-                    <div class="col-md-5 col-sm-6 col-xs-12 guest-img"><img src="img/970x970/01.jpg"/></div>
-                    <div class="col-md-7 col-sm-6 col-xs-12 guest-content">
-                        <h3>Guest1</h3>
-                        <p>"Sed ut perspiciatis unde omnis iste natus error
-                        sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-                        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                        </p>
+        <!--    <div class="container">-->
+        <!--        <div class="row guest">-->
+        <!--            <div class="col-md-5 col-sm-6 col-xs-12 guest-img"><img src="img/970x970/01.jpg"/></div>-->
+        <!--            <div class="col-md-7 col-sm-6 col-xs-12 guest-content">-->
+        <!--                <h3>Guest1</h3>-->
+        <!--                <p>"Sed ut perspiciatis unde omnis iste natus error-->
+        <!--                sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa-->
+        <!--                quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.-->
+        <!--                </p>-->
 
-                    </div>
-                </div>
-                <div class="row guest">
-                    <div class="col-md-5 col-sm-6 col-xs-12 guest-img"><img src="img/970x970/01.jpg"/></div>
-                    <div class="col-md-7 col-sm-6 col-xs-12 guest-content">
-                        <h3>Guest1</h3>
-                        <p>"Sed ut perspiciatis unde omnis iste natus error
-                        sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-                        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                        </p>
+        <!--            </div>-->
+        <!--        </div>-->
+        <!--        <div class="row guest">-->
+        <!--            <div class="col-md-5 col-sm-6 col-xs-12 guest-img"><img src="img/970x970/01.jpg"/></div>-->
+        <!--            <div class="col-md-7 col-sm-6 col-xs-12 guest-content">-->
+        <!--                <h3>Guest1</h3>-->
+        <!--                <p>"Sed ut perspiciatis unde omnis iste natus error-->
+        <!--                sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa-->
+        <!--                quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.-->
+        <!--                </p>-->
 
-                    </div>
-                </div>
-                <div class="row guest">
-                    <div class="col-md-5 col-sm-6 col-xs-12 guest-img"><img src="img/970x970/01.jpg"/></div>
-                    <div class="col-md-7 col-sm-6 col-xs-12 guest-content">
-                        <h3>Guest1</h3>
-                        <p>"Sed ut perspiciatis unde omnis iste natus error
-                        sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-                        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                        </p>
+        <!--            </div>-->
+        <!--        </div>-->
+        <!--        <div class="row guest">-->
+        <!--            <div class="col-md-5 col-sm-6 col-xs-12 guest-img"><img src="img/970x970/01.jpg"/></div>-->
+        <!--            <div class="col-md-7 col-sm-6 col-xs-12 guest-content">-->
+        <!--                <h3>Guest1</h3>-->
+        <!--                <p>"Sed ut perspiciatis unde omnis iste natus error-->
+        <!--                sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa-->
+        <!--                quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.-->
+        <!--                </p>-->
 
-                    </div>
-                </div>
-            </div>
-
-
-            <br>
+        <!--            </div>-->
+        <!--        </div>-->
+        <!--    </div>-->
 
 
-
-        </div>
-
-        <div class="overlay-session" id="day2">
-            <button onclick="hide_overlay('day2')" id="close-session">X</button>
-            <h3><b>Day2</b></h3>
-            <p>Stay Tuned...</p>
-            <br>
+        <!--    <br>-->
 
 
 
-        </div>
+        <!--</div>-->
 
-        <div class="overlay-session" id="day3">
-            <button onclick="hide_overlay('day3')" id="close-session">X</button>
-            <h3><b>Day3</b></h3>
-            <p>Stay Tuned...</p>
-            <br>
+        <!--<div class="overlay-session" id="day2">-->
+        <!--    <button onclick="hide_overlay('day2')" id="close-session">X</button>-->
+        <!--    <h3><b>Day2</b></h3>-->
+        <!--    <p>Stay Tuned...</p>-->
+        <!--    <br>-->
 
 
 
-        </div>
+        <!--</div>-->
+
+        <!--<div class="overlay-session" id="day3">-->
+        <!--    <button onclick="hide_overlay('day3')" id="close-session">X</button>-->
+        <!--    <h3><b>Day3</b></h3>-->
+        <!--    <p>Stay Tuned...</p>-->
+        <!--    <br>-->
+
+
+
+        <!--</div>-->
 
 
         </div>

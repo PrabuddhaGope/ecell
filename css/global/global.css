@@ -1198,7 +1198,7 @@
   Border
 ------------------------------------*/
 .g-hor-border-1__solid--primary {
-  border: 0.0625rem solid #ff0000;
+  border: 0.0625rem solid #2c83cc;
 }
 
 .g-hor-border-4__solid--white {
@@ -7212,7 +7212,7 @@
 ------------------------------------*/
 /* Text Colors */
 .g-color--primary {
-  color: #ff0000 !important;
+  color: #2c83cc !important;
 }
 
 .g-color--blueviolet {
@@ -7281,16 +7281,16 @@
 
 /* Hover Colors */
 .g-color--text[href]:hover {
-  color: #ff0000 !important;
+  color: #2c83cc !important;
 }
 
 .g-color--white-opacity[href]:hover {
-  color: #ff0000 !important;
+  color: #2c83cc !important;
 }
 
 /* Background Colors */
 .g-bg-color--primary {
-  background-color: #ff0000 !important;
+  background-color: #2c83cc !important;
 }
 
 .g-bg-color--blueviolet {
@@ -7353,7 +7353,8 @@
   background-color: rgba(255, 255, 255, 0.1) !important;
 }
 .g-bg-color--footer{
-  background-color:#ddd;
+  background-color: -webkit-gradient(linear,left top,right top,from(#f89d89),to(#ffd297));
+  background-color: linear-gradient(90deg,#f89d89,#ffd297);
 }
 
 .g-bg-color--sky-light {
@@ -7361,11 +7362,11 @@
 }
 
 .g-bg-color--primary-to-blueviolet-ltr {
-  background-image: linear-gradient(145deg, rgba(19, 177, 205, 0.95) 0%, rgba(152, 119, 234, 0.95) 100%);
+  background-image: linear-gradient(145deg, rgba(44, 131, 204, 0.95) 0%, rgba(26, 41, 128, 0.95) 100%);
   background-repeat: repeat-x;
 }
 
 .g-bg-color--primary-ltr {
-  background-image: linear-gradient(145deg, rgba(19, 177, 205, 0.6) 0%, #ff0000 100%);
+  background-image: linear-gradient(340deg, rgba(44, 131, 204, 0.95), rgba(26, 41, 128, 0.95) 100%);
   background-repeat: repeat-x;
 }
