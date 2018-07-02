@@ -7,8 +7,8 @@
                             <!-- Logo -->
                             <div class="s-header__logo">
                                 <a href="index.php" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo.png" alt="Consortium Logo">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-conso.png" alt="Consortium Logo">
+                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo-ecell.png" alt="Ecell Logo">
+                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-ecell-sm.png" alt="Ecell Logo">
                                 </a>
                             </div>
                             <!-- End Logo -->

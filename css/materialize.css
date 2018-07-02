@@ -3545,7 +3545,7 @@ nav ul a span.badge {
 }
 .tabs .tab a:hover, .tabs .tab a.active {
   background-color: transparent;
-  color:#ff0000;
+  color: #1D2B64;  /* fallback for old browsers */
 }
 
 .tabs .tab.disabled a,
@@ -3558,7 +3558,10 @@ nav ul a span.badge {
   position: absolute;
   bottom: 0;
   height: 2px;
-  background: linear-gradient(140deg, rgba(152, 119, 234, 0.7) 15%, #ff0000 100%);
+  background: rgba(44, 131, 204, 1);  /* fallback for old browsers */
+background: -webkit-linear-gradient(170deg, rgba(44, 131, 204, 1), rgba(26, 41, 128, 1));  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(170deg, rgba(44, 131, 204, 1), rgba(26, 41, 128, 1)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   will-change: left, right;
 }
 
@@ -3697,7 +3700,10 @@ nav ul a span.badge {
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #ff0000;
+background: #2c83cc;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2c83cc, #1A2980);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c83cc, #1A2980); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   text-align: center;
   letter-spacing: .5px;
   -webkit-transition: .2s ease-out;
