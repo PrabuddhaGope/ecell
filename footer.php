@@ -3,7 +3,7 @@
             <div class="footer">
                 <div class="g-text-center--xs g-margin-b-40--xs">
                     <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Partners</p>-->
-                    <h2 class="g-font-size-32--xs g-font-size-36--md">Partners</h2>
+                    <h2 class="g-font-size-24--xs g-font-size-36--md g-color--white">Under patronage of</h2>
                 </div>
                 <div class="container g-padding-y-40--xs g-padding-y-40--sm" id="partners">
                     <!-- Swiper Clients -->
@@ -78,13 +78,13 @@
                         </a>
                     </div>
                     <div class="col-sm-12 col-md-4 col-lg-4">
-                            <p class="g-color--white-light">For Association Opportunities Contact:<br><b>association@ecellvnit.org</b></p>
-                            <p class="g-color--white-light">For Sponsorship Opportunities Contact:<br><b>sponsorship@ecellvnit.org<b></p>
-                            <p class="g-color--white-light">For Speaking Opportunities Contact:<br><b>speaker@ecellvnit.org</b></p>
+                            <p class="g-color--white">For Association Opportunities Contact:<br><b>association@ecellvnit.org</b></p>
+                            <p class="g-color--white">For Sponsorship Opportunities Contact:<br><b>sponsorship@ecellvnit.org<b></p>
+                            <p class="g-color--white">For Speaking Opportunities Contact:<br><b>speaker@ecellvnit.org</b></p>
                     </div>
-                    <!--<div class="col-sm-12 col-md-4 col-lg-4 g-text-right--md">-->
-                    <!--    <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">Copyright@ <a href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a><br>Designed by: <a href="http://www.prisag.xyz/" target="_blank">Prisag.xyz</a></p>-->
-                    <!--</div>-->
+                    <div class="col-sm-12 col-md-4 col-lg-4 g-text-right--md">
+                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white">© <a class="g-color--primary" href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a> All rights reserved.</p>
+                    </div>
                 </div>
             </div>
             <!-- End Copyright -->
