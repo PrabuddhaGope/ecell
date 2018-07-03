@@ -2787,9 +2787,11 @@ background: linear-gradient(to right, #ff0000, #FFEDBC);
     height: 100%;
     background-repeat:no-repeat;
     background-size:contain;
+    min-height:350px;
 }
 #partners, #conso, #jugaad{
   background-size: 50% !important;
+  min-height:300px;
 }
 
 }
@@ -2922,3 +2924,8 @@ background: linear-gradient(to right, #ff0000, #FFEDBC);
 	padding-bottom:50%;
 }
 
+.caption{
+  background: -webkit-gradient(50deg,#5ebaf6,#2c83cc);
+  background: linear-gradient(50deg,#5ebaf6,#2c83cc 90%);
+  padding-left:10px;
+}

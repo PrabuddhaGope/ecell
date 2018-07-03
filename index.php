@@ -107,7 +107,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <ul class="list-unstyled s-header__nav-menu">
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#about">About</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.php">Team</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#events">Events</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#flagship">Events</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="spons.php">Sponsors</a></li>
 
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#contact">Contact Us</a></li>
@@ -209,7 +209,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         sessions sessions for inspiring and assisting young
                         entrepreneurs in their journey in the world of
                         business.</p>
-                        <p class="g-font-size-18--xs g-color--dark">Visvesvaraya National Institute of Technology
+                        <p class="g-font-size-18--xs g-color--dark"><a href="http://vnit.ac.in/"class="g-color--primary" style="text-decoration:underline;">Visvesvaraya National Institute of Technology</a>
                         (VNIT Nagpur) is a public engineering and research institution in India. It is located in Nagpur, Maharashtra. VNIT is centrally-funded and belongs to the National Institutes of
                         Technology (NIT) system. In 2007, the institute was con was conferred the status of Institute of
                         National Importance by an VNIT Nagpur Act of Parliament of India.</p>
@@ -405,7 +405,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <!-- Events -->
         <div class="container g-padding-y-0--xs s-portfolio" id="events">
             <div class="g-text-center--xs g-margin-b-40--xs">
-                <h2 class="g-font-size-32--xs g-font-size-36--md">Highlights</h2>
+                <h2 class="g-font-size-32--xs g-font-size-36--md ">High <span class="g-color--primary">Lights</span></h2>
             </div>
             <div class="card" id="event-card-bg">
                 <div class="card-tabs">
@@ -630,7 +630,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <div class="row">
                 <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                     <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md "> <span class="g-color--primary"> glimpses</span></h2>
+                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Glim<span class="g-color--primary">pses</span></h2>
                     </div>
                 </div>
             </div>
