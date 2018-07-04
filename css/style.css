@@ -2929,3 +2929,7 @@ background: linear-gradient(to right, #ff0000, #FFEDBC);
   background: linear-gradient(50deg,#5ebaf6,#2c83cc 90%);
   padding-left:10px;
 }
+
+.core{
+  filter:grayscale(90%) !important;
+}
