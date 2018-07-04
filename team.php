@@ -8,7 +8,11 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>E-CELL | VNIT</title>
         <meta name="keywords" content="" />
-        <meta name="description" content="">
+        <meta name="description" content="E-Cell VNIT aims to promote and develop entrepreneurship culture amongst the students. Throughout the year, we
+                        conduct various events, workshops and speaker
+                        sessions sessions for inspiring and assisting young
+                        entrepreneurs in their journey in the world of
+                        business">
         <meta name="author" content="Sagar Bansal">
 
         <!-- Web Fonts -->
