@@ -9,7 +9,11 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Sponsors | E-CELL, VNIT</title>
         <meta name="keywords" content="E-cell VNIT entreprenuship cell consortium 18" />
-        <meta name="description" content="Consortium'18 E-CELL VNIT annual entrepreneurship summit">
+        <meta name="description" content="E-Cell VNIT aims to promote and develop entrepreneurship culture amongst the students. Throughout the year, we
+                        conduct various events, workshops and speaker
+                        sessions sessions for inspiring and assisting young
+                        entrepreneurs in their journey in the world of
+                        business">
         <meta name="author" content="E-cell">
 
         <!-- Web Fonts -->
@@ -97,7 +101,7 @@
 								        <img src="img/SponS/final/17.png" style="width:100%">
 								        <figcaption>Ecosystem Parter</figcaption>
 								    </figure>
-									
+
 								  </div>
 
 								  <div class="w3-quarter">
@@ -121,7 +125,7 @@
 								        <img src="img/SponS/final/19.png" style="width:100%">
 								        <figcaption>Ecosystem Parter</figcaption>
 								    </figure>
-									 
+
 								  </div>
 
 								  <div class="w3-quarter">
@@ -141,8 +145,8 @@
 								        <img src="img/SponS/final/15.png" style="width:100%">
 								        <figcaption>Styling Partner</figcaption>
 								    </figure>
-									 
-									
+
+
 								  </div>
 
 								  <div class="w3-quarter">
@@ -166,8 +170,8 @@
 								        <img src="img/SponS/final/16.png" style="width:100%">
 								        <figcaption>Merchandise Parter</figcaption>
 								    </figure>
-									  
-									
+
+
 								  </div>
 								 </div>
 
