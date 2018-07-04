@@ -43,7 +43,7 @@
 
         <!--========== PROMO BLOCK ==========-->
         <div class="g-bg-position--center js__parallax-window" style="background: black 50% 0 no-repeat fixed;">
-            <div class="g-container--md g-text-center--xs g-padding-y-150--xs">
+            <div class="g-container--md g-text-center--xs g-padding-y-100--xs">
                 <h1 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-color--white g-letter-spacing--1">Our Team</h1>
             </div>
         </div>
@@ -56,7 +56,7 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/fac1.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/fac1.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="caption">
                             <!--<div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
@@ -70,7 +70,7 @@
                 <div class="col-xs-6 g-full-width--xs">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/fac2.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/fac2.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="caption">
                             <!--<div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
@@ -105,7 +105,7 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/pratik.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/pratik.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="caption">
                             <!--<div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
@@ -120,7 +120,7 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/sricharan.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/sricharan.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="caption">
                             <!--<div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
@@ -139,7 +139,7 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/shubham.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/shubham.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="caption">
                             <!--<div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
@@ -151,45 +151,11 @@
                     </div>
                     <!-- End Speaker -->
                 </div>
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
-                    <!-- Speaker -->
-                    <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/nachiket.jpg" alt="Image">
-                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
-                            <div class="caption">
-                            <!--<div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
-                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Nachiket Dhande</h4>
-                            </div>
-                            <p class="g-font-weight--700">Public Relation Head</p>
-                            <p>+91 95453 02811<br>nachiketdhande@ecellvnit.org</p>
-                        </div>
-                    </div>
-                    <!-- End Speaker -->
-                </div>
-
-
-            </div>
-            <div class="row g-overflow--hidden">
 
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/prashant.jpg" alt="Image">
-                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
-                            <div class="caption">
-                            <!--<div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
-                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Prashant Bramhanwade</h4>
-                            </div>
-                            <p class="g-font-weight--700">Public Relation Head</p>
-                            <p>+91 70578 56961<br>prashant@ecellvnit.org</p>
-                        </div>
-                    </div>
-                    <!-- End Speaker -->
-                </div>
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
-                    <!-- Speaker -->
-                    <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/ashish.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/ashish.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="caption">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Ashish Das</h4>
@@ -200,13 +166,15 @@
                     </div>
                     <!-- End Speaker -->
                 </div>
+
+
             </div>
             <div class="row g-overflow--hidden">
 
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/ayush.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/ayush.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="caption">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Ayush Singh</h4>
@@ -221,7 +189,7 @@
 
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/sagar.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/sagar.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="caption">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Sagar Bansal</h4>
@@ -233,6 +201,41 @@
                     <!-- End Speaker -->
                 </div>
             </div>
+            <div class="row g-overflow--hidden">
+
+                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                    <!-- Speaker -->
+                    <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/prashant.jpg" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
+                            <div class="caption">
+                            <!--<div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
+                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Prashant Bramhanwade</h4>
+                            </div>
+                            <p class="g-font-weight--700">Public Relation Head</p>
+                            <p>+91 70578 56961<br>prashant@ecellvnit.org</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                    <!-- Speaker -->
+                    <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/nachiket.jpg" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
+                            <div class="caption">
+                            <!--<div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
+                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Nachiket Dhande</h4>
+                            </div>
+                            <p class="g-font-weight--700">Public Relation Head</p>
+                            <p>+91 95453 02811<br>nachiketdhande@ecellvnit.org</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+
+            </div>
+
             <!--<div class="row g-overflow--hidden">-->
 
             <!--</div>-->
