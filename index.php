@@ -32,6 +32,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <!-- Basic -->
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
+	    <meta name="google-site-verification" content="gXeMBX--H7xSFeawu77WYuSIYyuZQdkI4YQQnV0Hf_Y" />
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>E-CELL | VNIT</title>
         <meta name="keywords" content="Ecell, vnit, E-cell VNIT, entreprenuship cell, consortium 18, 2018, consortium'18, vnit consortium" />
