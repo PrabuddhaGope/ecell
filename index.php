@@ -114,6 +114,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.php">Team</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#flagship">Events</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="spons.php">Sponsors</a></li>
+				<li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="https://consortium.ecellvnit.org">Consortium'18</a></li>
 
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#contact">Contact Us</a></li>
                         </ul>
@@ -182,9 +183,9 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     </div>
                     <div class="col-sm-4 col-sm-pull-8">
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
-                            <a href="#about" title="Register">
-                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-down"></i>
-                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Scroll Down</span>
+                            <a href="https://consortium.ecellvnit.org" title="Register">
+                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-right"></i>
+                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Consortium' 18</span>
                             </a>
                         </div>
                     </div>
