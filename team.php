@@ -82,6 +82,7 @@
                     <!-- End Speaker -->
                 </div>
             </div>
+            <br><br>
 
             <!--<div class="row g-overflow--hidden">-->
             <!--    <div class="col-xs-12 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">-->
@@ -134,7 +135,38 @@
                 </div>
 
             </div>
+            <div class="row g-overflow--hidden">
 
+                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                    <!-- Speaker -->
+                    <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/ayush.jpg" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
+                            <div class="caption">
+                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Ayush Singh</h4>
+                            </div>
+                            <p class="g-font-weight--700">Treasurer</p>
+                            <p>+91 94235 39984<br>ayushsingh@ecellvnit.org</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+
+                    <!-- Speaker -->
+                    <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/sagar.jpg" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
+                            <div class="caption">
+                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Sagar Bansal</h4>
+                            </div>
+                            <p class="g-font-weight--700">Web and Technical Head</p>
+                            <p>+91 77580 11192<br>sagarbansal@ecellvnit.org</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+            </div>
             <div class="row g-overflow--hidden">
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
@@ -169,38 +201,7 @@
 
 
             </div>
-            <div class="row g-overflow--hidden">
 
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
-                    <!-- Speaker -->
-                    <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/ayush.jpg" alt="Image">
-                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
-                            <div class="caption">
-                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Ayush Singh</h4>
-                            </div>
-                            <p class="g-font-weight--700">Treasurer</p>
-                            <p>+91 94235 39984<br>ayushsingh@ecellvnit.org</p>
-                        </div>
-                    </div>
-                    <!-- End Speaker -->
-                </div>
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
-
-                    <!-- Speaker -->
-                    <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/sagar.jpg" alt="Image">
-                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
-                            <div class="caption">
-                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Sagar Bansal</h4>
-                            </div>
-                            <p class="g-font-weight--700">Web and Technical Head</p>
-                            <p>+91 77580 11192<br>sagarbansal@ecellvnit.org</p>
-                        </div>
-                    </div>
-                    <!-- End Speaker -->
-                </div>
-            </div>
             <div class="row g-overflow--hidden">
 
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">

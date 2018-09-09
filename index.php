@@ -65,6 +65,12 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <!-- Favicon -->
         <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
         <link rel="apple-touch-icon" href="img/icon.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
     </head>
     <!-- End Head -->
 
@@ -185,7 +191,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
                             <a href="https://consortium.ecellvnit.org" title="Register">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-right"></i>
-                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Consortium' 18</span>
+                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs"><b>Consortium' 18</b></span>
                             </a>
                         </div>
                     </div>
@@ -342,13 +348,29 @@ if ( isset( $_POST['submitexpo'] ) ) {
             <div class="row">
                 <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                     <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">speakers <span class="g-color--primary">Flagship'17</span></h2>
+                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">speakers <span class="g-color--primary">Flagship'19</span></h2>
                     </div>
                 </div>
             </div>
 
-
             <div class="row" id="hex-guests">
+                <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3 g-text-center--xs">
+                    <img src="img/guests/nipunweb.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Nipun Malhotra</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Co-Founder & CEO Nipman Foundation<br><b>TEDx</b> Speaker; Indian School Of Business</p>
+                </div>
+                <div class="col-md-6 col-sm-6 g-text-center--xs">
+                    <img src="img/guests/akanchaweb.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Akancha Srivastava</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Social Entrepreneur<br>Founder - Akancha Against Harassmant & Azure</p>
+                </div>
+                <div class="col-md-6 col-sm-6 g-text-center--xs">
+                    <img src="img/guests/sanjeebweb.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Sanjeeb Patjoshi</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Additional Director General of Police<br>Gol Ministry of Panchayati Raj</p>
+                </div>
+            </div>
+            <!--div class="row" id="hex-guests">
                 <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3 g-text-center--xs">
                     <img src="img/guests/pavan.png" class="hex"></img>
                     <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Dr. Pawan Agrawal</span></h2>
@@ -377,7 +399,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     (Company that builds World
                     Class Robots)</p>
                 </div>
-            </div>
+            </div-->
         </div>
 
 
