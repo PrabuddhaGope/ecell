@@ -19,15 +19,16 @@ if ( isset( $_POST['submitexpo'] ) ) {
 <html lang="en" class="no-js">
     <!-- Begin Head -->
     <head>
-	    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113907534-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125403862-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-  gtag('config', 'UA-113907534-1');
-</script>
+      gtag('config', 'UA-125403862-1');
+    </script>
+
 
         <!-- Basic -->
         <meta charset="utf-8"/>
@@ -198,6 +199,8 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 </div>
             </div>
         </div>
+        <div style="position:relative;height:0;padding-bottom:56.24%"><iframe src="https://www.youtube.com/embed/gKfnDdUL-LE?ecver=2&controls=0&showinfo=0&modestbranding=1&vq=highres&rel=0" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
         <!--========== END PROMO BLOCK ==========-->
 
         <!--========== PAGE CONTENT ==========-->
@@ -348,7 +351,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
             <div class="row">
                 <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                     <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">speakers <span class="g-color--primary">Flagship'19</span></h2>
+                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">speakers <span class="g-color--primary">Flagship'18</span></h2>
                     </div>
                 </div>
             </div>
@@ -439,12 +442,99 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="card-tabs">
     		      <ul class="tabs tabs-fixed-width">
     		        <!--<li class="tab"><a  href="#attraction">Events</a></li>-->
+    		        <li class="tab"><a class=""  href="#startup">Startups</a></li>
     		        <li class="tab"><a class="active"  href="#session">Sessions</a></li>
     		        <li class="tab"><a href="#initiative">Initiatives</a></li>
 
     		      </ul>
     		    </div>
             </div>
+
+            <!--Startup Start-->
+            <div class="card-content code">
+                <div class="container g-margin-b-80--xs" id="startup">
+                    <div class="row">
+                        <!-- Item -->
+                        <div class=" col-md-2 col-md-offset-1 co-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <!--<img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">-->
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs"><span style="color:green">Meds</span><span style="color:red">On</span><span style="color:green">way</span></h4>
+                                        <!--<p class="g-color--dark">Yash Gandhi</p>-->
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('yash')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+                        <!-- Item -->
+                        <div class=" col-md-2 co-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <!--<img src="img/guests/ibhubs.jpg" alt="ibhubs" onerror="this.onerror=null;">-->
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs"><span style="color:blue">REP</span><span style="color:red">Tiles</span></h4>
+                                        <!--<p class="g-color--dark">IB Hubs</p>-->
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('ibhubs')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+                        <!-- Item -->
+                        <div class=" col-md-2 co-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <!--<img src="img/guests/frese.jpg" alt="frese" onerror="this.onerror=null;">-->
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs"><span style="color:cyan">Microland Limited</span></h4>
+                                        <!--<p class="g-color--dark">Michael Frese</p>-->
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('frese')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+                        <!-- Item -->
+                        <div class=" col-md-2 co-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <!--<img src="img/guests/chawala.jpg" alt="chawala" onerror="this.onerror=null;">-->
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs"><span style="color:red;">Spacewood</span></h4>
+                                        <!--<p class="g-color--dark">Devesh Chawla</p>-->
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('chawala')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+                        <!-- Item -->
+                        <div class=" col-md-2 co-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <!--<img src="img/guests/abrahams.jpg" alt="abrahams" onerror="this.onerror=null;">-->
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs"><span style="color:green">Lambent Technologies</span></h4>
+                                        <!--<p class="g-color--dark">Matt Abrahams</p>-->
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('abrahams')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Startup End-->
+
+
 
             <!--Sessions Start-->
             <div class="card-content code">
@@ -682,7 +772,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 </li>
                 <li>
                     <div>
-                        <img src="img/gal/03.jpg" alt=""/>
+                        <img src="img/gal/015.jpg" alt=""/>
                     </div>
                 </li>
 
