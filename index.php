@@ -420,16 +420,15 @@ if ( isset( $_POST['submitexpo'] ) ) {
                             <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-padding-x-20--xs g-color--white">Jugaad</h2>
                         </div>
                     </div>
-                    <div class="col-md-8 col-md-offset-1">
+                    <div class="col-md-9 col-md-offset-1">
                         <p class="g-font-size-18--xs g-color--white"><i>“A youth without fire is followed by an old age without experience.”</i></p>
-                            <p class="g-font-size-18--xs g-color--white">The Youth are not only leaders of tomorrow, but also partners of today. We at E-Cell VNIT are an
-                            inspired young team of individuals with a shared mission; a mission to change the world.<br>With India witnessing a radical change in the mindset
-                            of people towards Entrepreneurship there is a rising need to address the grass root challenges of development and focus on making
-                            the world self-reliant through both – individual and cooperative efforts.</p>
-                            <p class="g-font-size-18--xs g-color--white">Jugaad is an annual event which aims to create an inexorable spirit of entrepreneurship amongst
-                            students, with the freshmen as particular consideration for the Club. It aims to function as a guide in the form of a fun event for students
-                            with creative ideas which can be transformed into successful street level transactions.<br>The event has been a roaring success
-                            in the years gone by, and the fun filled learning that the event has provided in the past stands as a firm testimony to the same.</p>
+                            <p class="g-font-size-18--xs g-color--white">Jugaad is the ability to produce awesome products out of anything.
+                            To ignite this spirit, E-Cell organises an event called 'JUGAAD' at <a href="http://vnit.ac.in" style="color:white">Visvesvaraya National Institute of Technology</a>
+                            where the partcipipants use their skills, resources, languages and a solid understanding of time to make ginormous profits.</p>
+                            <p class="g-font-size-18--xs g-color--white">Participants are given an initial base investment of INR 100. Teams have full freedom
+                            to use that money whichever way they like, to earn maximum profits, through legal means. The event lets participants think different
+                            conducts to earn money which have at times resulted in beautiful ideas and products. The winners of the event are given exciting goodies
+                            and an internship opportunity at an esteemed organisation.</p>
 
 
                     </div>
