@@ -190,11 +190,14 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     </div>
                     <div class="col-sm-4 col-sm-pull-8">
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
-                            <a href="https://consortium.ecellvnit.org" title="Register">
+                            <a href="https://jugaad.ecellvnit.org" title="Register" target="_blank">
+
+                                <span class="text-uppercase g-font-size-30--xs g-color--white g-padding-x-15--xs"><b>Jugaad' 18</b></span>
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-right"></i>
-                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs"><b>Consortium' 18</b></span>
                             </a>
+                            <!--<p class="text-uppercase g-font-size-25--xs g-padding-x-15--xs">20 OCT</p>-->
                         </div>
+
                     </div>
                 </div>
             </div>
