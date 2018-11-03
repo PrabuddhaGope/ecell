@@ -322,34 +322,34 @@ if ( isset( $_POST['submitexpo'] ) ) {
         </div>
 
 
-        <div class="container g-padding-y-10--xs g-padding-y-40--sm">
-            <div class="row">
-                <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
-                    <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">why <span class="g-color--primary">Flagship</span></h2>
-                    </div>
-                </div>
-                <div class="col-md-10 col-md-offset-1">
-                    <p class="g-font-size-18--xs g-color--dark">Flagship, the annual curtain raiser for VNIT's entrepreneurial
-                    journey, has been graced by speakers and leaders across all walks
-                    of life, including Ms. Savi Sharma and Dr. Pawan Agarwal, who
-                    overcame extraordinary barriers and revolutionised the fields of
-                    literature and management, mesmerised students with tales of
-                    triumph on par with those of David against Goliath, motivating
-                    them to aim high and them to aim high and work on their very own success stories.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6 g-text-center--xs">
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">When</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark"><b>18 August, 2018</b></p>
-                </div>
-                <div class="col-md-6 g-text-center--xs">
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Venue</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark"><b>Auditorium, VNIT</b></p>
-                </div>
-            </div>
-        </div>
+        <!--<div class="container g-padding-y-10--xs g-padding-y-40--sm">-->
+        <!--    <div class="row">-->
+        <!--        <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">-->
+        <!--            <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">-->
+        <!--                <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">why <span class="g-color--primary">Flagship</span></h2>-->
+        <!--            </div>-->
+        <!--        </div>-->
+        <!--        <div class="col-md-10 col-md-offset-1">-->
+        <!--            <p class="g-font-size-18--xs g-color--dark">Flagship, the annual curtain raiser for VNIT's entrepreneurial-->
+        <!--            journey, has been graced by speakers and leaders across all walks-->
+        <!--            of life, including Ms. Savi Sharma and Dr. Pawan Agarwal, who-->
+        <!--            overcame extraordinary barriers and revolutionised the fields of-->
+        <!--            literature and management, mesmerised students with tales of-->
+        <!--            triumph on par with those of David against Goliath, motivating-->
+        <!--            them to aim high and them to aim high and work on their very own success stories.</p>-->
+        <!--        </div>-->
+        <!--    </div>-->
+        <!--    <div class="row">-->
+        <!--        <div class="col-md-6 g-text-center--xs">-->
+        <!--            <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">When</span></h2>-->
+        <!--            <p class="g-font-size-18--xs g-color--dark"><b>18 August, 2018</b></p>-->
+        <!--        </div>-->
+        <!--        <div class="col-md-6 g-text-center--xs">-->
+        <!--            <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Venue</span></h2>-->
+        <!--            <p class="g-font-size-18--xs g-color--dark"><b>Auditorium, VNIT</b></p>-->
+        <!--        </div>-->
+        <!--    </div>-->
+        <!--</div>-->
         <div class="container g-padding-y-10--xs g-padding-y-40--sm">
             <div class="row">
                 <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
@@ -429,6 +429,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                             to use that money whichever way they like, to earn maximum profits, through legal means. The event lets participants think different
                             conducts to earn money which have at times resulted in beautiful ideas and products. The winners of the event are given exciting goodies
                             and an internship opportunity at an esteemed organisation.</p>
+                            <a class="g-font-size-18--xs g-color--white" href="https://jugaad.ecellvnit.org">Know More</a>
 
 
                     </div>
@@ -722,6 +723,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         invigorating events like Startup Conclave and Swades. The summit aims at fueling entrepreneurial attitude amongst
                         students through healthy competition and exciting challenges. It fosters the importance of leadership and decision making
                         and introduces young technocrats to various management practices in the corporate world.</p>
+                        <a class="g-font-size-18--xs g-color--white" href="https://consortium.ecellvnit.org">Know More</a>
 
                     </div>
                 </div>
