@@ -568,7 +568,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="row">
                     <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                         <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md "><span class="g-color--primary">Flagship</span></h2>
+                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Flagship</h2>
                         </div>
                     </div>
                     <div class="col-md-8 col-md-offset-1">
@@ -685,7 +685,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="row">
                     <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                         <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md "><span class="g-color--primary">Jugaad</span></h2>
+                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Jugaad</h2>
                         </div>
                     </div>
                     <div class="col-md-9 col-md-offset-1">
@@ -814,7 +814,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
                     <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                         <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Conso<span class="g-color--primary">rtium</span></h2>
+                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Consortium</h2>
                         </div>
                     </div>
 

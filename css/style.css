@@ -2623,13 +2623,6 @@ background: linear-gradient(to right, #26D0CE, #1A2980)!important; /* W3C, IE 10
 }
 }
 
-
-body{
-  background: url('../img/1920x1080/ceo-landing.jpg');
-  background-position:center;
-  background-size:cover;
-  background-attachment:fixed;
-}
 #skew1{
   padding-top:150px;
   background: url('../img/1920x1080/ceo-landing.jpg');
@@ -2753,9 +2746,10 @@ body{
 }
 .flagship{
   padding-top:20px;
-  /*background: -webkit-gradient(linear,left top,right top,from(#5ebaf6),to(#605eca));*/
-  /*background: linear-gradient(90deg,#5ebaf6,#605eca);*/
   background:#e1ecf5;
+  background: -webkit-gradient(linear,left top,right top,from(#5ebaf6),to(#605eca));
+  background: linear-gradient(90deg,#5ebaf6,#605eca);
+
 }
 #conso{
     background-image: url(../img/bannerconso.png);
@@ -2768,16 +2762,16 @@ body{
 .conso{
   padding-top:20px;
   background: #e1ecf5;  /* fallback for old browsers */
-/*background: -webkit-linear-gradient(to right, #ff0000, #2c83cc);  */
-/*background: linear-gradient(to right, #ff0000, #2c83cc);*/
+background: -webkit-linear-gradient(to right, #ff0000, #FFEDBC);
+background: linear-gradient(to right, #ff0000,#FFEDBC);
 
 }
 
 .startupconclave{
   padding-top:20px;
   background: #e1ecf5;  /* fallback for old browsers */
-/*background: -webkit-linear-gradient(to right, #bd2600, #000); */
-/*background: linear-gradient(to right, #bd2600, #000);*/
+background: -webkit-linear-gradient(to right, #bd2600, #000);
+background: linear-gradient(to right, #bd2600, #000);
 
 }
 
@@ -2793,8 +2787,8 @@ body{
 .jugaad{
   padding-top:20px;
   background: #e1ecf5;  /* fallback for old browsers */
-  /*background: -webkit-linear-gradient(to left, #f7e09a, #e91e6391); */
-  /*background: linear-gradient(to left, #f7e09a, #e91e6391); */
+  background: -webkit-linear-gradient(to left, #f7e09a, #e91e6391);
+  background: linear-gradient(to left, #f7e09a, #e91e6391);
 
 
 }
