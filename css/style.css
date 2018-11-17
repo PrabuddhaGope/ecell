@@ -2623,6 +2623,13 @@ background: linear-gradient(to right, #26D0CE, #1A2980)!important; /* W3C, IE 10
 }
 }
 
+
+body{
+  background: url('../img/1920x1080/ceo-landing.jpg');
+  background-position:center;
+  background-size:cover;
+  background-attachment:fixed;
+}
 #skew1{
   padding-top:150px;
   background: url('../img/1920x1080/ceo-landing.jpg');
@@ -2646,8 +2653,8 @@ background: linear-gradient(to right, #26D0CE, #1A2980)!important; /* W3C, IE 10
     transform-origin: right bottom;
     background: -webkit-linear-gradient(170deg, rgba(44, 131, 204, 0.05), rgba(26, 41, 128, 0.4));
     background: linear-gradient(170deg, rgba(44, 131, 204, 0.05), rgba(26, 41, 128, 0.4));
-    -webkit-transform: skew(0deg,5deg);
-    transform: skew(0deg,5deg);
+    /*-webkit-transform: skew(0deg,5deg);*/
+    /*transform: skew(0deg,5deg);*/
 }
 #skew1:after{
      content: "";
@@ -2734,9 +2741,10 @@ background: linear-gradient(to right, #26D0CE, #1A2980)!important; /* W3C, IE 10
   padding-top:80px;
   background: -webkit-gradient(linear,left top,right top,from(#f89d89),to(#ffd297));
   background: linear-gradient(80deg,#f89d89,#ffd297);
+  /*background: #c3c3c3;*/
 }
 #flagship{
-    background-image: url(../img/bannerflagship.png);
+    /*background-image: url(../img/bannerflagship.png);*/
     background-size: 50% !important;
     background-position: 90% 2%;
     height: 100%;
@@ -2745,8 +2753,9 @@ background: linear-gradient(to right, #26D0CE, #1A2980)!important; /* W3C, IE 10
 }
 .flagship{
   padding-top:20px;
-  background: -webkit-gradient(linear,left top,right top,from(#5ebaf6),to(#605eca));
-  background: linear-gradient(90deg,#5ebaf6,#605eca);
+  /*background: -webkit-gradient(linear,left top,right top,from(#5ebaf6),to(#605eca));*/
+  /*background: linear-gradient(90deg,#5ebaf6,#605eca);*/
+  background:#e1ecf5;
 }
 #conso{
     background-image: url(../img/bannerconso.png);
@@ -2758,11 +2767,21 @@ background: linear-gradient(to right, #26D0CE, #1A2980)!important; /* W3C, IE 10
 }
 .conso{
   padding-top:20px;
-  background: #ED4264;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #ff0000, #FFEDBC);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #ff0000, #FFEDBC);
+  background: #e1ecf5;  /* fallback for old browsers */
+/*background: -webkit-linear-gradient(to right, #ff0000, #2c83cc);  */
+/*background: linear-gradient(to right, #ff0000, #2c83cc);*/
 
 }
+
+.startupconclave{
+  padding-top:20px;
+  background: #e1ecf5;  /* fallback for old browsers */
+/*background: -webkit-linear-gradient(to right, #bd2600, #000); */
+/*background: linear-gradient(to right, #bd2600, #000);*/
+
+}
+
+
 #jugaad{
     background-image: url(../img/bannerjugaad.png);
     background-size: 50% !important;
@@ -2773,9 +2792,9 @@ background: linear-gradient(to right, #ff0000, #FFEDBC);
 }
 .jugaad{
   padding-top:20px;
-  background: #e91e6391;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #f7e09a, #e91e6391);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #f7e09a, #e91e6391); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #e1ecf5;  /* fallback for old browsers */
+  /*background: -webkit-linear-gradient(to left, #f7e09a, #e91e6391); */
+  /*background: linear-gradient(to left, #f7e09a, #e91e6391); */
 
 
 }

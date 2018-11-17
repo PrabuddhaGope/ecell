@@ -190,9 +190,9 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     </div>
                     <div class="col-sm-4 col-sm-pull-8">
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
-                            <a href="https://jugaad.ecellvnit.org" title="Register" target="_blank">
+                            <a href="https://startupconclave.ecellvnit.org" title="Register" target="_blank">
 
-                                <span class="text-uppercase g-font-size-30--xs g-color--white g-padding-x-15--xs"><b>Jugaad' 18</b></span>
+                                <span class="text-uppercase g-font-size-20--xs g-color--white g-padding-x-15--xs"><b>Startup Concave' 19</b></span>
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-right"></i>
                             </a>
                             <!--<p class="text-uppercase g-font-size-25--xs g-padding-x-15--xs">20 OCT</p>-->
@@ -202,19 +202,18 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 </div>
             </div>
         </div>
+
+
+
         <div style="position:relative;height:0;padding-bottom:56.24%"><iframe src="https://www.youtube.com/embed/gKfnDdUL-LE?ecver=2&controls=0&showinfo=0&modestbranding=1&vq=highres&rel=0" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-
-        <!--========== END PROMO BLOCK ==========-->
-
-        <!--========== PAGE CONTENT ==========-->
         <!-- About -->
-        <div class="g-promo-section" id="about">
+        <div class="g-promo-section" id="about" style="background: rgba(255, 255, 255, 1);">
             <div class="container g-padding-y-10--xs g-padding-y-40--sm">
                 <div class="row">
                     <div class="col-md-4 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                         <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Ecell</p>-->
                         <br><div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">ABOUT</h2>
+                            <h2 class="g-font-size-30--xs g-font-size-40--sm g-font-size-50--md">ABOUT</h2>
                         </div>
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
                             <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-color--primary">E-CELL, VNIT</h2>
@@ -237,207 +236,60 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
         </div>
         <!-- End About -->
+        <!--========== END PROMO BLOCK ==========-->
 
-
-
-
+        <!--========== PAGE CONTENT ==========-->
         <!-- Counter -->
-        <!--<div class="js__parallax-window" style="background: url(img/1920x1080/06.jpg) 50% 0 no-repeat fixed;">-->
-        <!--    <div class="container g-padding-y-100--xs g-padding-y-125--sm">-->
-        <!--        <div class="row">-->
-        <!--            <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">-->
-        <!--                <div class="g-text-center--xs">-->
-        <!--                    <div class=" g-margin-b-0--xs">-->
-        <!--                        <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">20</figure>-->
-        <!--                        <span class="g-font-size-40--xs g-color--white">k+</span>-->
-        <!--                    </div>-->
-        <!--                    <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>-->
-        <!--                    <h4 class="g-font-size-18--xs g-color--white">No. of Participants</h4>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--            <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">-->
-        <!--                <div class="g-text-center--xs">-->
-        <!--                    <div class=" g-margin-b-0--xs">-->
-        <!--                        <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">1</figure>-->
-        <!--                        <span class="g-font-size-40--xs g-color--white">M</span>-->
-        <!--                    </div>-->
-        <!--                    <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>-->
-        <!--                    <h4 class="g-font-size-18--xs g-color--white">Prizes Worth</h4>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--            <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--sm">-->
-        <!--                <div class="g-text-center--xs">-->
-        <!--                    <div class=" g-margin-b-0--xs">-->
-        <!--                        <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">350</figure>-->
-        <!--                        <span class="g-font-size-40--xs g-color--white">+</span>-->
-        <!--                    </div>-->
-        <!--                    <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>-->
-        <!--                    <h4 class="g-font-size-18--xs g-color--white">Startups</h4>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--            <div class="col-md-3 col-xs-6 g-full-width--xs">-->
-        <!--                <div class="g-text-center--xs">-->
-        <!--                    <div class=" g-margin-b-0--xs">-->
-        <!--                        <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">15</figure>-->
-        <!--                        <span class="g-font-size-40--xs g-color--white">+</span>-->
-        <!--                    </div>-->
-        <!--                    <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>-->
-        <!--                    <h4 class="g-font-size-18--xs g-color--white">Speakers</h4>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--        </div>-->
-        <!--    </div>-->
-        <!--</div>-->
-        <!-- End Counter -->
-
-
-        <div class="flagship">
-            <div class="container g-padding-y-0--xs g-padding-y-0--sm" id="flagship">
-
-                <!-- End Swiper Clients -->
+        <div class="js__parallax-window" style="background: #2c83cce6;">
+            <div class="container g-padding-y-10--xs g-padding-y-15--sm">
                 <div class="row">
-                    <div class="col-md-14 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
-                        <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Ecell</p>-->
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-padding-x-20--xs g-color--white">Flagship</h2>
+                    <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">
+                        <div class="g-text-center--xs">
+                            <div class=" g-margin-b-0--xs">
+                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">500</figure>
+                                <span class="g-font-size-40--xs g-color--white">+</span>
+                            </div>
+                            <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
+                            <h4 class="g-font-size-18--xs g-color--white">Cities</h4>
                         </div>
                     </div>
-                    <div class="col-md-8 col-md-offset-1">
-                        <p class="g-font-size-18--xs g-color--white">Flagship is the inaugural fresco of VNIT’s Entrepreneurship cell
-                            that brings intellectuals speakers to empower today’s youth and
-                            running talent alike. </p>
-                            <p class="g-font-size-18--xs g-color--white">As the first event of the year, it is important to give a lasting impact
-                            on the minds of the students through a motivating and exciting
-                            session. This event provides a platform to the students of VNIT
-                            to channelize their inn to channelize their innovative ideas that addresses issues of
-                            national and international importance. </p>
-                            <p class="g-font-size-18--xs g-color--white">The young talent, especially the freshers at the college need a
-                            direction to work to bring out something productive out of
-                            themselves and this event gives them a chance to do so by
-                            interacting with the emminent personalities.</p>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <!--<div class="container g-padding-y-10--xs g-padding-y-40--sm">-->
-        <!--    <div class="row">-->
-        <!--        <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">-->
-        <!--            <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">-->
-        <!--                <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">why <span class="g-color--primary">Flagship</span></h2>-->
-        <!--            </div>-->
-        <!--        </div>-->
-        <!--        <div class="col-md-10 col-md-offset-1">-->
-        <!--            <p class="g-font-size-18--xs g-color--dark">Flagship, the annual curtain raiser for VNIT's entrepreneurial-->
-        <!--            journey, has been graced by speakers and leaders across all walks-->
-        <!--            of life, including Ms. Savi Sharma and Dr. Pawan Agarwal, who-->
-        <!--            overcame extraordinary barriers and revolutionised the fields of-->
-        <!--            literature and management, mesmerised students with tales of-->
-        <!--            triumph on par with those of David against Goliath, motivating-->
-        <!--            them to aim high and them to aim high and work on their very own success stories.</p>-->
-        <!--        </div>-->
-        <!--    </div>-->
-        <!--    <div class="row">-->
-        <!--        <div class="col-md-6 g-text-center--xs">-->
-        <!--            <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">When</span></h2>-->
-        <!--            <p class="g-font-size-18--xs g-color--dark"><b>18 August, 2018</b></p>-->
-        <!--        </div>-->
-        <!--        <div class="col-md-6 g-text-center--xs">-->
-        <!--            <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Venue</span></h2>-->
-        <!--            <p class="g-font-size-18--xs g-color--dark"><b>Auditorium, VNIT</b></p>-->
-        <!--        </div>-->
-        <!--    </div>-->
-        <!--</div>-->
-        <div class="container g-padding-y-10--xs g-padding-y-40--sm">
-            <div class="row">
-                <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
-                    <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">speakers <span class="g-color--primary">Flagship'18</span></h2>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row" id="hex-guests">
-                <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3 g-text-center--xs">
-                    <img src="img/guests/nipunweb.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Nipun Malhotra</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">Co-Founder & CEO Nipman Foundation<br><b>TEDx</b> Speaker; Indian School Of Business</p>
-                </div>
-                <div class="col-md-6 col-sm-6 g-text-center--xs">
-                    <img src="img/guests/akanchaweb.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Akancha Srivastava</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">Social Entrepreneur<br>Founder - Akancha Against Harassmant & Azure</p>
-                </div>
-                <div class="col-md-6 col-sm-6 g-text-center--xs">
-                    <img src="img/guests/sanjeebweb.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Sanjeeb Patjoshi</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">Additional Director General of Police<br>Gol Ministry of Panchayati Raj</p>
-                </div>
-            </div>
-            <!--div class="row" id="hex-guests">
-                <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3 g-text-center--xs">
-                    <img src="img/guests/pavan.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Dr. Pawan Agrawal</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">International Motivational Speaker
-                        Author, Business Consultant and
-                        Educationalist
-                        Appeared in international forums
-                        such as TEDx extensively talking
-                        about ‘Supply Chain Management’</p>
-                </div>
-                <div class="col-md-6 col-sm-6 g-text-center--xs">
-                    <img src="img/guests/savi.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Savi Sharma</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">India’s first successful female selfpublished
-                    author of million seller
-                    Novel - ‘Everyone Has a Story’
-                    Co-founder of motivational media
-                    blog ‘Life and People</p>
-                </div>
-                <div class="col-md-6 col-sm-6 g-text-center--xs">
-                    <img src="img/guests/balaji.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Balaji Viswanathan</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">Most followed Quora Writer
-                    of the World
-                    Co-founder and VP, Invento
-                    (Company that builds World
-                    Class Robots)</p>
-                </div>
-            </div-->
-        </div>
-
-
-        <div class="jugaad">
-            <div class="container g-padding-y-0--xs g-padding-y-0--sm" id="jugaad">
-
-                <!-- End Swiper Clients -->
-                <div class="row">
-                    <div class="col-md-14 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
-                        <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Ecell</p>-->
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-padding-x-20--xs g-color--white">Jugaad</h2>
+                    <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">
+                        <div class="g-text-center--xs">
+                            <div class=" g-margin-b-0--xs">
+                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">10</figure>
+                                <span class="g-font-size-40--xs g-color--white">K+</span>
+                            </div>
+                            <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
+                            <h4 class="g-font-size-18--xs g-color--white">Students</h4>
                         </div>
                     </div>
-                    <div class="col-md-9 col-md-offset-1">
-                        <p class="g-font-size-18--xs g-color--white"><i>“A youth without fire is followed by an old age without experience.”</i></p>
-                            <p class="g-font-size-18--xs g-color--white">Jugaad is the ability to produce awesome products out of anything.
-                            To ignite this spirit, E-Cell organises an event called 'JUGAAD' at <a href="http://vnit.ac.in" style="color:white">Visvesvaraya National Institute of Technology</a>
-                            where the partcipipants use their skills, resources, languages and a solid understanding of time to make ginormous profits.</p>
-                            <p class="g-font-size-18--xs g-color--white">Participants are given an initial base investment of INR 100. Teams have full freedom
-                            to use that money whichever way they like, to earn maximum profits, through legal means. The event lets participants think different
-                            conducts to earn money which have at times resulted in beautiful ideas and products. The winners of the event are given exciting goodies
-                            and an internship opportunity at an esteemed organisation.</p>
-                            <a class="g-font-size-18--xs g-color--white" href="https://jugaad.ecellvnit.org">Know More</a>
-
-
+                    <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--sm">
+                        <div class="g-text-center--xs">
+                            <div class=" g-margin-b-0--xs">
+                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">400</figure>
+                                <span class="g-font-size-40--xs g-color--white">+</span>
+                            </div>
+                            <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
+                            <h4 class="g-font-size-18--xs g-color--white">Startups</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-6 g-full-width--xs">
+                        <div class="g-text-center--xs">
+                            <div class=" g-margin-b-0--xs">
+                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">50</figure>
+                                <span class="g-font-size-40--xs g-color--white">+</span>
+                            </div>
+                            <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
+                            <h4 class="g-font-size-18--xs g-color--white">Speakers</h4>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Events -->
-        <div class="container g-padding-y-0--xs s-portfolio" id="events">
+         <!--End Counter -->
+
+         <!-- Events -->
+        <div class="container g-padding-y-0--xs s-portfolio" id="events" style="background: rgba(255, 255, 255, 1);">
             <div class="g-text-center--xs g-margin-b-40--xs">
                 <h2 class="g-font-size-32--xs g-font-size-36--md ">High <span class="g-color--primary">Lights</span></h2>
             </div>
@@ -707,28 +559,153 @@ if ( isset( $_POST['submitexpo'] ) ) {
             <!--Attractions End-->
 
         </div>
-        <div class="conso">
-            <div class="container g-padding-y-0--xs g-padding-y-0--sm " id="conso">
+
+
+        <div class="flagship">
+            <div class="container g-padding-y-0--xs g-padding-y-0--sm" id="flagship">
 
                 <!-- End Swiper Clients -->
                 <div class="row">
-                    <div class="col-md-14 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
-                        <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Ecell</p>-->
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-padding-x-20--xs g-color--white">Consortium</h2>
+                    <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                        <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
+                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md "><span class="g-color--primary">Flagship</span></h2>
                         </div>
                     </div>
                     <div class="col-md-8 col-md-offset-1">
-                        <p class="g-font-size-18--xs g-color--white">Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of
-                        invigorating events like Startup Conclave and Swades. The summit aims at fueling entrepreneurial attitude amongst
-                        students through healthy competition and exciting challenges. It fosters the importance of leadership and decision making
-                        and introduces young technocrats to various management practices in the corporate world.</p>
-                        <a class="g-font-size-18--xs g-color--white" href="https://consortium.ecellvnit.org">Know More</a>
+                        <p class="g-font-size-18--xs g-color--dark">Flagship is the inaugural fresco of VNIT’s Entrepreneurship cell
+                            that brings intellectuals speakers to empower today’s youth and
+                            running talent alike. </p>
+                            <p class="g-font-size-18--xs g-color--dark">As the first event of the year, it is important to give a lasting impact
+                            on the minds of the students through a motivating and exciting
+                            session. This event provides a platform to the students of VNIT
+                            to channelize their inn to channelize their innovative ideas that addresses issues of
+                            national and international importance. </p>
+                            <p class="g-font-size-18--xs g-color--dark">The young talent, especially the freshers at the college need a
+                            direction to work to bring out something productive out of
+                            themselves and this event gives them a chance to do so by
+                            interacting with the emminent personalities.</p>
 
                     </div>
                 </div>
             </div>
         </div>
+
+
+        <!--<div class="container g-padding-y-10--xs g-padding-y-40--sm">-->
+        <!--    <div class="row">-->
+        <!--        <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">-->
+        <!--            <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">-->
+        <!--                <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">why <span class="g-color--primary">Flagship</span></h2>-->
+        <!--            </div>-->
+        <!--        </div>-->
+        <!--        <div class="col-md-10 col-md-offset-1">-->
+        <!--            <p class="g-font-size-18--xs g-color--dark">Flagship, the annual curtain raiser for VNIT's entrepreneurial-->
+        <!--            journey, has been graced by speakers and leaders across all walks-->
+        <!--            of life, including Ms. Savi Sharma and Dr. Pawan Agarwal, who-->
+        <!--            overcame extraordinary barriers and revolutionised the fields of-->
+        <!--            literature and management, mesmerised students with tales of-->
+        <!--            triumph on par with those of David against Goliath, motivating-->
+        <!--            them to aim high and them to aim high and work on their very own success stories.</p>-->
+        <!--        </div>-->
+        <!--    </div>-->
+        <!--    <div class="row">-->
+        <!--        <div class="col-md-6 g-text-center--xs">-->
+        <!--            <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">When</span></h2>-->
+        <!--            <p class="g-font-size-18--xs g-color--dark"><b>18 August, 2018</b></p>-->
+        <!--        </div>-->
+        <!--        <div class="col-md-6 g-text-center--xs">-->
+        <!--            <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Venue</span></h2>-->
+        <!--            <p class="g-font-size-18--xs g-color--dark"><b>Auditorium, VNIT</b></p>-->
+        <!--        </div>-->
+        <!--    </div>-->
+        <!--</div>-->
+        <div class="container g-padding-y-10--xs g-padding-y-40--sm" style="background: rgba(255, 255, 255, 1);">
+            <div class="row">
+                <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                    <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
+                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">speakers <span class="g-color--primary">Flagship'18</span></h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" id="hex-guests">
+                <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3 g-text-center--xs">
+                    <img src="img/guests/nipunweb.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Nipun Malhotra</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Co-Founder & CEO Nipman Foundation<br><b>TEDx</b> Speaker; Indian School Of Business</p>
+                </div>
+                <div class="col-md-6 col-sm-6 g-text-center--xs">
+                    <img src="img/guests/akanchaweb.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Akancha Srivastava</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Social Entrepreneur<br>Founder - Akancha Against Harassmant & Azure</p>
+                </div>
+                <div class="col-md-6 col-sm-6 g-text-center--xs">
+                    <img src="img/guests/sanjeebweb.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Sanjeeb Patjoshi</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Additional Director General of Police<br>Gol Ministry of Panchayati Raj</p>
+                </div>
+            </div>
+            <!--div class="row" id="hex-guests">
+                <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3 g-text-center--xs">
+                    <img src="img/guests/pavan.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Dr. Pawan Agrawal</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">International Motivational Speaker
+                        Author, Business Consultant and
+                        Educationalist
+                        Appeared in international forums
+                        such as TEDx extensively talking
+                        about ‘Supply Chain Management’</p>
+                </div>
+                <div class="col-md-6 col-sm-6 g-text-center--xs">
+                    <img src="img/guests/savi.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Savi Sharma</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">India’s first successful female selfpublished
+                    author of million seller
+                    Novel - ‘Everyone Has a Story’
+                    Co-founder of motivational media
+                    blog ‘Life and People</p>
+                </div>
+                <div class="col-md-6 col-sm-6 g-text-center--xs">
+                    <img src="img/guests/balaji.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Balaji Viswanathan</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Most followed Quora Writer
+                    of the World
+                    Co-founder and VP, Invento
+                    (Company that builds World
+                    Class Robots)</p>
+                </div>
+            </div-->
+        </div>
+
+
+        <div class="jugaad">
+            <div class="container g-padding-y-0--xs g-padding-y-0--sm" id="jugaad">
+
+                <!-- End Swiper Clients -->
+                <div class="row">
+                    <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                        <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
+                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md "><span class="g-color--primary">Jugaad</span></h2>
+                        </div>
+                    </div>
+                    <div class="col-md-9 col-md-offset-1">
+                        <p class="g-font-size-18--xs g-color--dark"><i>“A youth without fire is followed by an old age without experience.”</i></p>
+                            <p class="g-font-size-18--xs g-color--dark">Jugaad is the ability to produce awesome products out of anything.
+                            To ignite this spirit, E-Cell organises an event called 'JUGAAD' at <a href="http://vnit.ac.in">Visvesvaraya National Institute of Technology</a>
+                            where the partcipipants use their skills, resources, languages and a solid understanding of time to make ginormous profits.</p>
+                            <p class="g-font-size-18--xs g-color--dark">Participants are given an initial base investment of INR 100. Teams have full freedom
+                            to use that money whichever way they like, to earn maximum profits, through legal means. The event lets participants think different
+                            conducts to earn money which have at times resulted in beautiful ideas and products. The winners of the event are given exciting goodies
+                            and an internship opportunity at an esteemed organisation.</p>
+                            <a class="g-font-size-18--xs g-color--dark" href="https://jugaad.ecellvnit.org">Know More</a>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
 
         <!-- Subscribe -->
        <!-- <div class="js__parallax-window" style="background: url(img/1920x1080/07.jpg) 50% 0 no-repeat fixed;" id="startupexpo">-->
@@ -748,7 +725,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <!-- End Subscribe -->
 
         <!--hex-->
-        <div class="container g-padding-y-10--xs g-padding-y-40--sm">
+        <div class="container g-padding-y-10--xs g-padding-y-40--sm" style="background: rgba(255, 255, 255, 1);">
         <div class="row">
                 <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                     <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
@@ -826,6 +803,37 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
             </ul>
         </div>
+
+
+
+        <div class="conso">
+            <div class="container g-padding-y-0--xs g-padding-y-0--sm " id="conso">
+
+                <!-- End Swiper Clients -->
+                <div class="row">
+
+                    <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                        <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
+                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Conso<span class="g-color--primary">rtium</span></h2>
+                        </div>
+                    </div>
+
+                    <div class="col-md-8 col-md-offset-1">
+                        <p class="g-font-size-18--xs g-color--dark">Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of
+                        invigorating events like Startup Conclave and Swades. The summit aims at fueling entrepreneurial attitude amongst
+                        students through healthy competition and exciting challenges. It fosters the importance of leadership and decision making
+                        and introduces young technocrats to various management practices in the corporate world.</p>
+                        <a class="g-font-size-18--xs g-color--dark" href="https://startupconclave.ecellvnit.org">Know More</a>
+
+                    </div>
+                </div>
+                <!-- End Swiper Clients -->
+
+
+
+            </div>
+        </div>
+
 
         <!-- Feedback Form -->
         <div class="g-bg-color--sky-light" id="contact">
