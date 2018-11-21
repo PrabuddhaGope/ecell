@@ -2762,8 +2762,8 @@ background: linear-gradient(to right, #26D0CE, #1A2980)!important; /* W3C, IE 10
 .conso{
   padding-top:20px;
   background: #e1ecf5;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #ff0000, #FFEDBC);
-background: linear-gradient(to right, #ff0000,#FFEDBC);
+background: -webkit-linear-gradient(to right, #ef6363, #FFEDBC);
+background: linear-gradient(to right, #ef6363,#FFEDBC);
 
 }
 

@@ -743,12 +743,12 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 </li>
                 <li>
                     <div>
-                        <img src="img/gal/014.jpg" alt=""/>
+                        <img src="img/gal/02.jpg" alt=""/>
                     </div>
                 </li>
                 <li>
                     <div>
-                        <img src="img/gal/02.jpg" alt=""/>
+                        <img src="img/gal/03.jpg" alt=""/>
                     </div>
                 </li>
                 <li>
@@ -757,13 +757,20 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     </div>
                 </li>
 
-
-
                 <li>
                     <div>
-                        <img src="img/gal/04.jpg" alt=""/>
+                        <img src="img/gal/011.jpg" alt=""/>
                     </div>
                 </li>
+                <!--<li class="pusher"></li>-->
+                <li>
+                    <div>
+                        <img src="img/gal/014.jpg" alt=""/>
+                    </div>
+                </li>
+
+
+
 
                 <li>
                     <div>
@@ -775,6 +782,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <img src="img/gal/05.jpg" alt=""/>
                     </div>
                 </li>
+
 
                 <li>
                     <div>
@@ -799,7 +807,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 </li>
 
 
-                <li class="pusher"></li>
+
 
             </ul>
         </div>
