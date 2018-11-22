@@ -43,6 +43,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         entrepreneurs in their journey in the world of
                         business">
         <meta name="author" content="Sagar Bansal">
+        <meta name="p:domain_verify" content="0f05c002329109d3b3d90e166a63e705"/>
 
         <!-- Web Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
