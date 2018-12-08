@@ -94,23 +94,6 @@
             </div>
             <br><br>
 
-            <!--<div class="row g-overflow--hidden">-->
-            <!--    <div class="col-xs-12 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">-->
-                    <!-- Speaker -->
-            <!--        <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-300--lg">-->
-            <!--            <img class="img-responsive g-width-100-percent--xs" src="img/400x400/sankalp.jpg" alt="Image">-->
-            <!--            <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">-->
-            <!--                <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
-            <!--                    <h4 class="g-font-size-22--xs g-font-size-22--sm g-color--white g-margin-b-0--xs">Sankalp Kotewar</h4>-->
-            <!--                </div>-->
-            <!--                <p class="g-font-weight--700">President</p>-->
-            <!--                <p>+91 9623478426<br>sankalpkotewar@ecellvnit.org</p>-->
-            <!--            </div>-->
-            <!--        </div>-->
-                    <!-- End Speaker -->
-            <!--    </div>-->
-            <!--</div>-->
-
 
             <div class="row g-overflow--hidden">
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
@@ -221,7 +204,7 @@
                             <!--<div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">-->
                                 <h4 class="g-font-size-22--xs g-font-size-22--sm g-color--white g-margin-b-0--xs">Sri Charan Mahavadi</h4>
                             </div>
-                            <p class="g-font-weight--700">Operation and Planning Head</p>
+                            <p class="g-font-weight--700">Operations and Planning Head</p>
                             <p>+91 89194 84722<br>sricharan@ecellvnit.org</p>
                         </div>
                     </div>
