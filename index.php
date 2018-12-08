@@ -120,11 +120,11 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <!-- Menu List -->
                         <ul class="list-unstyled s-header__nav-menu">
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#about">About</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.php">Team</a></li>
+
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#flagship">Events</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="spons.php">Sponsors</a></li>
-				<li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="https://consortium.ecellvnit.org">Consortium'18</a></li>
-
+				            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="https://startupconclave.ecellvnit.org">Startup Conclave</a></li>
+				            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.php">Team</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#contact">Contact Us</a></li>
                         </ul>
                         <!-- End Menu List -->
@@ -161,7 +161,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <!--========== END HEADER ==========-->
 
         <!--========== PROMO BLOCK ==========-->
-        <div class="s-promo-block-v3 g-bg-position--center g-fullheight--sm" id='skew1' >
+        <div class="s-promo-block-v3 g-bg-position--center g-fullheight--xs" id='skew1' >
             <div class="container g-ver-center--sm g-padding-y-125--md g-padding-y-40--xs">
                 <div class="g-margin-t-30--xs g-margin-t-0--sm  g-margin-t-125--lg g-margin-b-30--xs g-margin-b-40--md">
                     <h1 class="g-font-size-26--xs g-font-size-40--sm g-font-size-60--lg g-color--white g-font-weight--600">THE<br>ENTREPRENEURSHIP<br><span style="color:#2c83cc;">CELL</span></h1>
@@ -253,7 +253,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">
                         <div class="g-text-center--xs">
                             <div class=" g-margin-b-0--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">500</figure>
+                                <figure class="g-display-inline-block--xs g-font-size-50--xs g-color--white js__counter">200</figure>
                                 <span class="g-font-size-40--xs g-color--white">+</span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
@@ -263,7 +263,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">
                         <div class="g-text-center--xs">
                             <div class=" g-margin-b-0--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">10</figure>
+                                <figure class="g-display-inline-block--xs g-font-size-50--xs g-color--white  g-margin-b-0--xs js__counter">10</figure>
                                 <span class="g-font-size-40--xs g-color--white">K+</span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
@@ -273,7 +273,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--sm">
                         <div class="g-text-center--xs">
                             <div class=" g-margin-b-0--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">400</figure>
+                                <figure class="g-display-inline-block--xs g-font-size-50--xs g-color--white  g-margin-b-0--xs js__counter">300</figure>
                                 <span class="g-font-size-40--xs g-color--white">+</span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
@@ -283,7 +283,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     <div class="col-md-3 col-xs-6 g-full-width--xs">
                         <div class="g-text-center--xs">
                             <div class=" g-margin-b-0--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">50</figure>
+                                <figure class="g-display-inline-block--xs g-font-size-50--xs g-color--white js__counter">50</figure>
                                 <span class="g-font-size-40--xs g-color--white">+</span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
@@ -838,7 +838,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         invigorating events like Startup Conclave and Swades. The summit aims at fueling entrepreneurial attitude amongst
                         students through healthy competition and exciting challenges. It fosters the importance of leadership and decision making
                         and introduces young technocrats to various management practices in the corporate world.</p>
-                        <a class="g-font-size-18--xs g-color--dark" href="https://startupconclave.ecellvnit.org">Know More</a>
+                        <a class="g-font-size-18--xs g-color--dark" href="https://consortium.ecellvnit.org">Know More</a>
 
                     </div>
                 </div>

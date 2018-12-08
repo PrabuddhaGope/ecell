@@ -1390,7 +1390,7 @@ fieldset[disabled] .s-btn {
 
 .s-header__nav-menu-link {
   display: inline-block;
-  font-size: 2.0rem;
+  font-size: 1.4rem;
   font-weight: 500;
   color: #fff;
   opacity: .8;
@@ -2624,7 +2624,7 @@ background: linear-gradient(to right, #26D0CE, #1A2980)!important; /* W3C, IE 10
 }
 
 #skew1{
-  padding-top:150px;
+  padding-top:70px;
   background: url('../img/1920x1080/ceo-landing.jpg');
   background-position:center;
   background-size:cover;
