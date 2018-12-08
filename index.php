@@ -44,6 +44,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         business">
         <meta name="author" content="Sagar Bansal">
         <meta name="p:domain_verify" content="0f05c002329109d3b3d90e166a63e705"/>
+        <meta name="theme-color" content="rgb(44,131,204)" )="">
 
         <!-- Web Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -89,7 +90,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                             <!-- Logo -->
                             <div class="s-header__logo">
                                 <a href="#" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo-ecell.png" alt="Ecell Logo">
+                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo-ecell.png" alt="Ecell Logo" width="135px">
                                     <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-ecell-sm.png" alt="Ecell Logo">
                                 </a>
                             </div>
@@ -160,10 +161,10 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <!--========== END HEADER ==========-->
 
         <!--========== PROMO BLOCK ==========-->
-        <div class="s-promo-block-v3 g-bg-position--center g-fullheight--sm" style=";"id='skew1' >
-            <div class="container g-ver-center--sm g-padding-y-125--xs g-padding-y-0--sm">
-                <div class="g-margin-t-30--xs g-margin-t-0--sm g-margin-b-30--xs g-margin-b-70--md">
-                    <h1 class="g-font-size-20--xs g-font-size-40--sm g-font-size-60--lg g-color--white g-font-weight--600">THE<br>ENTREPRENEURSHIP<br><span style="color:#2c83cc;">CELL</span></h1>
+        <div class="s-promo-block-v3 g-bg-position--center g-fullheight--sm" id='skew1' >
+            <div class="container g-ver-center--sm g-padding-y-125--md g-padding-y-40--xs">
+                <div class="g-margin-t-30--xs g-margin-t-0--sm  g-margin-t-125--lg g-margin-b-30--xs g-margin-b-40--md">
+                    <h1 class="g-font-size-26--xs g-font-size-40--sm g-font-size-60--lg g-color--white g-font-weight--600">THE<br>ENTREPRENEURSHIP<br><span style="color:#2c83cc;">CELL</span></h1>
                 </div>
                 <div class="row">
                     <div class="col-sm-8 col-sm-push-4 g-margin-b-50--xs g-margin-b-0--md">
@@ -178,8 +179,13 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <span class="s-promo-block-v3__date g-font-size-60--xs g-font-size-30--sm g-font-size-50--lg g-font-weight--600 g-color--primary">E-CELL<br><span class="g-font-size-20--xs g-font-size-30--lg">VNIT</span></span>
+                                            <a href="https://startupconclave.ecellvnit.org" title="Register" target="_blank">
+                                                <span class="text-uppercase g-font-size-16--xs g-color--white g-padding-x-5--xs"><b>Startup Concave' 19</b></span>
+                                                <i class="s-icon s-icon--sm s-icon--white-bg g-radius--circle ti-arrow-right"></i>
+                                            </a>
+                                            <!--<span class="s-promo-block-v3__date g-font-size-60--xs g-font-size-30--sm g-font-size-50--lg g-font-weight--600 g-color--primary">E-CELL<br><span class="g-font-size-20--xs g-font-size-30--lg">VNIT</span></span>-->
                                         </div>
+
                                     </div>
                                     <!--<div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">-->
                                     <!--    <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Prize Worth</span>-->
@@ -189,17 +195,17 @@ if ( isset( $_POST['submitexpo'] ) ) {
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-sm-pull-8">
-                        <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
-                            <a href="https://startupconclave.ecellvnit.org" title="Register" target="_blank">
+                    <!--<div class="col-sm-4 col-sm-pull-8">-->
+                    <!--    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">-->
+                    <!--        <a href="https://startupconclave.ecellvnit.org" title="Register" target="_blank">-->
 
-                                <span class="text-uppercase g-font-size-20--xs g-color--white g-padding-x-15--xs"><b>Startup Concave' 19</b></span>
-                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-right"></i>
-                            </a>
+                    <!--            <span class="text-uppercase g-font-size-20--xs g-color--white g-padding-x-15--xs"><b>Startup Concave' 19</b></span>-->
+                    <!--            <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-right"></i>-->
+                    <!--        </a>-->
                             <!--<p class="text-uppercase g-font-size-25--xs g-padding-x-15--xs">20 OCT</p>-->
-                        </div>
+                    <!--    </div>-->
 
-                    </div>
+                    <!--</div>-->
                 </div>
             </div>
         </div>
@@ -224,7 +230,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <p class="g-font-size-18--xs g-color--dark">Entrepreneurship Cell is managed by students of
                         VNIT under the guidance of Centre of Innovation, Nagpur and PM Yuva Yojana, which aims to promote and develop entrepreneurship culture amongst the students. Throughout the year, we
                         conduct various events, workshops and speaker
-                        sessions sessions for inspiring and assisting young
+                        sessions for inspiring and assisting young
                         entrepreneurs in their journey in the world of
                         business.</p>
                         <p class="g-font-size-18--xs g-color--dark"><a href="http://vnit.ac.in/"class="g-color--primary" style="text-decoration:underline;">Visvesvaraya National Institute of Technology</a>

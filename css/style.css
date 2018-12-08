@@ -2636,7 +2636,7 @@ background: linear-gradient(to right, #26D0CE, #1A2980)!important; /* W3C, IE 10
 #skew1:before{
      content: "";
     width: 100%;
-    height: 10%;
+    height: 0%;
     z-index: -0;
     background: #2c83cc;
     position: absolute;
@@ -2652,7 +2652,7 @@ background: linear-gradient(to right, #26D0CE, #1A2980)!important; /* W3C, IE 10
 #skew1:after{
      content: "";
     width: 100%;
-    height: 10%;
+    height: 0%;
     z-index: -0;
     background: #2c83cc;
     position: absolute;

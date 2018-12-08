@@ -78,12 +78,11 @@
                         </a>
                     </div>
                     <div class="col-sm-12 col-md-4 col-lg-4">
-                            <p class="g-color--white">For Association Opportunities Contact:<br><b>association@ecellvnit.org</b></p>
-                            <p class="g-color--white">For Sponsorship Opportunities Contact:<br><b>sponsorship@ecellvnit.org<b></p>
-                            <p class="g-color--white">For Speaking Opportunities Contact:<br><b>speaker@ecellvnit.org</b></p>
+                            <p class="g-color--white">For Association Opportunities Contact:<br><b>contact@ecellvnit.org</b></p>
+                            <p class="g-color--white">For Sponsorship Opportunities Contact:<br><b>shubhamjadhav@ecellvnit.org<b></p>
                     </div>
                     <div class="col-sm-12 col-md-4 col-lg-4 g-text-right--md">
-                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white">© <a class="g-color--primary" href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a> All rights reserved.</p>
+                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white">Copyright <a class="g-color--primary" href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a></p>
                     </div>
                 </div>
             </div>
