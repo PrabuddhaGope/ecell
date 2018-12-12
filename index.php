@@ -652,36 +652,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     <p class="g-font-size-18--xs g-color--dark">Additional Director General of Police<br>Gol Ministry of Panchayati Raj</p>
                 </div>
             </div>
-            <!--div class="row" id="hex-guests">
-                <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3 g-text-center--xs">
-                    <img src="img/guests/pavan.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Dr. Pawan Agrawal</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">International Motivational Speaker
-                        Author, Business Consultant and
-                        Educationalist
-                        Appeared in international forums
-                        such as TEDx extensively talking
-                        about ‘Supply Chain Management’</p>
-                </div>
-                <div class="col-md-6 col-sm-6 g-text-center--xs">
-                    <img src="img/guests/savi.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Savi Sharma</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">India’s first successful female selfpublished
-                    author of million seller
-                    Novel - ‘Everyone Has a Story’
-                    Co-founder of motivational media
-                    blog ‘Life and People</p>
-                </div>
-                <div class="col-md-6 col-sm-6 g-text-center--xs">
-                    <img src="img/guests/balaji.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Balaji Viswanathan</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">Most followed Quora Writer
-                    of the World
-                    Co-founder and VP, Invento
-                    (Company that builds World
-                    Class Robots)</p>
-                </div>
-            </div-->
+
         </div>
 
 
@@ -705,31 +676,11 @@ if ( isset( $_POST['submitexpo'] ) ) {
                             conducts to earn money which have at times resulted in beautiful ideas and products. The winners of the event are given exciting goodies
                             and an internship opportunity at an esteemed organisation.</p>
                             <a class="g-font-size-18--xs g-color--dark" href="https://jugaad.ecellvnit.org">Know More</a>
-
-
                     </div>
                 </div>
             </div>
         </div>
 
-
-
-        <!-- Subscribe -->
-       <!-- <div class="js__parallax-window" style="background: url(img/1920x1080/07.jpg) 50% 0 no-repeat fixed;" id="startupexpo">-->
-       <!--     <div class="g-container--sm g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">-->
-       <!--         <div class="g-margin-b-80--xs">-->
-       <!--             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs">Startup Expo</p>-->
-       <!--             <h2 class="g-font-size-32--xs g-font-size-36--md g-color--white">Showcase your Startup at our Annual Entrepreneurship Summit</h2>-->
-       <!--         </div>-->
-       <!--         <div class="row">-->
-       <!--             <div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">-->
-
-			    <!--<a class="btn btn-primary" href="https://expo.ecellvnit.org/" target="_blank" role="button">Know More</a>-->
-       <!--             </div>-->
-       <!--         </div>-->
-       <!--     </div>-->
-       <!-- </div>-->
-        <!-- End Subscribe -->
 
         <!--hex-->
         <div class="container g-padding-y-10--xs g-padding-y-40--sm" style="background: rgba(255, 255, 255, 1);">
@@ -852,7 +803,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
         <!-- Feedback Form -->
         <div class="g-bg-color--sky-light" id="contact">
-            <div class="container g-padding-y-0--xs g-padding-y-0--sm">
+            <div class="container g-padding-y-0--xs g-padding-x-10--xs g-padding-x-150--md g-padding-y-0--sm">
                 <div class="g-text-center--xs g-margin-b-40--xs">
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Contact</p>
                     <h2 class="g-font-size-32--xs g-font-size-36--md">Mail Us</h2>

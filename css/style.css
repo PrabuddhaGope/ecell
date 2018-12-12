@@ -2945,5 +2945,7 @@ background: linear-gradient(to right, #bd2600, #000);
 }
 
 .core{
-  filter:grayscale(90%) !important;
+  filter:grayscale(80%) !important;
+  border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);
 }
