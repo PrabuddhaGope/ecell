@@ -26,6 +26,7 @@
   animation: mysecond 1s;
 }
 
+/*sxsxs*/
 .tee{
 
     background:url(../img/store/tee.jpg) 10%;
@@ -36,6 +37,9 @@
 
 
 @media(max-width:500px){
+    .img-2, .img-1{
+        max-width:220px;
+    }
     .tee{
         height:80vh;
     }
