@@ -35,14 +35,48 @@
     background-position: 35% !important;
 }
 
+.tee-button{
+    width:160px; background:#fff; border:1px #fff solid;
+    padding-top:11px;
+    padding-bottom:11px;
+    color:#000 !important;
+}
+
+.tee-button:hover a{
+    color:#bd2620 !important;
+    background:#fff00 !important;
+
+
+}
+.tee-button a{
+        font-size:16px;
+    }
 
 @media(max-width:500px){
     .img-2, .img-1{
         max-width:220px;
     }
+
     .tee{
+
+        background:url(../img/store/tee.jpg) 10%;
         height:80vh;
+        background-size: cover !important;
+        background-position: 35% 10% !important;
     }
+    .tee-button{
+        width:120px; background:#fff; border:1px #fff solid;
+        padding-top:10px;
+        padding-bottom:10px;
+        color:#000 !important;
+    }
+    .tee-button a{
+        font-size:14px;
+    }
+
+
+
+
 }
 
 
@@ -79,4 +113,24 @@
       margin-left:0px;
 
   }
+}
+
+
+#loading {
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   position: fixed;
+   display: flex;
+   background-color: #262626;
+   z-index: 11199;
+   text-align: center;
+   justify-content:center;
+  align-items:center;
+}
+
+#loading-image {
+  position: absolute;
+
 }
