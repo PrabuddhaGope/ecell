@@ -1,0 +1,78 @@
+.store-img{
+    width: 100%;
+    position: relative;
+    display: grid;
+    justify-content: center;
+}
+
+.img-1{
+    z-index:1;
+    width:100%;
+    max-width:300px;
+    -webkit-animation: myfirst 1s; /* Safari 4.0 - 8.0 */
+   /* Safari 4.0 - 8.0 */
+   margin-left:0px;
+  animation: myfirst 1s;
+}
+
+.img-2{
+    z-index:0;
+    max-width:300px;
+    width:100%;
+    margin-top:-76%;
+    margin-left:0px;
+    -webkit-animation: myfirst 1s; /* Safari 4.0 - 8.0 */
+   /* Safari 4.0 - 8.0 */
+  animation: mysecond 1s;
+}
+
+.tee{
+
+    background:url(../img/store/tee.jpg) 10%;
+    height:180vh;
+    background-size: cover !important;
+    background-position: 35% !important;
+}
+
+
+@media(max-width:500px){
+    .tee{
+        height:80vh;
+    }
+}
+
+
+/* Safari 4.0 - 8.0 */
+/*@-webkit-keyframes myfirst {*/
+/*  0%   {background: red; left: 0px; top: 0px;}*/
+/*  25%  {background: yellow; left: 200px; top: 0px;}*/
+/*  50%  {background: blue; left: 200px; top: 200px;}*/
+/*  75%  {background: green; left: 0px; top: 200px;}*/
+/*  100% {background: red; left: 0px; top: 0px;}*/
+/*}*/
+
+@keyframes myfirst {
+  0%   {
+      margin-left:-600px;
+
+
+  }
+
+  100%   {
+      margin-left:0px;
+
+
+  }
+}
+
+@keyframes mysecond {
+  0%   {
+      margin-left:200px;
+
+  }
+
+  100%   {
+      margin-left:0px;
+
+  }
+}
