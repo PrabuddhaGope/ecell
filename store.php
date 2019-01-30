@@ -61,7 +61,9 @@
 
                 </div>
             </div>
+
         </div>
+        <div class="indicator"><i class="ti-angle-double-down"></i></div>
 
 
 
@@ -131,7 +133,7 @@
                         </a>
                     </div>
                     <div class="col-sm-12 col-md-4 col-lg-4">
-                            <p class="g-color--white">Contact:<br><b>ROHIT: </b> 89836 82793<BR><b>AYUSHI: </b>88303 14193</p>
+                            <p class="g-color--white">Contact:<br><b>ROHIT: </b> 8983682793<BR><b>AYUSHI: </b>8830314193</p>
                             <p class="g-color--white">Buy at: <b>store.ecellvnit.org<b></p>
                     </div>
                     <div class="col-sm-12 col-md-4 col-lg-4 g-text-right--md">

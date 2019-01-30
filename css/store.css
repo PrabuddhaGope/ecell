@@ -49,12 +49,26 @@
 
 }
 .tee-button a{
-        font-size:16px;
-    }
+    font-size:16px;
+    color:#000 !important;
+}
+
+
+.indicator{
+
+    position: absolute;
+    color: #bbb;
+    width: 20px;
+    margin-top: -40px;
+    left: calc(50% - 10px);
+
+}
+
+
 
 @media(max-width:500px){
     .img-2, .img-1{
-        max-width:220px;
+        max-width:200px;
     }
 
     .tee{
@@ -62,7 +76,7 @@
         background:url(../img/store/tee.jpg) 10%;
         height:80vh;
         background-size: cover !important;
-        background-position: 35% 10% !important;
+        background-position: 10% !important;
     }
     .tee-button{
         width:120px; background:#fff; border:1px #fff solid;
