@@ -50,12 +50,12 @@
         <!--========== END HEADER ==========-->
 
         <!--========== PROMO BLOCK ==========-->
-        <div class="g-bg-position--center js__parallax-window" style="background:#1d1d1d 100% 0 no-repeat fixed; height:100vh; display:flex; align-items:center">
+        <div class="g-bg-position--center js__parallax-window  g-padding-y-40--xs" style="background:#1d1d1d 100% 0 no-repeat fixed; height:100vh; display:flex; align-items:center;">
             <div class="g-container--md g-text-center--xs g-padding-y-40--xs ">
                 <h1 class="g-font-size-20--xs g-font-size-40--sm g-font-size-50--md g-color--white g-letter-spacing--3">STORE | ECELLVNIT</h1>
 
 
-                <div class="store-img g-padding-y-60--xs g-padding-y-60--md" style="margin-top:30px">
+                <div class="store-img g-padding-y-30--xs g-padding-y-30--md" style="margin-top:30px">
                     <img class="img-1" src="img/store/1_white-01.png" alt="" >
                     <img class="img-2" src="img/store/1_red-01.png" alt="">
 
