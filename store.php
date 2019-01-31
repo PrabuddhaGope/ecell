@@ -67,8 +67,8 @@
 
 
 
-        <div class="s-promo-block-v3  tee g-padding-y-40--xs" style="">
-            <div class="container g-padding-y-125--md g-padding-y-40--xs g-padding-y-40--md" style="top:32%; position: relative;">
+        <div class="s-promo-block-v3  tee g-padding-y-20--xs g-padding-y-40--md" style="">
+            <div class="container g-padding-y-125--md g-padding-y-40--xs g-padding-y-40--md tee-inner" style=" position: relative;">
                 <div class="g-margin-t-30--xs g-margin-t-0--sm  g-padding-x-20--xs g-margin-t-125--lg g-margin-b-30--xs g-margin-b-40--md">
                     <h1 class="g-font-size-30--xs g-font-size-40--sm g-font-size-60--lg g-color--white g-font-weight--600">CONSORTIUM'19<BR><span style="color:#aaa;">OFFICIAL</span><br><span style="color:#555;"><b>MERCHANDISE</b></span></h1>
                 <p style="color:#aaa">*Available Sizes: S, M, L, XL, XXL</p>
@@ -133,7 +133,7 @@
                         </a>
                     </div>
                     <div class="col-sm-12 col-md-4 col-lg-4">
-                            <p class="g-color--white">Contact:<br><b>ROHIT: </b> 8983682793<BR><b>AYUSHI: </b>8830314193</p>
+                            <p class="g-color--white">Contact:<br><b>ROHIT: </b> 8983682793</p>
                             <p class="g-color--white">Buy at: <b>store.ecellvnit.org<b></p>
                     </div>
                     <div class="col-sm-12 col-md-4 col-lg-4 g-text-right--md">

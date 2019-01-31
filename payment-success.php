@@ -36,7 +36,7 @@
 
         <!-- Theme Styles -->
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
-        <link href="css/overlay.css" rel="stylesheet" type="text/css"/>
+        <link href="css/store.css" rel="stylesheet" type="text/css"/>
         <link href="css/global/global.css" rel="stylesheet" type="text/css"/>
 
         <!-- Favicon -->
@@ -53,24 +53,17 @@
         <!--========== END HEADER ==========-->
 
         <!--========== PROMO BLOCK ==========-->
-        <div class="g-bg-position--center js__parallax-window" style="background: black 100% 0 no-repeat fixed; height:100vh;">
+        <div class="g-bg-position--center js__parallax-window  g-padding-y-40--xs" style="background:#1d1d1d 100% 0 no-repeat fixed; height:100vh; display:flex; align-items:center;">
             <div class="g-container--md g-text-center--xs g-padding-y-40--xs ">
                 <h1 class="g-font-size-20--xs g-font-size-40--sm g-font-size-50--md g-color--white g-letter-spacing--3">THANK YOU | ECELLVNIT</h1>
 
-                <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs"><?php
-                    if(isset($_POST['txnid'])){
-                        echo "Your Transaction ID: ".$_POST['txnid'];
-                    }
-
-                ?></p>
-
-
-                <div class="store-img g-padding-y-60--xs g-padding-y-60--md">
+                <div class="store-img g-padding-y-30--xs g-padding-y-30--md" style="margin-top:30px">
                     <img class="img-1" src="img/store/1_white-01.png" alt="" >
                     <img class="img-2" src="img/store/1_red-01.png" alt="">
 
                 </div>
             </div>
+
         </div>
 
 
