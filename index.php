@@ -179,8 +179,8 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <a href="https://startupconclave.ecellvnit.org" title="Register" target="_blank">
-                                                <span class="text-uppercase g-font-size-16--xs g-color--white g-padding-x-5--xs"><b>Startup Concave' 19</b></span>
+                                            <a href="https://consortium.ecellvnit.org" title="Register" target="_blank">
+                                                <span class="text-uppercase g-font-size-16--xs g-color--white g-padding-x-5--xs"><b>Consortium' 19</b></span>
                                                 <i class="s-icon s-icon--sm s-icon--white-bg g-radius--circle ti-arrow-right"></i>
                                             </a>
                                             <!--<span class="s-promo-block-v3__date g-font-size-60--xs g-font-size-30--sm g-font-size-50--lg g-font-weight--600 g-color--primary">E-CELL<br><span class="g-font-size-20--xs g-font-size-30--lg">VNIT</span></span>-->
@@ -212,7 +212,6 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
 
 
-        <div style="position:relative;height:0;padding-bottom:56.24%"><iframe src="https://www.youtube.com/embed/gKfnDdUL-LE?ecver=2&controls=0&showinfo=0&modestbranding=1&vq=highres&rel=0" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
         <!-- About -->
         <div class="g-promo-section" id="about" style="background: rgba(255, 255, 255, 1);">
             <div class="container g-padding-y-10--xs g-padding-y-40--sm">
@@ -799,6 +798,9 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
             </div>
         </div>
+         <div style="position:relative;height:0;padding-bottom:56.24%"><iframe src="https://www.youtube.com/embed/gKfnDdUL-LE?ecver=2&controls=0&showinfo=0&modestbranding=1&vq=highres&rel=0" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+
 
 
         <!-- Feedback Form -->

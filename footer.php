@@ -49,43 +49,104 @@
             </div>
             <!-- End Sponsors -->
             <!-- Copyright -->
-            <div class="container g-padding-y-20--xs">
+            <div class="container g-padding-y-30--xs">
+                <h1 class="g-color--white-opacity">Quick Links</h1>
+                <br>
                 <div class="row">
-                    <div class="col-sm-12 col-md-4 col-lg-4">
-                        <a href="index.php">
-                            <img class="g-width-100--xs g-height-auto--xs" src="img/logo-ecell.png" alt="Ecell Logo">
-                        </a>
-                        <br><br>
-                        <a class="s-header__action-link" href=" https://m.facebook.com/vnitecell/">
-                            <i class="g-padding-r-5--xs ti-facebook"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
-                        </a>
-                        <a class="s-header__action-link" href="https://twitter.com/ecell_vnit">
-                            <i class="g-padding-r-5--xs ti-twitter"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Twitter</span>
-                        </a>
-                        <a class="s-header__action-link" href=" https://www.instagram.com/ecellvnit/">
-                            <i class="g-padding-r-5--xs ti-instagram"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Instagram</span>
-                        </a>
-                        <br>
-                        <a class="s-header__action-link" href=" https://www.linkedin.com/company/6615520/">
-                            <i class="g-padding-r-5--xs ti-linkedin"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">LinkedIn</span>
-                        </a>
-                        <a class="s-header__action-link" href=" https://www.youtube.com/channel/UC0KNOmODhqLcEpcfN9qEsIQ">
-                            <i class="g-padding-r-5--xs ti-youtube"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">YouTube</span>
+
+                    <div class="col-sm-12 col-md-3 col-lg-3">
+                        <h4 class="g-color--white-opacity"><b>Consortium'19</b></h4>
+                        <a href="https://ca.ecellvnit.org/" target="_blank" class="g-color--white-opacity-light footer-para g-font-size-16--xs">
+                           Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur
                         </a>
                     </div>
-                    <div class="col-sm-12 col-md-4 col-lg-4">
-                            <p class="g-color--white">For Association Opportunities Contact:<br><b>contact@ecellvnit.org</b></p>
-                            <p class="g-color--white">For Sponsorship Opportunities Contact:<br><b>shubhamjadhav@ecellvnit.org<b></p>
+
+                    <div class="col-sm-12 col-md-3 col-lg-3">
+                        <h4 class="g-color--white-opacity"><b>Startup Conclave</b></h4>
+                        <a href="https://startupconclave.ecellvnit.org/" target="_blank" class="g-color--white-opacity-light footer-para g-font-size-16--xs">
+                            StartUp Conclave, a national-level business plan competition and a part of Consortium'19
+                        </a>
                     </div>
-                    <div class="col-sm-12 col-md-4 col-lg-4 g-text-right--md">
-                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white">Copyright <a class="g-color--primary" href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a></p>
+
+
+                    <div class="col-sm-12 col-md-3 col-lg-3">
+                        <h4 class="g-color--white-opacity"><b>Buy Merchandise</b></h4>
+                        <a href="https://store.ecellvnit.org/" target="_blank" class="g-color--white-opacity-light footer-para g-font-size-16--xs">
+                            Buy official merchandise of Consortium'19 at Ecell VNIT online store.
+                        </a>
                     </div>
+                    <div class="col-sm-12 col-md-3 col-lg-3">
+                        <h4 class="g-color--white-opacity"><b>Startup Expo</b></h4>
+                        <a href="expo.php" target="_blank" class="g-color--white-opacity-light footer-para g-font-size-16--xs">
+                            A grand platform for startups to display their product and/ or service to all the people.
+                        </a>
+                    </div>
+
+
+
                 </div>
             </div>
+            <br>
+
+
+            <div class="container" style="padding-top:22px">
+
+                        <div class="row">
+
+
+
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-2">
+                                <div>
+                                    <img src="https://startupconclave.ecellvnit.org/static/img/E-Cell_white.png" alt="" height="100" style="padding-top:30px">
+
+                                </div>
+
+                            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
+                                <h4 class="g-color--white-opacity">Contact Us</h4>
+                                    <p class="g-color--white-opacity-light">For Association Opportunities:<br><b>contact@ecellvnit.org</b></p>
+                                    <p class="g-color--white-opacity-light">For Sponsorship Opportunities:<br><b>shubhamjadhav@ecellvnit.org<b></b></b></p>
+                            </div>
+                            <div class="col-sm-12 col-sm-4 col-md-4 col-lg-6">
+
+                                <h4 class="g-color--white-opacity">Follow Ecell VNIT</h4>
+
+                                <a class="s-header__action-link" href=" https://m.facebook.com/vnitecell/" target="_blank">
+                                    <i class="g-padding-r-5--xs ti-facebook"></i>
+                                    <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
+                                </a>
+                                <a class="s-header__action-link" href="https://twitter.com/ecell_vnit" target="_blank">
+                                    <i class="g-padding-r-5--xs ti-twitter"></i>
+                                    <span class="g-display-none--xs g-display-inline-block--sm">Twitter</span>
+                                </a>
+                                <a class="s-header__action-link" href=" https://www.instagram.com/ecellvnit/" target="_blank">
+                                    <i class="g-padding-r-5--xs ti-instagram"></i>
+                                    <span class="g-display-none--xs g-display-inline-block--sm">Instagram</span>
+                                </a>
+
+
+                                <a class="s-header__action-link" href=" https://www.linkedin.com/company/6615520/" target="_blank">
+                                    <i class="g-padding-r-5--xs ti-linkedin"></i>
+                                    <span class="g-display-none--xs g-display-inline-block--sm">LinkedIn</span>
+                                </a>
+
+                                <a class="s-header__action-link" href=" https://www.youtube.com/channel/UC0KNOmODhqLcEpcfN9qEsIQ" target="_blank">
+                                    <i class="g-padding-r-5--xs ti-youtube"></i>
+                                    <span class="g-display-none--xs g-display-inline-block--sm">YouTube</span>
+                                </a>
+                            </div>
+
+
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12" style="position:relative; text-align:center">
+                                <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity g-padding-y-20--md">Copyright:  <a class="g-color--primary" href="https://ecellvnit.org" target="_blank">E-Cell VNIT</a>    Developed By: <a class="g-color--primary" href="https://www.linkedin.com/in/sagar-bansal-448097140/" target="_blank">sagban</a></p>
+
+                            </div>
+                        </div>
+
+
+                    </div>
+
             <!-- End Copyright -->
         </footer>
