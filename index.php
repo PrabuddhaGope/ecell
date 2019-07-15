@@ -227,15 +227,13 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     </div>
                     <div class="col-md-7 col-md-offset-1">
                         <p class="g-font-size-18--xs g-color--dark">Entrepreneurship Cell is managed by students of
-                        VNIT under the guidance of Centre of Innovation, Nagpur and PM Yuva Yojana, which aims to promote and develop entrepreneurship culture amongst the students. Throughout the year, we
-                        conduct various events, workshops and speaker
-                        sessions for inspiring and assisting young
-                        entrepreneurs in their journey in the world of
-                        business.</p>
+                        VNIT under the guidance of Centre of Innovation, Nagpur and Prime Minister Yuva Yojana, which aims to promote and develop
+                        entrepreneurship culture amongst the students.
+                        Throughout the year, we conduct various events, workshops and invite speakers from
+                        varied domains to inspire and assist students on their journey to become leading entrepreneurs of tomorrow.</p>
                         <p class="g-font-size-18--xs g-color--dark"><a href="http://vnit.ac.in/"class="g-color--primary" style="text-decoration:underline;">Visvesvaraya National Institute of Technology</a>
-                        (VNIT Nagpur) is a public engineering and research institution in India. It is located in Nagpur, Maharashtra. VNIT is centrally-funded and belongs to the National Institutes of
-                        Technology (NIT) system. In 2007, the institute was con was conferred the status of Institute of
-                        National Importance by an VNIT Nagpur Act of Parliament of India.</p>
+                        (VNIT) (VNIT) is an engineering and research institution in India. Located in Nagpur, Maharashtra it is centrally-funded and belongs to the National Institutes of Technology (NIT) system.
+                        In 2007, the institute was conferred the status of Institute of National Importance by the VNIT Nagpur Act of Parliament of India.</p>
                     </div>
                 </div>
             </div>
@@ -297,7 +295,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
          <!-- Events -->
         <div class="container g-padding-y-0--xs s-portfolio" id="events" style="background: rgba(255, 255, 255, 1);">
             <div class="g-text-center--xs g-margin-b-40--xs">
-                <h2 class="g-font-size-32--xs g-font-size-36--md ">High <span class="g-color--primary">Lights</span></h2>
+                <h2 class="g-font-size-32--xs g-font-size-36--md ">High<span class="g-color--primary">Lights</span></h2>
             </div>
             <div class="card" id="event-card-bg">
                 <div class="card-tabs">
@@ -578,18 +576,14 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         </div>
                     </div>
                     <div class="col-md-8 col-md-offset-1">
-                        <p class="g-font-size-18--xs g-color--dark">Flagship is the inaugural fresco of VNIT’s Entrepreneurship cell
-                            that brings intellectuals speakers to empower today’s youth and
-                            running talent alike. </p>
-                            <p class="g-font-size-18--xs g-color--dark">As the first event of the year, it is important to give a lasting impact
-                            on the minds of the students through a motivating and exciting
-                            session. This event provides a platform to the students of VNIT
-                            to channelize their inn to channelize their innovative ideas that addresses issues of
-                            national and international importance. </p>
-                            <p class="g-font-size-18--xs g-color--dark">The young talent, especially the freshers at the college need a
-                            direction to work to bring out something productive out of
-                            themselves and this event gives them a chance to do so by
-                            interacting with the emminent personalities.</p>
+                        <p class="g-font-size-18--xs g-color--dark">VNIT's Entrepreneurship Cell presents Flagship, it's inaugural event.  </p>
+                        <p class="g-font-size-18--xs g-color--dark">Flagship connects today's youth to intellectual and experienced speakers. </p>
+                        <p class="g-font-size-18--xs g-color--dark">As the first event of the year, Flagship leaves a lasting impact on the
+                              minds of the students through a motivating and exciting session.
+                              It provides students a platform to display innovation and address
+                              issues of national and international importance. </p>
+                        <p class="g-font-size-18--xs g-color--dark">Most importantly, Flagship provides the freshers at college the required
+                          direction to increase productivity of work, and the guidance of eminent personalities.</p>
 
                     </div>
                 </div>
@@ -667,13 +661,14 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     </div>
                     <div class="col-md-9 col-md-offset-1">
                         <p class="g-font-size-18--xs g-color--dark"><i>“A youth without fire is followed by an old age without experience.”</i></p>
-                            <p class="g-font-size-18--xs g-color--dark">Jugaad is the ability to produce awesome products out of anything.
-                            To ignite this spirit, E-Cell organises an event called 'JUGAAD' at <a href="http://vnit.ac.in">Visvesvaraya National Institute of Technology</a>
-                            where the partcipipants use their skills, resources, languages and a solid understanding of time to make ginormous profits.</p>
-                            <p class="g-font-size-18--xs g-color--dark">Participants are given an initial base investment of INR 100. Teams have full freedom
-                            to use that money whichever way they like, to earn maximum profits, through legal means. The event lets participants think different
-                            conducts to earn money which have at times resulted in beautiful ideas and products. The winners of the event are given exciting goodies
-                            and an internship opportunity at an esteemed organisation.</p>
+                            <p class="g-font-size-18--xs g-color--dark">‘Jugaad’, a term often associated with entrepreneurs, is a flexible approach
+                              to problem-solving that uses limited resources in an innovative way .To ignite this spirit, E-Cell organises an event
+                              called 'JUGAAD' at <a href="http://vnit.ac.in">Visvesvaraya National Institute of Technology</a>
+                            where with limited resources, an excruciatingly small time frame put together with their jugaadu skills the participants make ginormous profits.</p>
+                            <p class="g-font-size-18--xs g-color--dark">Each team is given an initial base investment of INR 100.
+                              Teams have full freedom to use this money whichever way they like, to make maximum profits through legal means.
+                              The event encourages out of the box thinking through which participants can earn profits, which in fact has resulted in beautiful
+                              ideas and products many a times. The winners of the event are awarded with exciting goodies and an internship opportunity at an esteemed organisation.</p>
                             <a class="g-font-size-18--xs g-color--dark" href="https://jugaad.ecellvnit.org">Know More</a>
                     </div>
                 </div>
@@ -784,10 +779,11 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     </div>
 
                     <div class="col-md-8 col-md-offset-1">
-                        <p class="g-font-size-18--xs g-color--dark">Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of
-                        invigorating events like Startup Conclave and Swades. The summit aims at fueling entrepreneurial attitude amongst
-                        students through healthy competition and exciting challenges. It fosters the importance of leadership and decision making
-                        and introduces young technocrats to various management practices in the corporate world.</p>
+                        <p class="g-font-size-18--xs g-color--dark">Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur of
+                        <a href="http://vnit.ac.in">VNIT Nagpur</a> is a three day fest which comprises of invigorating events like
+                        Startup Conclave, Swades, Bizzmantra and many more. The summit aims at fueling the entrepreneurial attitude
+                        amongst students through healthy competition and exciting challenges, giving them a peak into the real world.
+                        Get ready to dive into the extravaganza of </p>
                         <a class="g-font-size-18--xs g-color--dark" href="https://consortium.ecellvnit.org">Know More</a>
 
                     </div>
