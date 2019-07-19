@@ -131,7 +131,7 @@
 
                             <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Lakshya Shukla</p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Treasurer</p>
-                            <p>+91 77384 46941<br>anilllakshya6@gmail.com</p>
+                            <p>+91 77384 46941<br>lakshyashukla32@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->

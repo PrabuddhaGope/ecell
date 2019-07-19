@@ -104,7 +104,7 @@
                             </div>
                             <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
                                 <h4 class="g-color--white-opacity">Contact Us</h4>
-                                    <p class="g-color--white-opacity-light">For Association Opportunities:<br><b>kaustubh.rajimwale@gmail.com</b><br><b>anilllakshya6@gmail.com</b></p>
+                                    <p class="g-color--white-opacity-light">For Association Opportunities:<br><b>kaustubh.rajimwale@gmail.com</b><br><b>lakshyashukla32@gmail.com</b></p>
                                     <p class="g-color--white-opacity-light">For Sponsorship Opportunities:<br><b>aryan199841@gmail.com</b><br><b>agnikrishnaa@gmail.com</b></p>
                             </div>
                             <div class="col-sm-12 col-sm-4 col-md-4 col-lg-6">
