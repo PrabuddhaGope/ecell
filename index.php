@@ -232,7 +232,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         Throughout the year, we conduct various events, workshops and invite speakers from
                         varied domains to inspire and assist students on their journey to become leading entrepreneurs of tomorrow.</p>
                         <p class="g-font-size-18--xs g-color--dark"><a href="http://vnit.ac.in/"class="g-color--primary" style="text-decoration:underline;">Visvesvaraya National Institute of Technology</a>
-                        (VNIT) (VNIT) is an engineering and research institution in India. Located in Nagpur, Maharashtra it is centrally-funded and belongs to the National Institutes of Technology (NIT) system.
+                        (VNIT) is an engineering and research institution in India. Located in Nagpur, Maharashtra it is centrally-funded and belongs to the National Institutes of Technology (NIT) system.
                         In 2007, the institute was conferred the status of Institute of National Importance by the VNIT Nagpur Act of Parliament of India.</p>
                     </div>
                 </div>
