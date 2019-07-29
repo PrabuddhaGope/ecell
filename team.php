@@ -241,7 +241,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/rohit.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
                             <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Rohit Maheswari</p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Operations djflfk</p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Operations</p>
                             <p>+91 89836 82793<br>mahesmahesrohit@gmail.com</p>
                         </div>
                     </div>
