@@ -632,11 +632,11 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3 g-text-center--xs">
                     <img src="img/guests/harsh-goela.png" class="hex"></img>
                     <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Harsh Goela</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">Stock Trader<br><b>TEDx</b> Speaker;, Founder of Goela School of Finance</p>
+                    <p class="g-font-size-18--xs g-color--dark">Stock Trader<br><b>TEDx</b> Speaker, Founder of Goela School of Finance</p>
                 </div>
                 <div class="col-md-6 col-sm-6 g-text-center--xs">
                     <img src="img/guests/pankhuri.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Pankhuri Gidwani:</span></h2>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Pankhuri Gidwani</span></h2>
                     <p class="g-font-size-18--xs g-color--dark">Miss Grand International India 2016<br>Renowned <b>TEDx</b> Speaker</p>
                 </div>
                 <div class="col-md-6 col-sm-6 g-text-center--xs">
