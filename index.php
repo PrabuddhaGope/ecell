@@ -572,7 +572,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="row">
                     <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                         <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Flagship        <span style="color:cyan"  class="g-font-size-32--xs">2nd August</span></h2>
+                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Flagship</h2>
                         </div>
                     </div>
                     <div class="col-md-8 col-md-offset-1">
@@ -586,6 +586,10 @@ if ( isset( $_POST['submitexpo'] ) ) {
                           direction to increase productivity of work, and the guidance of eminent personalities.</p>
 
                     </div>
+                    <div class="col-md-8 col-md-offset-1 g-text-right--xs">
+                        <h2 class="g-font-size-16--xs g-font-size-18--sm g-font-size-18--md g-color--dark">5:30 PM | 02 August<br>5th floor, New Admin Building, VNIT Nagpur</h2>
+                    </div>
+
                 </div>
             </div>
         </div>
