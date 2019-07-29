@@ -179,8 +179,8 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <a href="https://consortium.ecellvnit.org" title="Register" target="_blank">
-                                                <span class="text-uppercase g-font-size-16--xs g-color--white g-padding-x-5--xs"><b>Consortium' 19</b></span>
+                                            <a href="#flagship" title="Register" target="_blank">
+                                                <span class="text-uppercase g-font-size-16--xs g-color--white g-padding-x-5--xs"><b>FLAGSHIP' 19</b></span>
                                                 <i class="s-icon s-icon--sm s-icon--white-bg g-radius--circle ti-arrow-right"></i>
                                             </a>
                                             <!--<span class="s-promo-block-v3__date g-font-size-60--xs g-font-size-30--sm g-font-size-50--lg g-font-weight--600 g-color--primary">E-CELL<br><span class="g-font-size-20--xs g-font-size-30--lg">VNIT</span></span>-->
@@ -572,7 +572,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="row">
                     <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                         <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Flagship        <span style="color:cyan">2nd August</span></h2>
+                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Flagship        <span style="color:cyan"  class="g-font-size-32--xs">2nd August</span></h2>
                         </div>
                     </div>
                     <div class="col-md-8 col-md-offset-1">
