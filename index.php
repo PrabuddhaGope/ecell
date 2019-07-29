@@ -572,7 +572,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="row">
                     <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                         <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Flagship</h2>
+                            <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">Flagship        <span style="color:cyan">2nd August</span></h2>
                         </div>
                     </div>
                     <div class="col-md-8 col-md-offset-1">
@@ -623,26 +623,26 @@ if ( isset( $_POST['submitexpo'] ) ) {
             <div class="row">
                 <div class="col-md-12 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                     <div class="wow fadeInLeft g-text-center--xs" data-wow-duration=".3" data-wow-delay=".3s">
-                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">speakers <span class="g-color--primary">Flagship'18</span></h2>
+                        <h2 class="g-font-size-32--xs g-font-size-36--sm g-font-size-36--md ">speakers <span class="g-color--primary">Flagship'19</span></h2>
                     </div>
                 </div>
             </div>
 
             <div class="row" id="hex-guests">
                 <div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3 g-text-center--xs">
-                    <img src="img/guests/nipunweb.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Nipun Malhotra</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">Co-Founder & CEO Nipman Foundation<br><b>TEDx</b> Speaker; Indian School Of Business</p>
+                    <img src="img/guests/harsh-goela.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Harsh Goela</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Stock Trader<br><b>TEDx</b> Speaker;, Founder of Goela School of Finance</p>
                 </div>
                 <div class="col-md-6 col-sm-6 g-text-center--xs">
-                    <img src="img/guests/akanchaweb.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Akancha Srivastava</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">Social Entrepreneur<br>Founder - Akancha Against Harassmant & Azure</p>
+                    <img src="img/guests/pankhuri.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Pankhuri Gidwani:</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Miss Grand International India 2016<br>Renowned <b>TEDx</b> Speaker</p>
                 </div>
                 <div class="col-md-6 col-sm-6 g-text-center--xs">
-                    <img src="img/guests/sanjeebweb.png" class="hex"></img>
-                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Sanjeeb Patjoshi</span></h2>
-                    <p class="g-font-size-18--xs g-color--dark">Additional Director General of Police<br>Gol Ministry of Panchayati Raj</p>
+                    <img src="img/guests/jay-alani.png" class="hex"></img>
+                    <h2 class="g-font-size-24--xs g-font-size-24--md "><span class="g-color--primary">Jay Alani</span></h2>
+                    <p class="g-font-size-18--xs g-color--dark">Paranormal Investigator<br>Renowned <b>TEDx</b> Speaker</p>
                 </div>
             </div>
 
