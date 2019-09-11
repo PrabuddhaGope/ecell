@@ -1,2 +1,2 @@
-<?php header('https://forms.gle/FSnRL3dLGKKn66SDA')
+<?php header("Location: https://forms.gle/FSnRL3dLGKKn66SDA")
 ?>
