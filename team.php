@@ -69,7 +69,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/bhatt-sir.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. Bhatt</p>
+                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. S. S. Bhatt</p>
                             <p class="g-font-weight--700">Professor Incharge</p>
                         </div>
                     </div>
@@ -81,7 +81,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/taiwade-sir.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. Taiwade</p>
+                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. R. V. Taiwade</p>
                             <p class="g-font-weight--700">Professor Incharge</p>
                         </div>
                     </div>
@@ -98,7 +98,8 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/ayush.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Ayush Singh</p>
+
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/ayush-singh-91291511b/" class="link">Ayush Singh <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">President</p>
                             <p>+91 94235 39984<br>ayushsingh@ecellvnit.org</p>
                         </div>
@@ -111,7 +112,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/anushree.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Anushree Rungta</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/anushree-rungta-820751144/" class="link">Anushree Rungta <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Vice President</p>
                             <p>+91 98224 44112<br>anushree@ecellvnit.org</p>
                         </div>
@@ -129,7 +130,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/lakshya.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Lakshya Shukla</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/lakshya-shukla" class="link">Lakshya Shukla <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Treasurer</p>
                             <p>+91 77384 46941<br>lakshyashukla32@gmail.com</p>
                         </div>
@@ -148,7 +149,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/kaustubh.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Kaustubh Rajimwale</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/kaustubh03" class="link">Kaustubh Rajimwale <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Events and Planning</p>
                             <p>+91 96197 03630<br>kaustubh.rajimwale@gmail.com</p>
                         </div>
@@ -161,7 +162,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/ratnesh.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Ratnesh Kumar</p>
+                          <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/ratnesh-kumar-81015b15a" class="link">Ratnesh kumar <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Events and Planning</p>
                             <p>+91 83080 25238<br>ratneshkumar7591@gmail.com</p>
                         </div>
@@ -177,7 +178,7 @@
                     <div class="center-block g-width-300--xs">
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/satyajeet.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Satyajeet Sutar</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/satyajeet-sutar-744a4a14b" class="link">Satyajeet Sutar <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Events and Planning</p>
                             <p>+91 90493 36219<br>satya179sutar@gmail.com</p>
                         </div>
@@ -193,7 +194,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/aryan.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Aryan Shah</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/aryan-shah-4739b1184/" class="link">Aryan Shah <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Corporate Relation</p>
                             <p>+91 80871 13811<br>aryan199841@gmail.com</p>
                         </div>
@@ -207,7 +208,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/atul.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Atul Krishna</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://in.linkedin.com/in/atul-krishna-248b99166" class="link">Atul Krishna <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Corporate Relation</p>
                             <p>+91 99701 25551<br>agnikrishnaa@gmail.com</p>
                         </div>
@@ -224,7 +225,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/g2.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Jitendra Rahangdale</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/jitendra-rahangdale-97b01a168" class="link">Jitendra Rahangdale <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Web and Technical</p>
                             <p>+91 89560 79892<br>jitendra98rahangdale@gmail.com</p>
                         </div>
@@ -240,7 +241,7 @@
                     <div class="center-block g-width-300--xs">
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/rohit.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Rohit Maheswari</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/rohit-maheswari-vnit" class="link">Rohit Maheswari <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Operations</p>
                             <p>+91 89836 82793<br>mahesmahesrohit@gmail.com</p>
                         </div>
@@ -253,7 +254,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/manas.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Manas Naik</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/anushree-rungta-820751144/" class="link">Manas Naik <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Operations</p>
                             <p>+91 95035 50139<br>manasnaik96@gmail.com</p>
                         </div>
@@ -270,7 +271,7 @@
                     <div class="center-block g-width-300--xs">
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/muskan.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Muskan Gupta</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/muskan-gupta-5ba657180" class="link">Muskan Gupta <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Public Relations</p>
                             <p>+91 94057 02815<br>mgmuskan99@gmail.com</p>
                         </div>
@@ -283,7 +284,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/gourav.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Gourav Routray</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/gourav-routray-021b7015a" class="link">Gourav Routray <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Public Relations</p>
                             <p>+91 99690 23517<br>routraygourav07@gmail.com</p>
                         </div>
@@ -300,7 +301,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/prajwal.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Prajjwal Khanna</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/prajjwal-khanna-8270b8178" class="link">Prajjwal Khanna <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Public Realations</p>
                             <p>+91 99298 05957<br>prajjwalkhanna.98@gmail.com</p>
                         </div>
