@@ -66,10 +66,10 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/fac1.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/bhatt-sir.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. Vijayakumar R. P.</p>
+                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. Bhatt</p>
                             <p class="g-font-weight--700">Professor Incharge</p>
                         </div>
                     </div>
@@ -78,10 +78,10 @@
                 <div class="col-xs-6 g-full-width--xs">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/fac2.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/taiwade-sir.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. Chayan Das</p>
+                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. Taiwade</p>
                             <p class="g-font-weight--700">Professor Incharge</p>
                         </div>
                     </div>
