@@ -84,6 +84,7 @@
 			</style>
       <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/one-plus.png" width="200" alt=""></div>
       <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/microsoft-azure.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/caldeys.jpg" width="200" alt=""></div>
       <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/coca-cola.png" width="200" alt=""></div>
 
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/big-basket.jpg" width="200" alt=""></div>
@@ -117,7 +118,7 @@
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/vlcc.png" width="150" alt=""></div>
       <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/2.png" width="200" alt=""></div>
       <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/bubble-bee.jpg" width="200" alt=""></div>
-      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/caldeys.jpg" width="200" alt=""></div>
+<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/imerys.png" width="200" alt=""></div>
 
       <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/chatur-ideas.png" width="200" alt=""></div>
       <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/desi-entrepreneurs.png" width="200" alt=""></div>
