@@ -82,42 +82,45 @@
 					display:flex; align-items:center;height:200px; justify-content:center;
 				}
 			</style>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/2.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/one-plus.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/microsoft-azure.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/coca-cola.png" width="200" alt=""></div>
+
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/big-basket.jpg" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/bubble-bee.jpg" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/caldeys.jpg" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/canara-bank.png" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/chatur-ideas.png" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/coal-inda.png" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/coca-cola.png" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/desi-entrepreneurs.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/sbi.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/coal-india.png" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/digital-india.jpg" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/download.png" width="120" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/ecozen.png" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/ei.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/startupindia.png" width="200" alt=""></div>
+			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/make-in-india.jpg" width="200" alt=""></div>
+			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/moil.jpg" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/hpcl.png" width="150" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/imerys.jpg" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/indian-oil.gif" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/jds.jpg" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/kinetic-gears.jpg" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/make-in-india.jpg" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/microsoft-azure.png" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/moil.jpg" width="200" alt=""></div>
+<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/canara-bank.png" width="200" alt=""></div>
+
+
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/msins-type.jpg" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/msins.jpg" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/navigus.png" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/office-mate.jpg" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/one-plus.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/ecozen.png" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/pnaf.png" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/powergrid.png" width="150" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/rotary.png" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/sbi.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/ei.png" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/simplecrm.png" width="200" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/startupindia.png" width="200" alt=""></div>
+
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/thrive5-crowdera.png" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/tibbs-frankie.png" width="200" alt=""></div>
 			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/vlcc.png" width="150" alt=""></div>
-			<div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/vnitaa.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/2.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/bubble-bee.jpg" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/caldeys.jpg" width="200" alt=""></div>
+
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/chatur-ideas.png" width="200" alt=""></div>
+      <div class="col-sm-6 col-xs-16 col-md-3 col-lg-2 my"><img src="img/sponsors/desi-entrepreneurs.png" width="200" alt=""></div>
 
 		</div>
         <!--========== END PAGE CONTENT ==========-->
