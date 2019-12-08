@@ -101,7 +101,7 @@
 
                             <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/ayush-singh-91291511b/" class="link">Ayush Singh <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">President</p>
-                            <p>+91 94235 39984<br>ayushsingh@ecellvnit.org</p>
+                            <p>+91 94235 39984</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
@@ -109,12 +109,12 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/anushree.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/shubham.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/anushree-rungta-820751144/" class="link">Anushree Rungta <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/shubham-jadhav-a63b5abb" class="link">Shubham Jadhav <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Vice President</p>
-                            <p>+91 98224 44112<br>anushree@ecellvnit.org</p>
+                            <p>+91 98224 44112</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
