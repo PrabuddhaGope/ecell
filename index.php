@@ -226,14 +226,20 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         </div>
                     </div>
                     <div class="col-md-7 col-md-offset-1">
-                        <p class="g-font-size-18--xs g-color--dark">Entrepreneurship Cell is managed by students of
-                        VNIT under the guidance of Centre of Innovation, Nagpur and Prime Minister Yuva Yojana, which aims to promote and develop
-                        entrepreneurship culture amongst the students.
-                        Throughout the year, we conduct various events, workshops and invite speakers from
-                        varied domains to inspire and assist students on their journey to become leading entrepreneurs of tomorrow.</p>
-                        <p class="g-font-size-18--xs g-color--dark"><a href="http://vnit.ac.in/"class="g-color--primary" style="text-decoration:underline;">Visvesvaraya National Institute of Technology</a>
-                        (VNIT) is an engineering and research institution in India. Located in Nagpur, Maharashtra it is centrally-funded and belongs to the National Institutes of Technology (NIT) system.
-                        In 2007, the institute was conferred the status of Institute of National Importance by the VNIT Nagpur Act of Parliament of India.</p>
+                        <p class="g-font-size-18--xs g-color--dark">E-Cell VNIT is the entreprenuship cell of <a href="http://vnit.ac.in/"class="g-color--primary" style="text-decoration:underline;">Visvesvaraya National Institute of Technology</a>. As the name suggests, the very purpose of E-Cell is to foster a community of contemporary as well as seasoned entrepreneurs,
+                           besides mentoring of new and budding startups across the country.</p>
+                        <p class="g-font-size-18--xs g-color--dark">
+                          Established since 2003, E-cell has been the driving force for channelizing and guiding more than 5,000 startups, impacting over 200,000 students, and would-be-entrepreneurs.
+                        </p>
+                        <p class="g-font-size-18--xs g-color--dark">
+                          With a variety of programs E-Cell organization plays a key role in development of entrepreneurial skills and giving an opportunity to the deserving.
+                        </p>
+                        <p class="g-font-size-18--xs g-color--dark">
+                          At the same time, it has been invoking a sense of responsibility towards the nation in students by empowering social startups as well.
+                        </p>
+                        <p class="g-font-size-18--xs g-color--dark">
+                          Throughout the year, the E-Cell organizes expert talks, webinar, workshops, light skill development events as well as highly rewarding competitionns, pitching scenarios and much more.
+                        </p>
                     </div>
                 </div>
             </div>
