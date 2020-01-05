@@ -229,7 +229,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <p class="g-font-size-18--xs g-color--dark">E-Cell VNIT is the entreprenuship cell of <a href="http://vnit.ac.in/"class="g-color--primary" style="text-decoration:underline;">Visvesvaraya National Institute of Technology</a>. As the name suggests, the very purpose of E-Cell is to foster a community of contemporary as well as seasoned entrepreneurs,
                            besides mentoring of new and budding startups across the country.</p>
                         <p class="g-font-size-18--xs g-color--dark">
-                          Established since 2003, E-cell has been the driving force for channelizing and guiding more than 5,000 startups, impacting over 200,000 students, and would-be-entrepreneurs.
+                          Established since 2003, E-Cell has been the driving force for channelizing and guiding more than 5,000 startups, impacting over 200,000 students and would-be-entrepreneurs.
                         </p>
                         <p class="g-font-size-18--xs g-color--dark">
                           With a variety of programs E-Cell organization plays a key role in development of entrepreneurial skills and giving an opportunity to the deserving.
@@ -266,7 +266,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">
                         <div class="g-text-center--xs">
                             <div class=" g-margin-b-0--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-50--xs g-color--white  g-margin-b-0--xs js__counter">10</figure>
+                                <figure class="g-display-inline-block--xs g-font-size-50--xs g-color--white  g-margin-b-0--xs js__counter">15</figure>
                                 <span class="g-font-size-40--xs g-color--white">K+</span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
