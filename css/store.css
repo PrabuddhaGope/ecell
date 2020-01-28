@@ -19,7 +19,7 @@
     z-index:0;
     max-width:300px;
     width:100%;
-    margin-top:-76%;
+    margin-top: -114%;
     margin-left:0px;
     -webkit-animation: myfirst 1s; /* Safari 4.0 - 8.0 */
    /* Safari 4.0 - 8.0 */
@@ -29,7 +29,7 @@
 /*sxsxs*/
 .tee{
 
-    background:url(../img/store/tee.jpg) 10%;
+    background:url(../img/store/2.jpg) 10%;
     height:180vh;
     background-size: cover !important;
     background-position: 35% !important;
