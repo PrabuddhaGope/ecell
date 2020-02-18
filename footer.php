@@ -95,9 +95,9 @@
 
 
 
-                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-2">
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
                                 <div>
-                                    <img src="https://startupconclave.ecellvnit.org/static/img/E-Cell_white.png" alt="" height="100" style="padding-top:30px">
+                                    <img src="https://startupconclave.ecellvnit.org/static/img/E-Cell_white.png" alt="" height="80" style="padding-top:10px">
 
                                 </div>
 
@@ -107,7 +107,7 @@
                                     <p class="g-color--white-opacity-light">For Association Opportunities:<br><b>contact@ecellvnit.org<b></p>
                                     <p class="g-color--white-opacity-light">For Sponsorship Opportunities:<br><b>corporate@ecellvnit.org</b></p>
                             </div>
-                            <div class="col-sm-12 col-sm-4 col-md-4 col-lg-6">
+                            <div class="col-sm-12 col-sm-4 col-md-4 col-lg-4">
 
                                 <h4 class="g-color--white-opacity">Follow Ecell VNIT</h4>
 
@@ -134,12 +134,25 @@
                                     <i class="g-padding-r-5--xs ti-youtube"></i>
                                     <span class="g-display-none--xs g-display-inline-block--sm">YouTube</span>
                                 </a>
+
                             </div>
+                            <div class="col-sm-12 col-sm-4 col-md-4 col-lg-2">
+                              <h4 class="g-color--white-opacity">Our Hosting Partner</h4>
+                              <div>
+
+                              </a href="https://www.znetlive.com/">
+
+                                  <img src="img/znetlive.png" alt="" height="140" style="padding-top:5px;padding-left:40px;">
+                                </a>
+                              </div>
+                            </div>
+
 
 
                         </div>
                         <div class="row">
                             <div class="col-sm-12" style="position:relative; text-align:center">
+
                                 <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity g-padding-y-20--md">Copyright:  <a class="g-color--primary" href="https://ecellvnit.org" target="_blank">E-Cell VNIT</a>    Developed By: <a class="g-color--primary" href="https://www.linkedin.com/in/sagar-bansal-448097140/" target="_blank">sagban</a></p>
 
                             </div>
