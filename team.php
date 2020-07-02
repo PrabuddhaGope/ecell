@@ -101,7 +101,7 @@
 
                             <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/lakshya-shukla/" class="link">Lakshya Shukla <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">President</p>
-                            <p>+91 94235 39984</p>
+                            <p>+91 77384 46941</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
@@ -114,7 +114,7 @@
 
                             <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/kaustubh03/" class="link">Kaustubh Rajimwale <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Vice President</p>
-                            <p>+91 98224 44112</p>
+                            <p>+91 96197 03630</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
