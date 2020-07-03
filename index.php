@@ -226,7 +226,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         </div>
                     </div>
                     <div class="col-md-7 col-md-offset-1">
-                        <p class="g-font-size-18--xs g-color--dark">E-Cell VNIT is the entreprenuship cell of <a href="http://vnit.ac.in/"class="g-color--primary" style="text-decoration:underline;">Visvesvaraya National Institute of Technology</a>. As the name suggests, the very purpose of E-Cell is to foster a community of contemporary as well as seasoned entrepreneurs,
+                        <p class="g-font-size-18--xs g-color--dark">E-Cell VNIT is the entrepreneurship cell of <a href="http://vnit.ac.in/"class="g-color--primary" style="text-decoration:underline;">Visvesvaraya National Institute of Technology</a>. As the name suggests, the very purpose of E-Cell is to foster a community of contemporary as well as seasoned entrepreneurs,
                            besides mentoring of new and budding startups across the country.</p>
                         <p class="g-font-size-18--xs g-color--dark">
                           Established since 2003, E-Cell has been the driving force for channelizing and guiding more than 5,000 startups, impacting over 200,000 students and would-be-entrepreneurs.
@@ -804,8 +804,12 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
             </div>
         </div>
-         <div style="position:relative;height:0;padding-bottom:56.24%"><iframe src="https://www.youtube.com/embed/VgCtuiDdMFA" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-        
+
+        <?php
+          // temporary commented youtube division
+         //<div style="position:relative;height:0;padding-bottom:56.24%"><iframe src="https://www.youtube.com/embed/VgCtuiDdMFA" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+        ?>
 
 
 
