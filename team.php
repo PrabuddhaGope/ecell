@@ -69,7 +69,7 @@
                         <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/bhatt-sir.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. S. S. Bhatt</p>
+                            <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. S. S. Bhat</p>
                             <p class="g-font-weight--700">Professor Incharge</p>
                         </div>
                     </div>
