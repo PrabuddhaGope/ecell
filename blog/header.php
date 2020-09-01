@@ -6,9 +6,9 @@
                         <div class="s-header__navbar-row-col">
                             <!-- Logo -->
                             <div class="s-header__logo">
-                                <a href="#" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo-ecell.png" alt="Ecell Logo" width="135px">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-ecell-sm.png" alt="Ecell Logo">
+                                <a href="index.php" class="s-header__logo-link">
+                                    <img class="s-header__logo-img s-header__logo-img-default" src="../img/logo-ecell.png" alt="Ecell Logo" width="120px">
+                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="../img/logo-ecell-sm.png" alt="Ecell Logo">
                                 </a>
                             </div>
                             <!-- End Logo -->
@@ -27,42 +27,45 @@
                 </div>
             </div>
             <!-- End Navbar -->
+
             <!-- Overlay -->
-            <div class="s-header-bg-overlay js__bg-overlay" id="overlay">
+            <div class="s-header-bg-overlay js__bg-overlay">
                 <!-- Nav -->
                 <nav class="s-header__nav js__scrollbar">
                     <div class="container-fluid">
+
                         <!-- Menu List -->
                         <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#about">About</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#flagship">Events</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index.php">Home</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/#about">About</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/#flagship">Events</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="https://startupconclave.ecellvnit.org">Startup Conclave</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="spons.php">Sponsors</a></li>
-				            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="https://startupconclave.ecellvnit.org">Startup Conclave</a></li>
-				            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.php">Team</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#blog">Blog</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#contact">Contact Us</a></li>
-                                            
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.php">Team</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/#contact">Contact Us</a></li>
                         </ul>
                         <!-- End Menu List -->
                     </div>
                 </nav>
                 <!-- End Nav -->
+
+
                 <!-- Action -->
                 <ul class="list-inline s-header__action s-header__action--rb">
                     <li class="s-header__action-item">
-                        <a class="s-header__action-link" href=" https://m.facebook.com/vnitecell/">
+                        <a class="s-header__action-link" href="#">
                             <i class="g-padding-r-5--xs ti-facebook"></i>
                             <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
                         </a>
                     </li>
                     <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="https://twitter.com/ecell_vnit">
+                        <a class="s-header__action-link" href="#">
                             <i class="g-padding-r-5--xs ti-twitter"></i>
                             <span class="g-display-none--xs g-display-inline-block--sm">Twitter</span>
                         </a>
                     </li>
                     <li class="s-header__action-item">
-                        <a class="s-header__action-link" href=" https://www.instagram.com/ecellvnit/">
+                        <a class="s-header__action-link" href="#">
                             <i class="g-padding-r-5--xs ti-instagram"></i>
                             <span class="g-display-none--xs g-display-inline-block--sm">Instagram</span>
                         </a>
@@ -72,4 +75,3 @@
             </div>
             <!-- End Overlay -->
         </header>
-        <!--========== END HEADER ==========-->

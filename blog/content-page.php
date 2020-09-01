@@ -5,13 +5,38 @@
 	<!-- displays site properly based on user's device -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Blog by E-Cell || What is the Most Common Trait of Successful Startups?</title>
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+	<link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/animate.css" rel="stylesheet" type="text/css"/>
+    <link href="../vendor/themify/themify.css" rel="stylesheet" type="text/css"/>
+    <link href="../vendor/scrollbar/scrollbar.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css"/>
+    <link href="../vendor/swiper/swiper.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../vendor/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css"/>
+
+
+    <!-- Theme Styles -->
+    <link href="../css/style.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/materialize.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/overlay.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/global/global.css" rel="stylesheet" type="text/css"/>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="../img/icon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="../img/icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="..//apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="..//favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="..//favicon-16x16.png">
+    <link rel="manifest" href="..//site.webmanifest">
+    <link rel="mask-icon" href="..//safari-pinned-tab.svg" color="#5bbad5">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="blog_content_page.css">
 </head>
 <body>
 	<header>
-		<?php include 'blog-header.php';
+		<?php include 'header.php';
 		?>
 	</header>
 	<div id="heading-of-blog">
@@ -102,8 +127,40 @@
     	</div>
     </div>
 	<footer>
-		<?php include 'blog-footer.php';
+		<?php include 'footer.php';
 		?>
 	</footer>
+<!--========== JAVASCRIPTS (Load javascripts at bottom, this will reduce page load time) ==========-->
+        <!-- Vendor -->
+        <script type="text/javascript" src="../vendor/jquery.min.js"></script>
+		<script src="js/main.js"></script>
+        <script type="text/javascript" src="../vendor/jquery.migrate.min.js"></script>
+        <script type="text/javascript" src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="../vendor/jquery.smooth-scroll.min.js"></script>
+        <script type="text/javascript" src="../vendor/jquery.back-to-top.min.js"></script>
+        <script type="text/javascript" src="../vendor/scrollbar/jquery.scrollbar.min.js"></script>
+        <script type="text/javascript" src="../vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+        <script type="text/javascript" src="../vendor/swiper/swiper.jquery.min.js"></script>
+        <script type="text/javascript" src="../vendor/waypoint.min.js"></script>
+        <script type="text/javascript" src="../vendor/counterup.min.js"></script>
+        <script type="text/javascript" src="../vendor/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+        <script type="text/javascript" src="../vendor/jquery.parallax.min.js"></script>
+        <script type="text/javascript" src="../vendor/jquery.wow.min.js"></script>
+        <script src="../js/cards.js"></script>
+		<script src="../js/materialize.js"></script>
+
+
+        <!-- General Components and Settings -->
+        <script type="text/javascript" src="../js/global.min.js"></script>
+        <script type="text/javascript" src="../js/components/header-sticky.min.js"></script>
+        <script type="text/javascript" src="../js/components/scrollbar.min.js"></script>
+        <script type="text/javascript" src="../js/components/magnific-popup.min.js"></script>
+        <script type="text/javascript" src="../js/components/swiper.min.js"></script>
+        <script type="text/javascript" src="../js/components/counter.min.js"></script>
+        <script type="text/javascript" src="../js/components/portfolio-3-col.min.js"></script>
+        <script type="text/javascript" src="../js/components/parallax.min.js"></script>
+        <script type="text/javascript" src="../js/components/google-map.min.js"></script>
+        <script type="text/javascript" src="../js/components/wow.min.js"></script>
+        <!--========== END JAVASCRIPTS ==========-->
 </body>
 </html>
