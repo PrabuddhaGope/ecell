@@ -1,13 +1,13 @@
         <footer class="g-bg-color--dark">
             <!-- Sponsors -->
-            <div class="footer">
-                <div class="g-text-center--xs g-margin-b-40--xs">
+            <!--<div class="footer">
+                <div class="g-text-center--xs g-margin-b-40--xs">-->
                     <!--<p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Partners</p>-->
-                    <h2 class="g-font-size-24--xs g-font-size-36--md g-color--white">Under patronage of</h2>
+                    <!--<h2 class="g-font-size-24--xs g-font-size-36--md g-color--white">Under patronage of</h2>
                 </div>
-                <div class="container g-padding-y-40--xs g-padding-y-40--sm" id="partners">
+                <div class="container g-padding-y-40--xs g-padding-y-40--sm" id="partners">-->
                     <!-- Swiper Clients -->
-                    <div class="container" id="foot">
+                    <!--<div class="container" id="foot">
                         <div class="row">
 
                             <div class="col-md-2 col-sm-3 col-xs-6">
@@ -43,10 +43,10 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                     <!-- End Swiper Clients -->
-                </div>
-            </div>
+               <!-- </div>
+            </div>-->
             <!-- End Sponsors -->
             <!-- Copyright -->
             <div class="container g-padding-y-30--xs">
