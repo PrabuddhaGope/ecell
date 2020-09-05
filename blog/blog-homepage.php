@@ -8,13 +8,6 @@
     <title>Blogs by E-Cell</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-    <link href="../css/animate.css" rel="stylesheet" type="text/css"/>
-    <link href="../vendor/themify/themify.css" rel="stylesheet" type="text/css"/>
-    <link href="../vendor/scrollbar/scrollbar.min.css" rel="stylesheet" type="text/css"/>
-    <link href="../vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css"/>
-    <link href="../vendor/swiper/swiper.min.css" rel="stylesheet" type="text/css"/>
-    <link href="../vendor/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css"/>
 
 
     <!-- Theme Styles -->
@@ -32,6 +25,7 @@
     <link rel="manifest" href="..//site.webmanifest">
     <link rel="mask-icon" href="..//safari-pinned-tab.svg" color="#5bbad5">
 
+<<<<<<< HEAD
     <!-- CSS -->
   <style>
   .card {
@@ -52,11 +46,19 @@
   }
   }
   </style>
+=======
+    <!--Local stylesheet-->
+    <link rel="stylesheet" href="blog_homepage.css">
+>>>>>>> 8b9a9f86140ecd58cc5a7b2d7b83ec5f861601f7
 
 
     <title>Cards</title>
+
+
   </head>
+
   <body>
+<<<<<<< HEAD
   	<header>
   		<?php include 'header.php';
   		?>
@@ -289,5 +291,64 @@
         <script type="text/javascript" src="../js/components/google-map.min.js"></script>
         <script type="text/javascript" src="../js/components/wow.min.js"></script>
         <!--========== END JAVASCRIPTS ==========-->
+=======
+  <?php
+   include 'header.php';
+  ?>
+
+  <div class="blog-card">
+  <div class="meta">
+    <div class="photo" style="background-image: url(https://storage.googleapis.com/chydlx/codepen/blog-cards/image-1.jpg)"></div>
+    <ul class="details">
+      <li class="author"><a href="#">John Doe</a></li>
+      <li class="date">Aug. 24, 2015</li>
+  </ul>
+  </div>
+  <div class="description">
+    <a href="content-page.html">
+      <h1>Learning to Code</h1>
+    </a>
+    <h2>Opening a door to the future</h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eum dolorum architecto obcaecati enim dicta praesentium, quam nobis! Neque ad aliquam facilis numquam. Veritatis, sit.</p>
+    <p class="read-more">
+      <a href="content-page.html">Read More</a>
+    </p>
+  </div>
+  </div>
+<div class="blog-card alt">
+  <div class="meta">
+    <div class="photo" style="background-image: url(https://storage.googleapis.com/chydlx/codepen/blog-cards/image-2.jpg)"></div>
+    <ul class="details">
+      <li class="author"><a href="#">Jane Doe</a></li>
+      <li class="date">July. 15, 2015    </ul>
+  </div>
+  <div class="description">
+    <a href="content-page.html">
+      <h1>Mastering the Language</h1>
+    </a>
+
+    <h2>Java is not the same as JavaScript</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eum dolorum architecto obcaecati enim dicta praesentium, quam nobis! Neque ad aliquam facilis numquam. Veritatis, sit.</p>
+    <p class="read-more">
+      <a href="content-page.html">Read More</a>
+    </p>
+    </div>
+  </div>
+  <?php
+   include 'require.php';
+  ?>
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+
+
+
+
+>>>>>>> 8b9a9f86140ecd58cc5a7b2d7b83ec5f861601f7
   </body>
+
 </html>
