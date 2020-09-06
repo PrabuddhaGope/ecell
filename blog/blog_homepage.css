@@ -25,3 +25,8 @@
 		text-decoration: bold;
 	}
 }
+.carousel-inner img{
+        height: 100vh;
+}
+
+        
