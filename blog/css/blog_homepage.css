@@ -6,9 +6,15 @@ body
 {
 	color: #fff;
 }
-.carousel-inner img{
-        height: 100vh;
+.carousel-inner img
+{
+  height: 90vh;
 }
+.carousel-inner
+{
+	overflow: hidden;
+}
+
 .blog-card
 {
 	background-color: #fff;
@@ -62,7 +68,13 @@ time
     font-weight: 500;
 }
 
-
+@media (min-width: 800px)
+{
+	.blog-card-container
+	{
+		padding: 5% 10%;
+	}
+}
 @media (max-width: 500px)
 {
 	.blog-desc
