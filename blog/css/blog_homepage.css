@@ -70,7 +70,36 @@ time
     color: #9EAFC2;
     font-weight: 500;
 }
-
+.follow-ecell
+{
+	font-size: 1.5rem;
+	font-weight: 500;
+	color: rgba(255, 255, 255, 0.8)
+}
+.share-row
+{
+	margin-top: 1rem;
+}
+.share-row a
+{
+	color: rgba(255, 255, 255, 0.8)
+}
+.hosting-partner-image-container
+{
+	text-align: center;
+}
+.hosting-partner-image-container img
+{
+	width: 100px;
+}
+@media (min-width: 768px)
+{
+	/* To neutralise strange bootstrap rule */
+	.col-md-6, .col-md-4, .col-md-3
+	{
+		max-width: 100%;
+	}
+}
 @media (min-width: 800px)
 {
 	.blog-card-container
