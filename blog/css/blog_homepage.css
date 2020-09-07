@@ -74,7 +74,7 @@ time
 {
 	font-size: 1.5rem;
 	font-weight: 500;
-	color: rgba(255, 255, 255, 0.8)
+	color: rgba(255, 255, 255, 0.8);
 }
 .share-row
 {
@@ -82,7 +82,7 @@ time
 }
 .share-row a
 {
-	color: rgba(255, 255, 255, 0.8)
+	color: rgba(255, 255, 255, 0.8);
 }
 .hosting-partner-image-container
 {
