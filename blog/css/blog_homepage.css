@@ -37,7 +37,10 @@ body
 {
 	padding-left: 4rem;
 }
-
+.blog-desc a
+{
+	color: #404040;
+}
 
 
 .profile-photo
@@ -72,7 +75,7 @@ time
 {
 	.blog-card-container
 	{
-		padding: 5% 10%;
+		padding: 5% 7%;
 	}
 }
 @media (max-width: 500px)
