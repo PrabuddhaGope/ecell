@@ -1,4 +1,4 @@
-/* 
+/*
 
 Social Share Links:
 
@@ -19,7 +19,6 @@ LinkedIn:
 https://www.linkedin.com/shareArticle?url=[post-url]&title=[post-title]
 
 */
-
 const facebookBtn = document.querySelector(".facebook-btn");
 const twitterBtn = document.querySelector(".twitter-btn");
 const pinterestBtn = document.querySelector(".pinterest-btn");
@@ -141,4 +140,3 @@ function init3() {
 }
 
 init3();
-
