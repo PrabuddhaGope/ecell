@@ -7,7 +7,7 @@ body {
   width: 1000px;
   height: auto;
   text-align: center;
-	padding-top: 250px;
+	padding-top: 20px;
 }
 
 #date {
@@ -142,9 +142,8 @@ body {
 
 /* Top Black Header */
 .header-blog {
-  height: 220px;
+  height: 140px;
   background-color: #222324;
-  position: absolute;
   top: 0px;
   left: 0px;
   right: 0px;
@@ -152,107 +151,18 @@ body {
   color: #ffffff;
   font-size: 53px;
   font-family: 'Montserrat', sans-serif;
-  ;
-  padding-top: 100px;
+  padding-top: 30px;
   font-variant: small-caps;
 }
 
-
-/*Sharing Icon*/
-.soc {
-  /*border: 1px solid #ff0000;*/
-  display: inline-block;
-  /*font-size: 0;*/
-  list-style: none;
-  /*padding: 48px;*/
-  /*padding: 4.8rem*/
-  ;
-  text-align: center;
-  margin: 0 auto;
-  /*width: 110rem;*/
-  /*max-width: 100%;*/
-  height: auto;
-  padding-inline-start: 0px;
-}
-
-.soc li {
-  display: inline-block;
-  margin: 0px;
-  margin: 0.0rem;
-}
-
-.soc a, .soc svg {
-  display: block;
-}
-
-.soc a {
-  /*border: 1px solid #ff0000;*/
-  /*position: relative;*/
-  height: 45px;
-  /*height: 1.6rem;*/
-  margin: 0 auto;
-  width: 45px;
-  /*width: 1.6rem;*/
-}
-
-.icon-share:hover {
-  border-radius: 100%;
-  color: #ffffff;
-  fill: #ffffff;
-  transform: scale(1);
-  transition: background-color .5s, transform .5s ease-out;
-}
-
-.share {
-  text-align: left;
-  margin: 0 auto;
-}
-
-.email {
-  color: #DB4437;
-  fill: #DB4437;
-}
-
-.email:hover {
-  background: #DB4437;
-}
-
-.fb {
-  color: #4267B2;
-  fill: #4267B2;
-}
-
-.fb:hover {
-  background: #4267B2;
-}
-
-.linkedin-share {
-  color: #0e76a8;
-  fill: #0e76a8;
-}
-
-.linkedin-share:hover {
-  background: #0e76a8;
-}
-
-.insta {
-  color: #E1306C;
-  fill: #E1306C;
-}
-
-.insta:hover {
-  background: #E1306C;
-}
-
-.twitter {
-  color: #1DA1F2;
-  fill: #1DA1F2;
-}
-
-.twitter:hover {
-  background: #1DA1F2;
-}
-
+.nav-item {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 16px;
+    }
+  .nav-link{
+    font-size: 16px;
+  }
 @media only screen and (max-width: 1200px) {
   .content {
     width: 625px;
@@ -335,7 +245,7 @@ body {
 
   .header-blog {
     font-size: 40px;
-    height: 200px;
+    height: 120px;
   }
 
   #date {
@@ -349,7 +259,7 @@ body {
 
   #heading-of-blog {
     width: 100%;
-    padding-top: 230px;
+    padding-top: 20px;
   }
 
   #head {
