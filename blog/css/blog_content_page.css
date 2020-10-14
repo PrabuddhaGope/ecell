@@ -163,6 +163,94 @@ body {
   .nav-link{
     font-size: 16px;
   }
+
+/*Sharing Icon*/
+        .soc {
+      /*border: 1px solid #ff0000;*/
+      display: inline-block;
+      /*font-size: 0;*/
+      list-style: none;
+      /*padding: 48px;*/
+      /*padding: 4.8rem*/;
+      text-align: center;
+      margin: 0 auto;
+      /*width: 110rem;*/
+      /*max-width: 100%;*/
+      height: auto;
+      padding-inline-start: 0px;
+    }
+
+    .soc li {
+      display: inline-block;
+      margin: 0px;
+      margin: 0.0rem;
+    }
+
+    .soc a, .soc svg {
+      display: block;
+    }
+
+    .soc a {
+      /*border: 1px solid #ff0000;*/
+      /*position: relative;*/
+      height: 45px;
+      /*height: 1.6rem;*/
+      margin: 0 auto;
+      width: 45px;
+      /*width: 1.6rem;*/
+    }
+     .icon-share:hover {
+      border-radius: 100%;
+      color: #ffffff;
+      fill: #ffffff;
+      transform: scale(1);
+      transition: background-color .5s, transform .5s ease-out;
+    }
+    .share{
+      text-align: left;
+      margin: 0 auto;
+    }
+    .email {
+      color: #DB4437;
+      fill: #DB4437;
+    }
+
+    .email:hover {
+      background: #DB4437;
+    }
+    .fb {
+      color: #4267B2;
+      fill: #4267B2;
+    }
+
+    .fb:hover {
+      background: #4267B2;
+    }
+    .linkedin-share {
+      color: #0e76a8;
+      fill: #0e76a8;
+    }
+
+    .linkedin-share:hover {
+      background: #0e76a8;
+    }
+    .insta {
+      color: #E1306C;
+      fill: #E1306C;
+    }
+
+    .insta:hover {
+      background: #E1306C;
+    }
+    .twitter{
+      color: #1DA1F2;
+      fill: #1DA1F2;
+    }
+
+    .twitter:hover {
+      background: #1DA1F2;
+    }
+
 @media only screen and (max-width: 1200px) {
   .content {
     width: 625px;
