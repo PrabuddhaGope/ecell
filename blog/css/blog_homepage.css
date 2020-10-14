@@ -8,6 +8,11 @@ body
 	position: absolute;
 	top: 38%;
 }
+.h3-responsive{
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+
+}
 .carousel-inner img
 {
   height: 90vh;
@@ -46,7 +51,12 @@ body
 {
 	color: #404040;
 }
-
+.text-center
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: medium;
+	line-height: 1.5;
+}
 
 .profile-photo
 {
