@@ -107,6 +107,7 @@ time
 {
 	width: 100px;
 }
+
 @media (min-width: 768px)
 {
 	/* To neutralise strange bootstrap rule */
