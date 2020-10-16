@@ -7,12 +7,14 @@ body
 	color: #fff;
 	position: absolute;
 	top: 38%;
+	font-family: 'Montserrat', sans-serif;
 }
 .h3-responsive{
 	color: #fff;
 	font-family: 'Montserrat', sans-serif;
-
+	font-size: 60px;
 }
+
 .carousel-inner img
 {
   height: 90vh;
