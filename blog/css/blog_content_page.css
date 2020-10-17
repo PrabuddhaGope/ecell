@@ -249,6 +249,13 @@ body {
     .twitter:hover {
       background: #1DA1F2;
     }
+    .pinterest{
+      color:#BD081C; 
+      fill: #BD081C;
+    }
+    .pinterest:hover{
+      background: #BD081C;
+    }
 
 .list-text{
     font-family: Georgia;
