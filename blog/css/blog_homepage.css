@@ -5,7 +5,18 @@ body
 .carousel-caption
 {
 	color: #fff;
+	position: absolute;
+	top: 38%;
+	font-family: 'Montserrat', sans-serif;
 }
+.h3-responsive{
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.7rem;
+	font-weight: 700;
+	padding-bottom: 10px;
+}
+
 .carousel-inner img
 {
   height: 90vh;
@@ -14,6 +25,9 @@ body
 {
 	overflow: hidden;
 }
+/* .carousel-item.active, .carousel-item-next, .carousel-item-prev{
+    display:block;
+} */
 
 .blog-card
 {
@@ -41,7 +55,12 @@ body
 {
 	color: #404040;
 }
-
+.text-center
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: medium;
+	line-height: 1.5;
+}
 
 .profile-photo
 {
@@ -70,13 +89,55 @@ time
     color: #9EAFC2;
     font-weight: 500;
 }
-
+.follow-ecell
+{
+	font-size: 1.5rem;
+	font-weight: 500;
+	color: rgba(255, 255, 255, 0.8);
+}
+.share-row
+{
+	margin-top: 1rem;
+}
+.share-row a
+{
+	color: rgba(255, 255, 255, 0.8);
+}
+.hosting-partner-image-container
+{
+	text-align: center;
+}
+.hosting-partner-image-container img
+{
+	width: 100px;
+}
+.carousel-caption{
+	margin-top: -80px;
+}
+.h3-responsive > a{
+	color: #fff;
+}
+@media (min-width: 768px)
+{
+	/* To neutralise strange bootstrap rule */
+	.col-md-6, .col-md-4, .col-md-3
+	{
+		max-width: 100%;
+	}
+	.carousel-inner img{
+		object-fit: cover;
+	}
+}
 @media (min-width: 800px)
 {
 	.blog-card-container
 	{
 		padding: 5% 7%;
 	}
+	.carousel-inner img{
+		object-fit: cover;
+	}
+
 }
 @media (max-width: 500px)
 {
@@ -89,10 +150,28 @@ time
 	{
 		margin-top: 1rem;
 		font-size: 2.4rem;
-		text-decoration: bold;
+		font-weight: 500;
 	}
 	.share-button
 	{
 		padding: 0.5rem 0 0;
+	}
+	.c1, .c2{
+		margin-top: -120px;
+	}
+	.h3-responsive{
+		font-size: 2.0rem;
+	}
+	.carousel-inner img{
+		height: 75vh;
+		object-fit: cover;
+	}
+
+	
+}
+@media (max-width: 320px){
+	.carousel-inner img{
+		height: 85vh;
+		object-fit: cover;
 	}
 }
