@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<!-- displays site properly based on user's device -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Blog by E-Cell || What is the Most Common Trait of Successful Startups?</title>
+	<title>Technology and Entrepreneurship</title>
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
 
@@ -46,7 +46,7 @@
 
 <body>
 	<!--<header>
-		<?php include 'header.php';
+		<?php /*include 'header.php';*/
 		?>
 	</header>-->
 	<nav class="navbar navbar-dark navbar-expand-sm">
@@ -62,7 +62,7 @@
             <li class="nav-item px-3"><a class="nav-link" href="/#flagship">Events </a></li>
             <li class="nav-item px-3"><a class="nav-link" href="https://startupconclave.ecellvnit.org">Startup Conclave </a></li>
             <li class="nav-item px-3"><a class="nav-link" href="spons.php">Sponsors </a></li>-->
-            <li class="nav-item px-3"><a class="nav-link" href="blog-homepage.html">Blog</a></li>
+            <li class="nav-item px-3"><a class="nav-link" href="../blog.php">Blog</a></li>
             <li class="nav-item px-3"><a class="nav-link" href="../team.php">Team</a></li>
             <li class="nav-item px-3"><a class="nav-link" href="https://www.ecellvnit.org/#contact">Contact Us</a></li>
           </ul>
@@ -71,11 +71,11 @@
       </div>
     </nav>
 	<div class="header-blog">
-		Blogs by E-cell
+		BLOGS BY E-CELL
 	</div>
 	<div id="heading-of-blog">
 		<!-- Date and Heading of Blog here -->
-		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">27 AUG 2020</time><br>What is the Most Common Trait of Successful Startups?</div>
+		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">25th August, 2020</time><br>Technology and Entrepreneurship: The Unbeatable Combination</div>
 	</div>
 	<div class="img">
 		<img src="img/b-1.jpg" alt="Flower" title="" class="content-img">
@@ -85,20 +85,18 @@
 		<div class="text">
 			<!-- Quoted Text Here -->
 			<blockquote class="blockquote quote-text">
-				<i>"There have to be reasons that you get up in the morning, and you want to live.
-					Why do you want to live? What's the point? What inspires you? What do you love about the future?
-					If the future does not include being out there among the stars and being a multiplanet species,
-					I find that incredibly depressing if that's not the future that we're going to have."</i>
+				<i>"Believe in miracles, but do not rely on them."</i>
 			</blockquote>
-			<div class="quote-auth">-Elon Musk</div>
+			<!--<div class="quote-auth">-Elon Musk</div>-->
+			<br>
 			<hr class="hr">
 			<div class="author">
 				<!-- Author profile image Here -->
-				<img src="img/profile.jpg" class="profile-img">
+				<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHB1Dn-bE3b-w/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=yFjsnGO5h24Yy_DIy8D00B5JJEaUB1wCLVoGMC17lgI" class="profile-img">
 				<!-- Author Name -->
-				<p>Jonathan Davis</p>
+				<p>Rashmi Hegde</p>
 				<!-- Linkedin Account Link -->
-				<a href="#" class="icon linkedin" title="LinkedIn" target="_blank">
+				<a href="https://www.linkedin.com/in/rashmi-hegde-1502b5148/" class="icon linkedin" title="LinkedIn" target="_blank">
 					<svg viewBox="0 0 512 512">
 						<path
 							d="M186.4 142.4c0 19-15.3 34.5-34.2 34.5 -18.9 0-34.2-15.4-34.2-34.5 0-19 15.3-34.5 34.2-34.5C171.1 107.9 186.4 123.4 186.4 142.4zM181.4 201.3h-57.8V388.1h57.8V201.3zM273.8 201.3h-55.4V388.1h55.4c0 0 0-69.3 0-98 0-26.3 12.1-41.9 35.2-41.9 21.3 0 31.5 15 31.5 41.9 0 26.9 0 98 0 98h57.5c0 0 0-68.2 0-118.3 0-50-28.3-74.2-68-74.2 -39.6 0-56.3 30.9-56.3 30.9v-25.2H273.8z" />
@@ -107,27 +105,41 @@
 			</div>
 			<!-- Blog Content Here -->
 			<div class="main-text">
-				The realization that culture is critical to your company’s success is nothing new. All the way back in 2002 (ancient times, I know…), James Baron and Michael Hannan published the results of the eight year study of startup cultures called
-				(Organizational Blueprints for Success in High-Tech Start-Ups: Lessons from the Stanford Project on Emerging Companies).
-				The authors studied over 200 startups. The results of their study indicate that a startup’s culture has a massive impact on the probability of success. In fact, the culture choice of the company’s founders likely has the most impact on a
-				company’s chances of success There are five types of culture that are prevalent in startups. They are:
-				Star: “We recruit only top talent, pay them top wages, and give them the resources and autonomy they need to do their job.”
-				Commitment: “I wanted to build the kind of company where people would only leave when they retire.”
-				Bureaucracy: “We make sure things are documented, have job descriptions for people, project descriptions, and pretty rigorous project management techniques.”
-				Engineering: “We were very committed. It was a skunk-works mentality and the binding energy was very high.”
-				Autocracy: “You work, you get paid.”
-				Do you want to get your company to some sort of liquidity event be it an IPO or a successful sale? Then, the Commitment culture is your best chance of success.
-			</div><br>
-			
+			Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds, two different career paths but one motive-money, innovation and problem solving.<br>
+
+			Apart from engineering there are various other fields from where business students come. Talking about IIMs, 75% are from engineering background and among these 30-35% are from NITs and IITs i.e the best students in the field of technology. Well before moving further, let us look at some philosophical lines which one has surely encountered in his/her life:
+			<ul class="list-item">
+				<li class="list-text">“Failing is the stepping stone towards success.”</li>
+				<li class="list-text">“All our dreams can come true if we have the courage to pursue them.”</li>
+				<li class="list-text">“Knowledge without action is meaningless.”</li>
+			</ul>
+
+			Well, well sounds great right? But they are words said after achieving something and our meant to soothe our short term failures. When talking about real ideas, innovation, finance etc., who is the most eligible person to have these qualities? Yes, a technologist or better said an engineer. An engineer is well versed in technology than anybody else. He/She has problem solving qualities, ability to work during odd hours, find practical shortcuts to most tasks given and many more. Students from other field, have limited ideas for a new product. They can’t have an engine making company, drone designing company, application with artificial intelligence and machine learning, new chemicals for perfumes etc. unless they are dependent on someone. All their ideas can be implemented by engineers but not vice-versa.<br>
+
+			Accept it or not but marketing, communication skills, economics can be learned side by side. The rate at which the world is transforming, the technical demands can only be fulfilled by an Engineer-Entrepreneur. People who have ended up doing engineering are mostly not by choice. Many of them have joined just because of parental pressure. But on a very personal note I would like to add-now that you are a part of this, make the best use of this. Develop all the skills and sharpen them which the course offers, it is something which will definitely make you stand out. Innovate, think and stay updated. Although we are tagged as geeks, nerds, boring or tasteless, we can’t defy the fact that the world is interesting because of us. Social media, cars, buildings, vehicles, robots etc. it is we who have kept them alive in this society. Look at the potential we have. When we imagine a futuristic world we think of - robots all around, no-fuel vehicles, hi-tech appliances, personalised digital world, maybe compact devices etc. This is brought into picture by tech-freaks. And someone having good knowledge about this and he/she has entrepreneurial skills as well will surely make an invention and bring it into market. <br>
+
+			Conquer in style:(for an engineer)
+			<ol class="list-item">
+				<li class="list-text">Learn with a full heart. Be open to gain knowledge, everybody wants smart people.</li>
+				<li class="list-text">Research about that thing and know the importance of that knowledge.</li>
+				<li class="list-text">Ideas will strike, build that, because innovation and new inventions are everything that people crave for.</li> 
+				<li class="list-text">Make a business plan. You will already know people from technology field, hire them.</li>
+				<li class="list-text">Let your entrepreneurial approach which is blended with technical skills show colours.</li>
+				<li class="list-text">Work hard, surely you will stand out because this is an invention.</li>
+			</ol>
+			The major obstacle is competition. But when a business is made out of technical invention it will get the required attention and market. Make the best use of time. Increase your knowledge, it can never do harm; find ways to use it and not waste it.
+
+			</div>
 			<!-- Editor's Column-->
+			<br>
 			<h5 class="editedby">Edited By:</h5>
 			<div class="author">
 				<!-- Editor profile image Here -->
-				<img src="img/profile.jpg" class="profile-img">
+				<img src="../img/400x400/Rishabh.jpeg" class="profile-img">
 				<!-- Editor Name -->
-				<p>Jonathan Davis</p>
+				<p>Rishabh Runwal</p>
 				<!-- Linkedin Account Link -->
-				<a href="#" class="icon linkedin" title="LinkedIn" target="_blank">
+				<a href="https://www.linkedin.com/in/rishabh-runwal/" class="icon linkedin" title="LinkedIn" target="_blank">
 					<svg viewBox="0 0 512 512">
 						<path
 							d="M186.4 142.4c0 19-15.3 34.5-34.2 34.5 -18.9 0-34.2-15.4-34.2-34.5 0-19 15.3-34.5 34.2-34.5C171.1 107.9 186.4 123.4 186.4 142.4zM181.4 201.3h-57.8V388.1h57.8V201.3zM273.8 201.3h-55.4V388.1h55.4c0 0 0-69.3 0-98 0-26.3 12.1-41.9 35.2-41.9 21.3 0 31.5 15 31.5 41.9 0 26.9 0 98 0 98h57.5c0 0 0-68.2 0-118.3 0-50-28.3-74.2-68-74.2 -39.6 0-56.3 30.9-56.3 30.9v-25.2H273.8z" />
@@ -136,13 +148,13 @@
 			</div>
 			<br>
 			<!-- SHARE ICON -->
-			<span style="padding: 10px 20px; color: #f8f9fa ; background-color: #000000; border-radius: 50px; font-size: 18px; font-family: 'Montserrat';">SHARE THIS BLOG ON:</span>
+			<span style="padding: 10px 20px; color: #f8f9fa ; background-color: #000000; border-radius: 50px; font-size: 18px; font-family: 'Montserrat';">SHARE</span>
 			<hr class="hr">
 			<!-- Share Icon -->
 			<div class="share">
             <ul class="soc">
                 <li>
-                    <a class="icon-share email" href="#" title="Email" target="_blank">
+                    <a class="icon-share email" href="mailto:?body=Hey,%20look%20at%20this%20blog%0Ahttps://www.ecellvnit.org/blog/techno-and-e-ship.php" title="Email" target="_blank">
                         <div class="ir"><svg viewbox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"></path></svg></div>
                     </a>
                 </li>
@@ -265,7 +277,7 @@
 	</div> -->
 	
 	<!---------------------------- FOOTER START ------------------------------------------->
-  <footer class="g-bg-color--dark">
+   <footer class="g-bg-color--dark">
 
     <!-- Copyright -->
     <div class="container g-padding-y-30--xs">
@@ -384,6 +396,7 @@
     <!-- End Copyright -->
   </footer>
   <!-------------------------- FOOTER END------------------------------------------>
+
 	<!--========== JAVASCRIPTS (Load javascripts at bottom, this will reduce page load time) ==========-->
 	<!-- Vendor -->
 	<!-- <script type="text/javascript" src="../vendor/jquery.min.js"></script>

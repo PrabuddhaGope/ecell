@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<!-- displays site properly based on user's device -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Technology and Entrepreneurship</title>
+	<title>Skill to Success</title>
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
 
@@ -46,8 +46,8 @@
 
 <body>
 	<!--<header>
-		<?php include 'header.php';
-		?>
+		<?php /*include 'header.php';*/
+				?>
 	</header>-->
 	<nav class="navbar navbar-dark navbar-expand-sm">
       <div class="container">
@@ -62,7 +62,7 @@
             <li class="nav-item px-3"><a class="nav-link" href="/#flagship">Events </a></li>
             <li class="nav-item px-3"><a class="nav-link" href="https://startupconclave.ecellvnit.org">Startup Conclave </a></li>
             <li class="nav-item px-3"><a class="nav-link" href="spons.php">Sponsors </a></li>-->
-            <li class="nav-item px-3"><a class="nav-link" href="blog-homepage.html">Blog</a></li>
+            <li class="nav-item px-3"><a class="nav-link" href="../blog.php">Blog</a></li>
             <li class="nav-item px-3"><a class="nav-link" href="../team.php">Team</a></li>
             <li class="nav-item px-3"><a class="nav-link" href="https://www.ecellvnit.org/#contact">Contact Us</a></li>
           </ul>
@@ -75,28 +75,28 @@
 	</div>
 	<div id="heading-of-blog">
 		<!-- Date and Heading of Blog here -->
-		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">17th August, 2020</time><br>Technology and Entrepreneurship: The Unbeatable Combination</div>
+		<div id="head"><span style="font-size: 22px; color: rgba(34, 193, 195, 1);"><i class="fas fa-calendar-alt"></i>  </span><time datetime="2020-08-27" id="date">28th August, 2020</time><br>Skill to Success</div>
 	</div>
 	<div class="img">
-		<img src="img/b-1.jpg" alt="Flower" title="" class="content-img">
+		<img src="img/b-2.jpg" title="" class="content-img">
 	</div>
 	<div class="content">
 		<!-- Image related to content of blog -->
 		<div class="text">
 			<!-- Quoted Text Here -->
 			<blockquote class="blockquote quote-text">
-				<i>"Believe in miracles, but do not rely on them."</i>
+				<i>"Practise like you have never won, perform like you have never lost"</i>
 			</blockquote>
 			<!--<div class="quote-auth">-Elon Musk</div>-->
 			<br>
 			<hr class="hr">
 			<div class="author">
 				<!-- Author profile image Here -->
-				<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHB1Dn-bE3b-w/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=yFjsnGO5h24Yy_DIy8D00B5JJEaUB1wCLVoGMC17lgI" class="profile-img">
+				<img src="https://media-exp1.licdn.com/dms/image/C5103AQHc78ZH8kPaUA/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=lwWfT5Ukk8qd899Py3c0oGlkBinc-BoEo-3S4Xw54_4" class="profile-img">
 				<!-- Author Name -->
-				<p>Rashmi Hegde</p>
+				<p>Harshvardhan Sikarwar</p>
 				<!-- Linkedin Account Link -->
-				<a href="https://www.linkedin.com/in/rashmi-hegde-1502b5148/" class="icon linkedin" title="LinkedIn" target="_blank">
+				<a href="https://www.linkedin.com/in/harshvardhan-sikarwar-5b2b411a6/" class="icon linkedin" title="LinkedIn" target="_blank">
 					<svg viewBox="0 0 512 512">
 						<path
 							d="M186.4 142.4c0 19-15.3 34.5-34.2 34.5 -18.9 0-34.2-15.4-34.2-34.5 0-19 15.3-34.5 34.2-34.5C171.1 107.9 186.4 123.4 186.4 142.4zM181.4 201.3h-57.8V388.1h57.8V201.3zM273.8 201.3h-55.4V388.1h55.4c0 0 0-69.3 0-98 0-26.3 12.1-41.9 35.2-41.9 21.3 0 31.5 15 31.5 41.9 0 26.9 0 98 0 98h57.5c0 0 0-68.2 0-118.3 0-50-28.3-74.2-68-74.2 -39.6 0-56.3 30.9-56.3 30.9v-25.2H273.8z" />
@@ -105,29 +105,14 @@
 			</div>
 			<!-- Blog Content Here -->
 			<div class="main-text">
-			Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds, two different career paths but one motive-money, innovation and problem solving.<br>
+				Eruption of joy at the fall of an Indian wicket in India can mean only one thing- these were the words spoken by Harsha Bhogle as Tendulkar walked down the stands to bat , but let’s go a few years back when he started his career, people rarely remember that, as he was shadowed by his friend Vinod Kambli who in his first 13 test matches scored 2 double centuries and 2 centuries and had an average of 80+. But what happened after that? Did Tendulkar come across a magic bat? or did he have that one skill which Kambli did not have and it made Tendulkar who he is today. It’s a skill that each person must have and it can either make or break him – Attitude.<br><br>
+ 
+				First of all, attitude defines the ultimate outcome. The truth is that anyone out of the list of the most successful people of the world will tell you that their success would not have existed without an appropriate attitude. It does not matter in which sphere a person is involved in, it is an attitude that guarantees the winning line. Therefore, a correct and a desired attitude towards the work one performs  is the key towards success.<br><br>
 
-			Apart from engineering there are various other fields from where business students come. Talking about IIMs, 75% are from engineering background and among these 30-35% are from NITs and IITs i.e the best students in the field of technology. Well before moving further, let us look at some philosophical lines which one has surely encountered in his/her life:
-			<ul class="list-item">
-				<li class="list-text">“Failing is the stepping stone towards success.”</li>
-				<li class="list-text">“All our dreams can come true if we have the courage to pursue them.”</li>
-				<li class="list-text">“Knowledge without action is meaningless.”</li>
-			</ul>
-
-			Well, well sounds great right? But they are words said after achieving something and our meant to soothe our short term failures. When talking about real ideas, innovation, finance etc., who is the most eligible person to have these qualities? Yes, a technologist or better said an engineer. An engineer is well versed in technology than anybody else. He/She has problem solving qualities, ability to work during odd hours, find practical shortcuts to most tasks given and many more. Students from other field, have limited ideas for a new product. They can’t have an engine making company, drone designing company, application with artificial intelligence and machine learning, new chemicals for perfumes etc. unless they are dependent on someone. All their ideas can be implemented by engineers but not vice-versa.<br>
-
-			Accept it or not but marketing, communication skills, economics can be learned side by side. The rate at which the world is transforming, the technical demands can only be fulfilled by an Engineer-Entrepreneur. People who have ended up doing engineering are mostly not by choice. Many of them have joined just because of parental pressure. But on a very personal note I would like to add-now that you are a part of this, make the best use of this. Develop all the skills and sharpen them which the course offers, it is something which will definitely make you stand out. Innovate, think and stay updated. Although we are tagged as geeks, nerds, boring or tasteless, we can’t defy the fact that the world is interesting because of us. Social media, cars, buildings, vehicles, robots etc. it is we who have kept them alive in this society. Look at the potential we have. When we imagine a futuristic world we think of - robots all around, no-fuel vehicles, hi-tech appliances, personalised digital world, maybe compact devices etc. This is brought into picture by tech-freaks. And someone having good knowledge about this and he/she has entrepreneurial skills as well will surely make an invention and bring it into market. <br>
-
-			Conquer in style:(for an engineer)
-			<ol class="list-item">
-				<li class="list-text">Learn with a full heart. Be open to gain knowledge, everybody wants smart people.</li>
-				<li class="list-text">Research about that thing and know the importance of that knowledge.</li>
-				<li class="list-text">Ideas will strike, build that, because innovation and new inventions are everything that people crave for.</li> 
-				<li class="list-text">Make a business plan. You will already know people from technology field, hire them.</li>
-				<li class="list-text">Let your entrepreneurial approach which is blended with technical skills show colours.</li>
-				<li class="list-text">Work hard, surely you will stand out because this is an invention.</li>
-			</ol>
-			The major obstacle is competition. But when a business is made out of technical invention it will get the required attention and market. Make the best use of time. Increase your knowledge, it can never do harm; find ways to use it and not waste it.
+				Success is sometimes achieved by talent. Talent is wonderful thing to have but it is alone not sufficient to move ahead in life because beyond a certain level, ability or talent is the  most useless word one possesses, what you do with the talent is what matters and that’s where the attitude comes in and beyond a point it’s the attitude which counts far more than talent. Talent breeds an ego and it never solves any problem beyond a point. Take my college for example- everyone is equally talented, but the bitter truth of life is that not everyone will be at the top of the ladder, some will be and some won’t be. So,what is the differentiating factor between them? ‘Attitude’<br>
+				Life is ten percent what happens to you and ninety percent how you react to it. In other words, the only thing you truly have control over is your attitude towards the things that happen around you. Whether you are facing financial difficulty or personal struggles or the current scenario due to covid 19, it is how you decide to behave that determines who you are. Like captain jack sparrow from the movie pirates of Caribbean once said -the problem is not the problem,the problem is one’s attitude about the problem. If you choose to allow the smallest things to completely takeover and alter your attitude than you will spend the entirety of your life in misery. However, if you choose to react to hardships with a positive attitude you will continue to grow and build upon your success.<br>
+				Failure. I am sure that everyone at some point, would have taken a decision that may have backfired or maybe that contract which they weren’t able to get or it was just that they weren’t the best on the day it actually mattered. The question is but how does a person bounce back? The answer is by having a right attitude. In the Australian army when they build the elite core team, they check the carrier record and if the person has never failed, they are out. They pick the people who have failed and bounced back and that is where the attitude comes through. The greatest failure is the failure to try.<br>
+				I personally have an opinion that if person has the right mindset then he has the right attitude in life. I always believe that if I don’t work hard or stop improving myself then there is someone else in this world who is working twice as hard to take an opportunity that I would have got in the future and for me this statement has helped me stay focus in whatever I am doing. So friends ,life is what you make of it, choose to suffer from its blows or keep moving forward with strength and a resiliently optimistic attitude.
 
 			</div>
 			<!-- Editor's Column-->
@@ -147,6 +132,7 @@
 				</a>
 			</div>
 			<br>
+
 			<!-- SHARE ICON -->
 			<span style="padding: 10px 20px; color: #f8f9fa ; background-color: #000000; border-radius: 50px; font-size: 18px; font-family: 'Montserrat';">SHARE</span>
 			<hr class="hr">
@@ -154,7 +140,7 @@
 			<div class="share">
             <ul class="soc">
                 <li>
-                    <a class="icon-share email" href="#" title="Email" target="_blank">
+                    <a class="icon-share email" href="mailto:?body=Hey,%20look%20at%20this%20blog%0Ahttps://www.ecellvnit.org/blog/Skill-to-success.php" title="Email" target="_blank">
                         <div class="ir"><svg viewbox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"></path></svg></div>
                     </a>
                 </li>

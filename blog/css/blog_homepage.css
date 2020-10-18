@@ -124,6 +124,9 @@ time
 	{
 		max-width: 100%;
 	}
+	.carousel-inner img{
+		object-fit: cover;
+	}
 }
 @media (min-width: 800px)
 {
@@ -131,6 +134,10 @@ time
 	{
 		padding: 5% 7%;
 	}
+	.carousel-inner img{
+		object-fit: cover;
+	}
+
 }
 @media (max-width: 500px)
 {
@@ -155,6 +162,16 @@ time
 	.h3-responsive{
 		font-size: 2.0rem;
 	}
+	.carousel-inner img{
+		height: 75vh;
+		object-fit: cover;
+	}
 
 	
+}
+@media (max-width: 320px){
+	.carousel-inner img{
+		height: 85vh;
+		object-fit: cover;
+	}
 }
