@@ -7,29 +7,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Blogs | E-Cell</title>
 
-  <link href="../css/overlay.css" rel="stylesheet">
-  <link href="../css/global/global.css" rel="stylesheet">
+  <link href="css/overlay.css" rel="stylesheet">
+  <link href="css/global/global.css" rel="stylesheet">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="../img/icon.png" type="image/x-icon">
-  <link rel="apple-touch-icon" href="../img/icon.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="..//apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="..//favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="..//favicon-16x16.png">
-  <link rel="manifest" href="..//site.webmanifest">
-  <link rel="mask-icon" href="..//safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
+  <link rel="apple-touch-icon" href="img/icon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
   <!--Local stylesheet-->
-  <link rel="stylesheet" href="css/blog_homepage.css">
-  <link rel="stylesheet" href="css/share.css">
+  <link rel="stylesheet" href="blog/css/blog_homepage.css">
+  <link rel="stylesheet" href="blog/css/share.css">
   <link rel="stylesheet" href="css/header.css">
   <!--<link rel="stylesheet" href="css/footer-style.css">-->
-  <link rel="stylesheet" href="css/header.css">
+  <link rel="stylesheet" href="blog/css/header.css">
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/footer.css">
+  <link rel="stylesheet" type="text/css" href="blog/css/footer.css">
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" />
 
@@ -37,25 +37,25 @@
 
 <body>
   <header>
-    <!--<?php include 'header.php';
+    <!--<?php /*include 'header.php';*/
       ?>-->
 
     <!------------------------------------Navbar Start------------------------------------>
     <nav class="navbar navbar-dark navbar-expand-sm">
       <div class="container">
-      	<a class="navbar-brand ml-0" href="../index.php"><img src="../img/logo-ecell.png" alt="Ecell Logo" height="60" width="120"></a>
+      	<a class="navbar-brand ml-0" href="index.php"><img src="img/logo-ecell.png" alt="Ecell Logo" height="60" width="120"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Navbar">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="Navbar">
           <ul class="navbar-nav list-unstyled ml-auto">
-            <li class="nav-item px-3"><a class="nav-link" href="../index.php">Home</a></li>
+            <li class="nav-item px-3"><a class="nav-link" href="index.php">Home</a></li>
             <!--<li class="nav-item px-3"><a class="nav-link" href="/#about">About </a></li>
             <li class="nav-item px-3"><a class="nav-link" href="/#flagship">Events </a></li>
             <li class="nav-item px-3"><a class="nav-link" href="https://startupconclave.ecellvnit.org">Startup Conclave </a></li>
             <li class="nav-item px-3"><a class="nav-link" href="spons.php">Sponsors </a></li>-->
             <li class="nav-item active px-3"><a class="nav-link" href="#">Blog</a></li>
-            <li class="nav-item px-3"><a class="nav-link" href="../team.php">Team</a></li>
+            <li class="nav-item px-3"><a class="nav-link" href="team.php">Team</a></li>
             <li class="nav-item px-3"><a class="nav-link" href="https://www.ecellvnit.org/#contact">Contact Us</a></li>
           </ul>
 
@@ -82,7 +82,7 @@
       <div class="carousel-item active">
         <div class="view">
           <!-- <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(68).jpg" alt="First slide"> -->
-          <img class="d-block w-100" src="img\image 1-05 (1).jpg" alt="First slide">
+          <img class="d-block w-100" src="blog/img/image 1-05 (1).jpg" alt="First slide">
           <div class="mask rgba-black-light"></div>
         </div>
         <div class="carousel-caption">
@@ -94,30 +94,30 @@
         <!--Mask color-->
         <div class="view">
           <!-- <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg" alt="Second slide"> -->
-          <a href="Skill-to-success.html">
-          <img class="d-block w-100" src="img\carousel image 2-05.jpg" alt="Second slide">
+          <a href="blog/Skill-to-success.php">
+          <img class="d-block w-100" src="blog/img/carousel image 2-05.jpg" alt="Second slide">
             </a>
           <div class="mask rgba-black-strong"></div>
         </div>
         <div class="carousel-caption c1">
           
-          <h3 class="h3-responsive text-left mt-0"><a href="Skill-to-success.html">Skill to Success</a></h3>
+          <h3 class="h3-responsive text-left mt-0"><a href="blog/Skill-to-success.php">Skill to Success</a></h3>
           <p class = "text-left mt-1">The most important skill to succeed in life is 'attitude' as can be seen in the case of Kambli and Tendulkar. Even though Kambli had a more impressive start to his career it was Tendulkar...<!-- who eventually ended up making his name.It's the right mindset that brings the right attitude which eventually leads to success--></br>
-          <a href = "Skill-to-success.html">Read more</a></p></div>
+          <a href = "blog/Skill-to-success.php">Read more</a></p></div>
       </div>
       <div class="carousel-item">
         <!--Mask color-->
         <div class="view">
           <!-- <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(9).jpg" alt="Third slide"> -->
-          <a href="techno-and-e-ship.html">
-          <img class="d-block w-100" src="img\carousel 3-05.jpg" alt="Third slide">
+          <a href="blog/techno-and-e-ship.php">
+          <img class="d-block w-100" src="blog/img/carousel 3-05.jpg" alt="Third slide">
         </a>
           <div class="mask rgba-black-slight"></div>
         </div>
         <div class="carousel-caption c2">
-          <h3 class="h3-responsive text-left mt-0"><a href="techno-and-e-ship.html">Technology and Entrepreneurship</a></h3>
+          <h3 class="h3-responsive text-left mt-0"><a href="blog/techno-and-e-ship.php">Technology and Entrepreneurship</a></h3>
           <p class = "text-left mt-1">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of...<!-- designing, launching and running a new business. Two different worlds--></br>
-          <a href = "techno-and-e-ship.html">Read more</a></p></div>
+          <a href = "blog/techno-and-e-ship.php">Read more</a></p></div>
         </div>
       </div>
     </div>
@@ -145,7 +145,7 @@
       <div class="row">
         <div class="col-md-5">
           <!-- <img class="blog-image" alt="cat" src="https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_960_720.jpg"> -->
-          <img class="blog-image" alt="cat" src="img/b-1.jpg">
+          <img class="blog-image" alt="cat" src="blog/img/b-1.jpg">
         </div>
 
         <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
@@ -155,7 +155,7 @@
                 <img class="profile-photo" src="https://media-exp1.licdn.com/dms/image/C4E03AQHB1Dn-bE3b-w/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=yFjsnGO5h24Yy_DIy8D00B5JJEaUB1wCLVoGMC17lgI" alt="author-Michelle's profile">
                 <figcaption>
                   <p>Rashmi Hegde<br>
-                    <time datetime="2020-06-28">17th August, 2020</time>
+                    <time datetime="2020-06-28">25th August, 2020</time>
                   </p>
                 </figcaption>
               </figure>
@@ -205,7 +205,7 @@
 
           <!------------------------------Share Icon End---------------------------->
 
-          <a href="techno-and-e-ship.html">
+          <a href="blog/techno-and-e-ship.php">
             <h1 class="display-4">Technology and Entrepreneurship</h1>
           </a>
           <p class="lead my-3">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds...</p>
@@ -219,7 +219,7 @@
       <div class="row">
         <div class="col-md-5">
           <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
-          <img class="blog-image" alt="cat and dog" src="img/b-2.jpg">
+          <img class="blog-image" alt="cat and dog" src="blog/img/b-2.jpg">
         </div>
 
         <div class="blog-desc col-md-7 ml-auto my-auto pt-lg-0 pt-4">
@@ -353,7 +353,7 @@
 
           <!------------------------------Share Icon End---------------------------->
 
-          <a href="Skill-to-success.html">
+          <a href="blog/Skill-to-success.php">
             <h1 class="display-4">Skill to Success</h1>
           </a>
           <p class="lead my-3">Eruption of joy at the fall of an Indian wicket in India can mean only one thing- these were the words spoken by Harsha Bhogle as Tendulkar walked down the stands to bat , but let’s go a few years back when he started his career, people rarely remember that, as...</p>
@@ -465,7 +465,7 @@
           <h4 class="g-color--white-opacity">Our Hosting Partner</h4>
           <div class="hosting-partner-image-container">
             <a href="https://www.znetlive.com/">
-              <img src="../img/znetlive.png" alt="hosting partner - znet">
+              <img src="img/znetlive.png" alt="hosting partner - znet">
             </a>
           </div>
         </div>
@@ -530,7 +530,7 @@
 
 
   <!-- Share js -->
-  <script src="share.js"></script>
+  <script src="blog/share.js"></script>
 
 </body>
 
