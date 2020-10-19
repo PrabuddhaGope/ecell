@@ -120,9 +120,9 @@
         </div>
         <div class="carousel-caption c2">
           <h3 class="h3-responsive text-left mt-0"><a href="blog/techno-and-e-ship.php">Technology and Entrepreneurship</a></h3>
-          <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds.</br>
+          <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none desktop-only">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds.</br>
           <a href = "blog/techno-and-e-ship.php">Read more</a></p>
-          <p class = "text-left mt-1 d-lg-none d-sm-block d-md-none d-xl-none">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of...</br>
+          <p class = "text-left mt-1 d-lg-none d-sm-block d-md-none d-xl-none mobile-only">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of...</br>
           <a href = "blog/techno-and-e-ship.php">Read more</a></p>
           </div>
 
