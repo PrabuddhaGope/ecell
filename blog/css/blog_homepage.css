@@ -130,6 +130,14 @@ time
 }
 @media (min-width: 800px)
 {
+	.desktop-only
+	{
+		display: block !important;
+	}
+	.mobile-only
+	{
+		display: none !important;
+	}
 	.blog-card-container
 	{
 		padding: 5% 7%;
@@ -141,6 +149,14 @@ time
 }
 @media (max-width: 500px)
 {
+	.desktop-only
+	{
+		display: none !important;
+	}
+	.mobile-only
+	{
+		display: block !important;
+	}
 	.blog-desc
 	{
 		padding-left: 1rem;
@@ -167,7 +183,7 @@ time
 		object-fit: cover;
 	}
 
-	
+
 }
 @media (max-width: 320px){
 	.carousel-inner img{

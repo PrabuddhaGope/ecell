@@ -100,11 +100,11 @@
           <div class="mask rgba-black-strong"></div>
         </div>
         <div class="carousel-caption c1">
-          
+
           <h3 class="h3-responsive text-left mt-0"><a href="blog/Skill-to-success.php">Skill to Success</a></h3>
-          <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none">The most important skill to succeed in life is 'attitude' as can be seen in the case of Kambli and Tendulkar. Even though Kambli had a more impressive start to his career it was Tendulkar who eventually ended up making his name.It's the right mindset that brings the right attitude which eventually leads to success</br>
+          <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none desktop-only">The most important skill to succeed in life is 'attitude' as can be seen in the case of Kambli and Tendulkar. Even though Kambli had a more impressive start to his career it was Tendulkar who eventually ended up making his name.It's the right mindset that brings the right attitude which eventually leads to success</br>
           <a href = "blog/Skill-to-success.php">Read more</a></p>
-          <p class = "text-left mt-1 d-none d-sm-block d-md-none d-xl-none">The most important skill to succeed in life is 'attitude' as can be seen in the case of Kambli and Tendulkar. Even though Kambli had a more impressive start to his career it was Tendulkar...</br>
+          <p class = "text-left mt-1 d-none d-sm-block d-md-none d-xl-none mobile-only">The most important skill to succeed in life is 'attitude' as can be seen in the case of Kambli and Tendulkar. Even though Kambli had a more impressive start to his career it was Tendulkar...</br>
           <a href = "blog/Skill-to-success.php">Read more</a></p>
 
         </div>
