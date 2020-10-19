@@ -102,12 +102,16 @@
 				<i>"Believe in miracles, but do not rely on them."</i>
 			</blockquote>
 			<!--<div class="quote-auth">-Elon Musk</div>-->
+			<br><br>
+			<!-- <hr class="hr"> -->
+			</div>
+			<br><br>
+			<!-- Blog Content Here -->
 			<br>
 			<hr class="hr">
-			</div>
-			<!-- Blog Content Here -->
+
 			<div class="main-text">
-			Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds, two different career paths but one motive-money, innovation and problem solving.<br>
+			Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds, two different career paths but one motive-money, innovation and problem solving.<br><br>
 
 			Apart from engineering there are various other fields from where business students come. Talking about IIMs, 75% are from engineering background and among these 30-35% are from NITs and IITs i.e the best students in the field of technology. Well before moving further, let us look at some philosophical lines which one has surely encountered in his/her life:
 			<ul class="list-item">
