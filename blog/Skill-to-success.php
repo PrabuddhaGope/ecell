@@ -83,12 +83,7 @@
 	<div class="content">
 		<!-- Image related to content of blog -->
 		<div class="text">
-			<!-- Quoted Text Here -->
-			<blockquote class="blockquote quote-text">
-				<i>"Practise like you have never won, perform like you have never lost"</i>
-			</blockquote>
-			<!--<div class="quote-auth">-Elon Musk</div>-->
-			<br>
+			
 			<hr class="hr">
 			<div class="author">
 				<!-- Author profile image Here -->
@@ -103,16 +98,24 @@
 					</svg>
 				</a>
 			</div>
+			<!-- Quoted Text Here -->
+			<blockquote class="blockquote quote-text">
+				<i>"Practise like you have never won, perform like you have never lost"</i>
+			</blockquote>
+			<!--<div class="quote-auth">-Elon Musk</div>-->
+			<br>
+			<hr class="hr">
 			<!-- Blog Content Here -->
 			<div class="main-text">
-				Eruption of joy at the fall of an Indian wicket in India can mean only one thing- these were the words spoken by Harsha Bhogle as Tendulkar walked down the stands to bat , but let’s go a few years back when he started his career, people rarely remember that, as he was shadowed by his friend Vinod Kambli who in his first 13 test matches scored 2 double centuries and 2 centuries and had an average of 80+. But what happened after that? Did Tendulkar come across a magic bat? or did he have that one skill which Kambli did not have and it made Tendulkar who he is today. It’s a skill that each person must have and it can either make or break him – Attitude.<br><br>
- 
-				First of all, attitude defines the ultimate outcome. The truth is that anyone out of the list of the most successful people of the world will tell you that their success would not have existed without an appropriate attitude. It does not matter in which sphere a person is involved in, it is an attitude that guarantees the winning line. Therefore, a correct and a desired attitude towards the work one performs  is the key towards success.<br><br>
+			   “Eruption of joy at the fall of an Indian wicket can only mean one thing ”- these were the words spoken by Harsha Bhogle as Tendulkar walked down the test stands to bat. But let’s backtrack a bit to when he started his career, people rarely commended him, as he was shadowed by his friend Vinod Kambli who in his first 13 test matches scored 2 double centuries and 2 centuries and had an average of 80+. But what happened after that? Did Tendulkar come across a magic bat? Or perhaps he had that one skill which Kambli did not, and it made Tendulkar who he is today. It’s a skill that each person must have and it can either make or break them– Attitude.<br><br>
 
-				Success is sometimes achieved by talent. Talent is wonderful thing to have but it is alone not sufficient to move ahead in life because beyond a certain level, ability or talent is the  most useless word one possesses, what you do with the talent is what matters and that’s where the attitude comes in and beyond a point it’s the attitude which counts far more than talent. Talent breeds an ego and it never solves any problem beyond a point. Take my college for example- everyone is equally talented, but the bitter truth of life is that not everyone will be at the top of the ladder, some will be and some won’t be. So,what is the differentiating factor between them? ‘Attitude’<br>
-				Life is ten percent what happens to you and ninety percent how you react to it. In other words, the only thing you truly have control over is your attitude towards the things that happen around you. Whether you are facing financial difficulty or personal struggles or the current scenario due to covid 19, it is how you decide to behave that determines who you are. Like captain jack sparrow from the movie pirates of Caribbean once said -the problem is not the problem,the problem is one’s attitude about the problem. If you choose to allow the smallest things to completely takeover and alter your attitude than you will spend the entirety of your life in misery. However, if you choose to react to hardships with a positive attitude you will continue to grow and build upon your success.<br>
-				Failure. I am sure that everyone at some point, would have taken a decision that may have backfired or maybe that contract which they weren’t able to get or it was just that they weren’t the best on the day it actually mattered. The question is but how does a person bounce back? The answer is by having a right attitude. In the Australian army when they build the elite core team, they check the carrier record and if the person has never failed, they are out. They pick the people who have failed and bounced back and that is where the attitude comes through. The greatest failure is the failure to try.<br>
-				I personally have an opinion that if person has the right mindset then he has the right attitude in life. I always believe that if I don’t work hard or stop improving myself then there is someone else in this world who is working twice as hard to take an opportunity that I would have got in the future and for me this statement has helped me stay focus in whatever I am doing. So friends ,life is what you make of it, choose to suffer from its blows or keep moving forward with strength and a resiliently optimistic attitude.
+			    First of all, attitude defines the ultimate outcome. The truth that any one of the  most successful people in the world will tell you is that their success would not have existed without an appropriate attitude. It does not matter in which sphere a person is involved in, it is their attitude that guarantees the winning line. Therefore, a fitting and desired attitude towards the work one performs is the key towards their success. <br><br>
+
+				Success is sometimes achieved by talent. Talent is wonderful thing to have but it alone is not sufficient to move ahead in life because beyond a certain level, ability or talent becomes commonplace and thereby a redundant quality to possess, what one does with the talent is what matters and that’s where the attitude comes in and beyond a point it is the attitude which counts far more than talent. Talent breeds an ego and it never solves any problem beyond a point. Take any educational institute for example- each member is almost equally talented, but the bitter truth of life is that not everyone will be at the top of the ladder, some will be and some won’t be. So,what is the differentiating factor between them? ‘Attitude’<br>
+				Life is ten percent what happens to you and ninety percent how you react to it. In other words, the only thing one truly has control over is their attitude towards the things that happen around them. Whether one is facing a financial difficulty or perhaps some personal struggles due to covid 19, it is how they decide to behave that determines who they are. As Captain Jack Sparrow from the Pirates of Caribbean film franchise says -“The problem is not the problem, the problem is your attitude about the problem.” If you choose to allow the smallest things to completely takeover and alter your attitude than you will spend the entirety of your life in misery. However, if you choose to react to your hardships with a positive attitude you will continue to grow and build upon your success.<br>
+				<b>Failure</b>. I am sure that everyone at some point,must have taken a decision that backfired or maybe that contract which they weren’t able to get or it was just that they weren’t the best on the day it actually mattered. The question is, but how does a person bounce back? The answer is by having the right attitude. In the Australian army when they build the elite core team, they check the career record and if the person has never failed, they are out. They pick the people who have failed and bounced back and that is where the attitude comes through. The greatest failure is the failure to try.<br>
+				Personally, I am of the opinion that if a person has the right mindset then he has the right attitude in life. I always believe that if I don’t work hard or stop improving myself then there is someone else in this world who is working twice as hard to take an opportunity that I would have gotten in the future and for me this statement has helped me stay focused in life. So friends ,life is what you make of it, choose to suffer from its blows or keep moving forward with strength and a resiliently optimistic attitude.
+
 
 			</div>
 			<!-- Editor's Column-->

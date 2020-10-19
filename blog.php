@@ -86,7 +86,7 @@
           <div class="mask rgba-black-light"></div>
         </div>
         <div class="carousel-caption">
-          <h3 class="h3-responsive ">Ecell Blogs</h3>
+          <h3 class="h3-responsive ">E-Cell Blogs</h3>
           <p class="text-center para">E-Cell VNIT's very own blog. We cover a wide range of topics such as ideation, investments, journeys of famous startups and everything else related to entrepreneurship</p>
         </div>
       </div>
@@ -102,8 +102,12 @@
         <div class="carousel-caption c1">
           
           <h3 class="h3-responsive text-left mt-0"><a href="blog/Skill-to-success.php">Skill to Success</a></h3>
-          <p class = "text-left mt-1">The most important skill to succeed in life is 'attitude' as can be seen in the case of Kambli and Tendulkar. Even though Kambli had a more impressive start to his career it was Tendulkar...<!-- who eventually ended up making his name.It's the right mindset that brings the right attitude which eventually leads to success--></br>
-          <a href = "blog/Skill-to-success.php">Read more</a></p></div>
+          <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none">The most important skill to succeed in life is 'attitude' as can be seen in the case of Kambli and Tendulkar. Even though Kambli had a more impressive start to his career it was Tendulkar who eventually ended up making his name.It's the right mindset that brings the right attitude which eventually leads to success</br>
+          <a href = "blog/Skill-to-success.php">Read more</a></p>
+          <p class = "text-left mt-1 d-none d-sm-block d-md-none d-xl-none">The most important skill to succeed in life is 'attitude' as can be seen in the case of Kambli and Tendulkar. Even though Kambli had a more impressive start to his career it was Tendulkar...</br>
+          <a href = "blog/Skill-to-success.php">Read more</a></p>
+
+        </div>
       </div>
       <div class="carousel-item">
         <!--Mask color-->
@@ -116,8 +120,12 @@
         </div>
         <div class="carousel-caption c2">
           <h3 class="h3-responsive text-left mt-0"><a href="blog/techno-and-e-ship.php">Technology and Entrepreneurship</a></h3>
-          <p class = "text-left mt-1">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of...<!-- designing, launching and running a new business. Two different worlds--></br>
-          <a href = "blog/techno-and-e-ship.php">Read more</a></p></div>
+          <p class = "text-left mt-1 d-lg-block d-md-block d-sm-none">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of designing, launching and running a new business. Two different worlds.</br>
+          <a href = "blog/techno-and-e-ship.php">Read more</a></p>
+          <p class = "text-left mt-1 d-lg-none d-sm-block d-md-none d-xl-none">Let us decode this, starting it raw. Technology is defined as the application of scientific knowledge for practical purposes in industries. Entrepreneurship is defined as the process of...</br>
+          <a href = "blog/techno-and-e-ship.php">Read more</a></p>
+          </div>
+
         </div>
       </div>
     </div>
